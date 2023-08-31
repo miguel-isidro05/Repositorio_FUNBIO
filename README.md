@@ -1,9 +1,10 @@
 # Repositorio_FUNBIO
 <img src="Imágenes/imagen1.jpg"/>
+
 ### Ingenieria Biomedica PUCP-UPCH
 Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Bidiseño
 
-Proyecto: Analizando señales de un electromiograma (EMG)
+Tema de proyecto: Amputación
 
 ### Integrantes:
 - Alessandra Valle Montoya
