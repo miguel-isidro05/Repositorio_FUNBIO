@@ -2,12 +2,14 @@
 <image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
 
 </p>
-  <h4 align="center">
+  <h3 align="center">
      Ingenieria Biomedica PUCP-UPCH
-  </h4>
+  </h3>
+  <h5 align="center">
+     Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Biodiseño
+  </h5>
 </p>
 
-Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Biodiseño
 
 </p>
   <h4 align="center">
