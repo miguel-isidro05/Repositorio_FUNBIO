@@ -13,9 +13,7 @@ Tema de proyecto: Amputación
 -
 - 
 ### Contexto:
-###     contexto mundial 
-###     contexto del peru
-
-### Estado del arte
-
-### Bibliografía
+##  Contexto mundial 
+##  Contexto del peru
+## Estado del arte
+## Bibliografía
