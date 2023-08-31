@@ -2,8 +2,8 @@
 ### Ingenieria Biomedica PUCP-UPCH
 
 # Integrantes:
-# -Alessandra Valle Montoya
-# -
-# -
-# -
-# - 
+### -Alessandra Valle Montoya
+### -
+### -
+### -
+### - 
