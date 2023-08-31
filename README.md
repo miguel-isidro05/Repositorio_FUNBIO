@@ -4,9 +4,9 @@
 ## Ingenieria Biomedica PUCP-UPCH
 Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Biodiseño
 </p>
-  <h2 align="center">
+  <h4 align="center">
     Tema de proyecto: Amputación
-  </h2>
+  </h4>
 
 </p>
 
