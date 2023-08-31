@@ -27,6 +27,7 @@
 | 💻 Miguel Eduardo Isidro Baez  |  Coordinador de Página Web y Programación   |<a href="https://github.com/miguel-isidro05"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
 | 📰 Jose Fernando Mamami Condori |  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
 | 🦿 Wilber Mauricio Zenteno Castilla  |  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
+
 ## Contexto:
 ### 1. Contexto mundial 
 ### 2. Contexto del peru
