@@ -1,5 +1,5 @@
 # Repositorio_FUNBIO
-<image border="1000px solid black;" padding="10px;" align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
+<image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
 
 </p>
   <h3 align="center">
