@@ -16,9 +16,10 @@ Tema de proyecto: Amputación
 | Fernando |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
 | Mauricio  |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
 
-### Temática del proyecto
 ## Contexto:
 ### 1. Contexto mundial 
 ### 2. Contexto del peru
+
 ## Estado del arte
+
 ## Bibliografía
