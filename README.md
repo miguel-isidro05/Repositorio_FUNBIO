@@ -10,3 +10,10 @@ Proyecto: Analizando señales de un electromiograma (EMG)
 -
 -
 - 
+### Contexto:
+### contexto mundial 
+### contexto del peru
+
+### Estado del arte
+
+### Bibliografía
