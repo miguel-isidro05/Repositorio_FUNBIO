@@ -1,8 +1,14 @@
 # Repositorio_FUNBIO
 <image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
-  
-## Ingenieria Biomedica PUCP-UPCH
+
+</p>
+  <h4 align="center">
+     Ingenieria Biomedica PUCP-UPCH
+  </h4>
+</p>
+
 Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Biodiseño
+
 </p>
   <h4 align="center">
     Tema de proyecto: Amputación
