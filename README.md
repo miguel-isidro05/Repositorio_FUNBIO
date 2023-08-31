@@ -12,7 +12,7 @@ Tema de proyecto: Amputación
 | Alessandra Valle Montoya |  Coordinador   |<image src ="https://github.com/miguel-isidro05">  |
 | Ariana |Coordinador     |<image src ="Imagen/prosim4f.png"> |
 | Itzel  |  Coordinador    |<image src ="Imagen/descarga.jfif"> |
-| Miguel  |  Coordinador   |<image src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
+| Miguel  |  Coordinador   |<image style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
 | Fernando |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
 | Mauricio  |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
 
