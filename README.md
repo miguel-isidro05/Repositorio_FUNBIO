@@ -1,5 +1,7 @@
 # Repositorio_FUNBIO
-<image style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
+<p align="center">
+  ⚛️ 📄 🚀
+</p><image style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
 ## Ingenieria Biomedica PUCP-UPCH
 Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Bidiseño
 
