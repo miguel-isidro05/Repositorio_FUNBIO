@@ -9,13 +9,12 @@ Tema de proyecto: Amputación
 ## Asignacion de roles
 | Integrantes | Rol | Perfil Github |
 | ------------- | ------------- |------------- |
-| Alessandra Valle Montoya |  Coordinador   |<image src ="https://github.com/miguel-isidro05">  |
-| Ariana |Coordinador     |<image src ="Imagen/prosim4f.png"> |
-| Itzel  |  Coordinador    |<image src ="Imagen/descarga.jfif"> |
-| Miguel  |  Coordinador   |<image style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
-| Fernando |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
-| Mauricio  |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
-
+| Alessandra Valle Montoya |  Coordinador de Electrónica y Programación  |<image src ="https://github.com/miguel-isidro05">  |
+| Ariana |Coordinador General    |<image src ="Imagen/prosim4f.png"> |
+| Itzel  |  Coordinadora de Planos y Bocetos |<image src ="Imagen/descarga.jfif"> |
+| Miguel  |  Coordinadora de Página Web y Programación |<image src ="Imagen/arduino-nano-33-iot.webp">  |
+| Fernando |  Coordinador de Investigación |<image src ="Imagen/arduino-nano-33-iot.webp">  |
+| Mauricio  |  Coordinadora de Producción Digital y Prototipado   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
 ## Contexto:
 ### 1. Contexto mundial 
 ### 2. Contexto del peru
