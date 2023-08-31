@@ -1,6 +1,30 @@
 # Repositorio_FUNBIO
 <image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
 
+<style>
+    .letras {
+      font-size: 48px;
+      font-weight: bold;
+      color: red;
+      animation: animacion 2s infinite;
+    }
+    @keyframes animacion {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="letras">¡Hola, mundo!</div>
+</body>
+
 </p>
   <h3 align="center">
     ----------------------------        Ingenieria Biomedica PUCP-UPCH        ----------------------------
