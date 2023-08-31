@@ -31,6 +31,10 @@
 ### 1. Contexto mundial 
 ### 2. Contexto del peru
 
+## Problemática:
+### 1. Análisis
+### 2. Pregunta Reto
+
 ## Estado del arte
 
 ## Bibliografía
