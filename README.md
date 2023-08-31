@@ -1,5 +1,7 @@
 # Repositorio_FUNBIO
-<img src="Imágenes/imagen1.jpg"/>
+<p align="center">
+    <img src="docs/images/HeartImage__GordonJohnson__Pixabay.png" alt="Imagen de un corazón y un electrocardiograma de dos latidos normales" />
+</p>
 
 ## Ingenieria Biomedica PUCP-UPCH
 Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Bidiseño
