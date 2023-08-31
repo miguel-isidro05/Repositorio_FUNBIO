@@ -23,11 +23,11 @@
 | Integrantes | Rol | Perfil Github |
 | ------------- | ------------- |------------- |
 | 🥼 Alessandra Valle Montoya |  Coordinadora de Electrónica y Programación  |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018589?v=4">   |
-| 🗣️ Ariana |Coordinadora General  |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143196783?v=4"> |
-| ✍️ Itzel  |  Coordinadora de Planos y Bocetos   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143201186?v=4">  |
-| 💻 Miguel  |  Coordinador de Página Web y Programación   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
-| 📰 Fernando |  Coordinador de Investigación   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
-| 🦿 Mauricio  |  Coordinador de Producción Digital y Prototipado   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
+| 🗣️ Ariana Geraldine Tania Roca Pérez |Coordinadora General  |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143196783?v=4"> |
+| ✍️ Itzel Miyeko De la Cruz Galvez  |  Coordinadora de Planos y Bocetos   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143201186?v=4">  |
+| 💻 Miguel Eduardo Isidro Baez  |  Coordinador de Página Web y Programación   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
+| 📰 Jose Fernando Mamami Condori |  Coordinador de Investigación   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
+| 🦿 Wilber Mauricio Zenteno Castilla  |  Coordinador de Producción Digital y Prototipado   |<image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
 ## Contexto:
 ### 1. Contexto mundial 
 ### 2. Contexto del peru
