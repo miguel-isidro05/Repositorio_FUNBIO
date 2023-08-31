@@ -3,10 +3,10 @@
 
 </p>
   <h3 align="center">
-     *Ingenieria Biomedica PUCP-UPCH*
+     Ingenieria Biomedica PUCP-UPCH
   </h3>
   <h5 align="center">
-     Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Biodiseño //Animacion de las letras apareciendo //
+     _Bienvenidos al repositorio del Grupo 14 del curso Fundamentos de Biodiseño_
   </h5>
 </p>
 
