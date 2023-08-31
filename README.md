@@ -1,6 +1,6 @@
 # Repositorio_FUNBIO
 <p align="center">
-    < Imágenes/imagen_read.png />
+    < img src= "Imágenes/imagen_read.png" />
 </p>
 
 ## Ingenieria Biomedica PUCP-UPCH
