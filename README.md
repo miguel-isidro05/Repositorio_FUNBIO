@@ -9,7 +9,7 @@ Tema de proyecto: Amputación
 ## Asignacion de roles
 | Integrantes | Rol | Perfil Github |
 | ------------- | ------------- |------------- |
-| Alessandra Valle Montoya |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
+| Alessandra Valle Montoya |  Coordinador   |<image src ="https://github.com/miguel-isidro05">  |
 | Ariana |Coordinador     |<image src ="Imagen/prosim4f.png"> |
 | Itzel  |  Coordinador    |<image src ="Imagen/descarga.jfif"> |
 | Miguel  |  Coordinador   |<image src ="Imagen/arduino-nano-33-iot.webp">  |
