@@ -15,9 +15,24 @@
   <h5 align="center">
     Tema de proyecto: Amputación
   </h5>
-
+  
 </p>
-
+<style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      font-family: Times New Roman, serif;
+    }
+    p {
+      font-family: Courier New, monospace;
+    }
+  </style>
+</head>
+<body>
+  <h1>¡Hola, mundo!</h1>
+  <p>Este es un párrafo.</p>
+</body>
 
 ## Asignacion de roles
 | Integrantes | Rol | Perfil Github |
