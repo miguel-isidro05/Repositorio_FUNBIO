@@ -12,9 +12,9 @@
 
 
 </p>
-  <h4 align="center">
+  <h5 align="center">
     Tema de proyecto: Amputación
-  </h4>
+  </h5>
 
 </p>
 
