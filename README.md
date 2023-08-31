@@ -1,36 +1,5 @@
 # Repositorio_FUNBIO
-<image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
-<div class="container">
-  <div class="text">
-    <h1>¡Hola, mundo!</h1>
-  </div>
-</div>
-<style>
-.container {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.text {
-  font-size: 48px;
-  font-weight: bold;
-  color: red;
-  animation: animacion 2s infinite;
-}
-@keyframes animacion {
-  0% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
-}
-</style>
+<image border="1px;" align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
 
 </p>
   <h3 align="center">
