@@ -1,6 +1,6 @@
 # Repositorio_FUNBIO
 <p align="center">
-    <img src="docs/images/HeartImage__GordonJohnson__Pixabay.png" alt="Imagen de un corazón y un electrocardiograma de dos latidos normales" />
+    < Imágenes/imagen_read.png />
 </p>
 
 ## Ingenieria Biomedica PUCP-UPCH
