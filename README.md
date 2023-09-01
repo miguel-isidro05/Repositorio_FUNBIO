@@ -103,4 +103,8 @@ https://doi.org/10.1007/s10439-020-02678-8
 - Jui Hong Chien, Anna Korzeniewska, Luana Colloca, Claudia Campbell, Patrick Dougherty, & Frederick Lenz. (2017). Human Thalamic Somatosensory Nucleus (Ventral Caudal, Vc) as a Locus for Stimulation by INPUTS from Tactile, Noxious and Thermal Sensors on an Active Prosthesis. Maurizio Valle.
 https://www.mdpi.com/1424-8220/17/6/1197 
 
+-Castro, J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002 Lima: Universidad Nacional Mayor de San Marcos, Facultad de Medicina, Unidad de Posgrado; 2006.		
+https://hdl.handle.net/20.500.12672/15921
+
+
 
