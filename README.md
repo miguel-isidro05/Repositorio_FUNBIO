@@ -3,7 +3,7 @@
 
 </p>
   <h3 align="center">
-    ----------------------------        Ingenieria Biomedica PUCP-UPCH        ----------------------------
+Ingenieria Biomedica PUCP-UPCH
   </h3>
   <h5 align="center">
      Bienvenidos al repositorio del Grupo 14 del curso "Fundamentos de Biodiseño"
@@ -33,7 +33,8 @@
 ### 2. Contexto del peru
 
 ## Problemática:
-### 1. Análisis
+### 1. Análisis:
+Existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
 ### 2. Pregunta Reto
 
 ## Estado del arte
