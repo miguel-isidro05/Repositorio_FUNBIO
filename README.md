@@ -34,6 +34,7 @@ Ingenieria Biomedica PUCP-UPCH
 
 ## Problemática:
 ### 1. Análisis:
+Las prótesis para miembros superiores enfrentan un problema significativo relacionado con la falta de un sistema adecuado para proporcionar retroalimentación sensorial a los usuarios (Garcia, n.d.). A pesar de medir variables sensoriales como la fuerza y la posición, estas no se transmiten adecuadamente al usuario o se presentan de manera poco clara, lo que dificulta el procedimiento. Esto puede resultar en problemas de control y, en última instancia, en el abandono del dispositivo. Es por ello que la implementación de un sistema de realimentación sensorial reviste gran importancia para mejorar el comando de la prótesis y, por lo tanto, mejorar su aceptación.
 
 ### 2. Pregunta Reto
 ¿Cómo podríamos disminuir la deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
