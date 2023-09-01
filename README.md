@@ -30,7 +30,7 @@ Ingenieria Biomedica PUCP-UPCH
 
 ## Contexto:
 ### 1. Contexto mundial 
-### 2. Contexto del peru
+### 2. Contexto del Perú
 
 ## Problemática:
 ### 1. Análisis:
