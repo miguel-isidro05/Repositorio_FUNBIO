@@ -36,15 +36,17 @@ Cuando una persona pierde alguna extremidad y usa una protesis mecanica existe e
 
 ### 2. Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012. En el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
-Un enfoque a darse está en la prótesis mecánica , 3D. Por su elevado porcentaje de precisión, fuerza y estética. Además de su alto grado de rehabilitación pues funciona mediante sensores en los músculos de nuestro cuerpo, que a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana.  
 
-<image align="center;" width="600px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
+Un enfoque a darse está en la prótesis mecánica , 3D. Por su elevado porcentaje de precisión, fuerza y estética. Además de su alto grado de rehabilitación pues funciona mediante sensores en los músculos de nuestro cuerpo, que a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana. 
 
-<image align="center;" width="600px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%202.jpg">
+Asimismo, la principal causa de amputación en el miembro superior fue por accidentes de trabajo, las cuales estan dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
+
+<image align="center;" width="500px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
+
+<image align="center;" width="500px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%202.jpg">
   
 Las presentes estadísticas fueron recolectadas según el Instituto Especializado de Rehabilitación (INER).
 
-Según la presente tabla, la principal causa de amputación en el miembro superior fue por accidentes de trabajo ,que esta dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
 
 ## Usuario
 Paciente del género masculino entre el rango de 21 a 30 años de edad con amputación transmetacarpiana con dificultades en el comando de su prótesis, que reside en Lima, Perú.
@@ -103,7 +105,7 @@ https://doi.org/10.1007/s10439-020-02678-8
 - Jui Hong Chien, Anna Korzeniewska, Luana Colloca, Claudia Campbell, Patrick Dougherty, & Frederick Lenz. (2017). Human Thalamic Somatosensory Nucleus (Ventral Caudal, Vc) as a Locus for Stimulation by INPUTS from Tactile, Noxious and Thermal Sensors on an Active Prosthesis. Maurizio Valle.
 https://www.mdpi.com/1424-8220/17/6/1197 
 
--Castro, J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002 Lima: Universidad Nacional Mayor de San Marcos, Facultad de Medicina, Unidad de Posgrado; 2006.		
+- Castro, J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002 Lima: Universidad Nacional Mayor de San Marcos, Facultad de Medicina, Unidad de Posgrado; 2006.		
 https://hdl.handle.net/20.500.12672/15921
 
 
