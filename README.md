@@ -73,8 +73,25 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 
 ## Bibliografía
-Stepp, C. E., & Matsuoka, Y. (2011). Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society, 19(6), 677–685. https://doi.org/10.1109/TNSRE.2011.2168981 
+- Stepp, C. E., & Matsuoka, Y. (2011). Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society, 19(6), 677–685. https://doi.org/10.1109/TNSRE.2011.2168981 
 
-Wilke, M. A., Niethammer, C., Meyer, B., Farina, D., & Dosen, S. (2019). Psychometric characterization of incidental feedback sources during grasping with a hand prosthesis. Journal of neuroengineering and rehabilitation, 16(1), 155. https://doi.org/10.1186/s12984-019-0622-9 
+- Wilke, M. A., Niethammer, C., Meyer, B., Farina, D., & Dosen, S. (2019). Psychometric characterization of incidental feedback sources during grasping with a hand prosthesis. Journal of neuroengineering and rehabilitation, 16(1), 155. https://doi.org/10.1186/s12984-019-0622-9 
 
-Pardo, L. A., Jr, Markovic, M., Schilling, A. F., Wilke, M. A., & Ernst, J. (2022). Vibrotactile mapping of the upper extremity: Absolute perceived intensity is location-dependent; perception of relative changes is not. Frontiers in neuroscience, 16, 958415. https://doi.org/10.3389/fnins.2022.958415
+- Pardo, L. A., Jr, Markovic, M., Schilling, A. F., Wilke, M. A., & Ernst, J. (2022). Vibrotactile mapping of the upper extremity: Absolute perceived intensity is location-dependent; perception of relative changes is not. Frontiers in neuroscience, 16, 958415. https://doi.org/10.3389/fnins.2022.958415
+
+- Garzón, M. O., Garcés, M., Isaza, D., Jaramillo, S. C., Latorre, V., & Valderrama, S. (2019). Characterization of workers covered by a risk insurance company in Colombia who suffered amputation. Revista Brasileira de Medicina do Trabalho. https://doi.org/10.5327/z1679443520190402
+
+- Camacho-Conchucos, H. T. (s. f.). Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
+
+- G367: Tema 2. Funciones sensoriales: Sistema somatosensorial. (s. f.). https://ocw.unican.es/mod/page/view.php?id=541&lang=en
+
+- Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002. (2002). Microsoft Word - Trabajo Investigacion UNMSM2.doc. https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/15921/Castro_aj.pdf?sequence=1&isAllowed=y  
+
+- Fontana, J. M., & Molisani, L. (2013). Evaluación de un sistema vibrotactil para sustitución sensorial en prótesis de miembro superior. ResearchGate. https://www.researchgate.net/publication/264551048_Evaluacion_de_un_Sistema_Vibrotactil_para_Sustitucion_Sensorial_en_Protesis_de_Miembro_Superior
+
+- Masteller, A., Sankar, S., Kim, H. B., Ding, K., Liu, X., & All, A. H. (2020). Recent developments in prosthesis sensors, texture recognition, and sensory stimulation for upper limb prostheses. Annals of Biomedical Engineering, 49(1), 57-74. https://doi.org/10.1007/s10439-020-02678-8
+
+- Jui Hong Chien, Anna Korzeniewska, Luana Colloca, Claudia Campbell, Patrick Dougherty, & Frederick Lenz. (2017). Human Thalamic Somatosensory Nucleus (Ventral Caudal, Vc) as a Locus for Stimulation by INPUTS from Tactile, Noxious and Thermal Sensors on an Active Prosthesis. Maurizio Valle. 
+https://www.mdpi.com/1424-8220/17/6/1197 
+
+
