@@ -62,7 +62,7 @@ Las prótesis para miembros superiores enfrentan un problema significativo relac
 ¿Cómo podríamos disminuir la deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
 
 ## Estado del arte
-Se hizo una investigación sobre  el estado de arte dirigido a la problemática propuesta anteriormente. Tras analizar la información obtenida, elegimos las propuestas que consideramos más convenientes e importantes:
+Se hizo una investigación sobre el estado de arte dirigido a la problemática. Tras analizar la información obtenida, se eligieron las propuestas más convenientes e importantes:
 
 ### Desarrollo de una prótesis mioeléctrica de miembro superior con amputación transradial por medio del uso de tecnologías 3D.
 Este método consiste en una prótesis mioeléctrica controlada por señales electromiográficas producidas mediante la contracción de un músculo, buscando el acondicionamiento de la persona a la manipulación de diferentes objetos y a su entorno. Este recurso es de gran eficiencia y adaptabilidad debido a que es autónoma, resistente, segura y liviana. Sin embargo, la desventaje de este recurso es que es invasivo para el usuario, la prótesis es accionada por actuadores que se controlan a través de señales señales electromoigráficas, las cuales se obtiene mediante agujas intramusculares superficiales o por medio de electrodos colocados en el muñón del paciente; además cuenta con una interfaz para captar, manipular y procesar las señales señales electromoigráficas provenientes de los músculos a nivel superficial.
