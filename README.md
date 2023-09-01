@@ -39,13 +39,13 @@ Las prótesis para miembros superiores enfrentan un problema significativo relac
 ### 2. Pregunta Reto
 ¿Cómo podríamos disminuir la deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
 ## Estado del arte
-### -Desarrollo de una prótesis mioeléctrica de miembro superior con amputación transradial por medio del uso de tecnologías 3D
+### Desarrollo de una prótesis mioeléctrica de miembro superior con amputación transradial por medio del uso de tecnologías 3D
 Este método consiste en una prótesis mioeléctrica controlada por señales electromiográficas producidas mediante la contracción de un músculo, buscando el acondicionamiento de la persona a la manipulación de diferentes objetos y a su entorno. Es de gran eficiencia y adaptabilidad debido a que es autónoma, resistente, segura y liviana.
 </p>
-### -Retroalimentación vibrotáctil y visual para la estimulación de diferentes partes del cuerpo durante la manipulación de objetos
+### Retroalimentación vibrotáctil y visual para la estimulación de diferentes partes del cuerpo durante la manipulación de objetos
 La mayoría de las prótesis de mano no proporcionan retroalimentación háptica intencional sobre el desempeño del movimiento, limitando a los usuarios de solo obtener la información acerca del estado de la prótesis a través de la vista. No obstante, existen diferentes sitios del cuerpo como dedo, brazo cuello y pie donde, a través de un interfaz robótica es posible manipular un objeto virtual con retroalimentación visual y vibrotáctil. “Investigaciones futuras justifican la identificación de mejoras en los parámetros de retroalimentación basados ​​en vibrotáctiles en amputados”, sin embargo los hallazgos al aumentar la dificultad de una tarea, no fueron favorables, pues lo usuarios no mostraron diferencias en su preferencia en los sitios de estimulación vibrotáctil.
 </p>
-### -Caracterización psicométrica de fuentes incidentales de retroalimentación durante el agarre con una prótesis de mano.
+### Caracterización psicométrica de fuentes incidentales de retroalimentación durante el agarre con una prótesis de mano.
 Las prótesis comerciales actuales generalmente no incorporan retroalimentación somatosensorial; utilizar una prótesis depende en parte de información sensorial. Estudios donde se evalúa el funcionamiento de la prótesis para evaluar el funcionamiento de la una prótesis con propiedades psicométricas de retroalimentación auditiva y visual del movimiento de la prótesis fueron exitosos para demostrar el efecto artificial de la retroalimentación del usuario y la prótesis. Además, el uso de mapeo vibrotáctil es una herramienta principal para el sentido del tacto, el estudio concluyó que la percepción de estímulos vibrotáctiles cambian dinámicamente.
 </p>
 ### -Núcleo somatosensorial talámico humano como lugar de estimulación mediante ENTRADAS de sensores táctiles nocivos y térmicos en una prótesis activa 
