@@ -53,7 +53,7 @@ Las presentes estadísticas fueron recolectadas según el Instituto Especializad
 Paciente del género masculino entre el rango de 21 a 30 años de edad con amputación transmetacarpiana con dificultades en el comando de su prótesis, que reside en Lima, Perú.
 
 ## Problemática
-La problemática de nuestro proyecto es que existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
+Existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
 
 ### 1. Análisis.
 Las prótesis para miembros superiores enfrentan un problema significativo relacionado con la falta de un sistema adecuado para proporcionar retroalimentación sensorial a los usuarios (Garcia, n.d.). A pesar de medir variables sensoriales como la fuerza y la posición, estas no se transmiten adecuadamente al usuario, lo que dificulta el procedimiento. Esto puede resultar en problemas de control y, en última instancia, en el abandono del dispositivo. Es por ello que la implementación de un sistema de realimentación sensorial reviste gran importancia para mejorar el comando de la prótesis y, por lo tanto, mejorar su aceptación.
