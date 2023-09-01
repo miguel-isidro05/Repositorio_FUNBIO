@@ -54,3 +54,8 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 
 ## Bibliografía
+Stepp, C. E., & Matsuoka, Y. (2011). Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society, 19(6), 677–685. https://doi.org/10.1109/TNSRE.2011.2168981 
+
+Wilke, M. A., Niethammer, C., Meyer, B., Farina, D., & Dosen, S. (2019). Psychometric characterization of incidental feedback sources during grasping with a hand prosthesis. Journal of neuroengineering and rehabilitation, 16(1), 155. https://doi.org/10.1186/s12984-019-0622-9 
+
+Pardo, L. A., Jr, Markovic, M., Schilling, A. F., Wilke, M. A., & Ernst, J. (2022). Vibrotactile mapping of the upper extremity: Absolute perceived intensity is location-dependent; perception of relative changes is not. Frontiers in neuroscience, 16, 958415. https://doi.org/10.3389/fnins.2022.958415
