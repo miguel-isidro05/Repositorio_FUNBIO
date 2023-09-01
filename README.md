@@ -30,8 +30,20 @@ Ingenieria Biomedica PUCP-UPCH
 
 ## Contexto
 ### 1. Contexto mundial. 
+Los receptores de estímulos sensoriales convierten la energía del estímulo en una señal nerviosa que nos permite a nosotros percibir diferentes estímulos del mundo exterior. Dichos receptores según la naturaleza física del estímulo se podrían clasificar en mecanorreceptores, termorreceptores, nociceptores, fotorreceptores y quimiorreceptores. Es por eso que el conjunto de dichos receptores es importante para que podamos sentir nuestro entorno por lo que la ausencia de alguna extremidad o parte de nuestro cuerpo podría tener efectos negativos psicológicamente. De acuerdo a un estudio llamado “Characterization of workers covered by a risk insurance company in Colombia who suffered amputation”. En colombia se identificó que las poblacion masculina adulta que comprende entre los 36 - 55 años de edad cubría el 51.8 % de las personas analizadas sufrió algún accidente que resultó en la amputación de alguna extremidad o parte de su cuerpo, principalmente dicho problema se suscita con más frecuencia en la región andina pues 73.5% de las personas analizadas pertenecen a esta parte demográfica en específico más que todo pues en la región andina predominan trabajos manuales que representan un peligro para la persona que los realice.  
+
+Por otro lado, según un estudio realizado por Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. “Estimating the prevalence of limb loss in the United States: 2005 to 2050” en el año 2005, 1.6 millones de personas en los Estados Unidos vivían con la perdida de alguna extremidad. En la actualidad alrededor de 2.1 millones de personas viven sin alguna extremidad y  se estima que esta cifra para el año 2050 ascienda a 3.6 millones de personas. Actualmente la falta de sensibilidad en prótesis mecánicas y mioeléctrica para el transmetacarpiana en especial el dedo pulgar desemboca en problemas de falta de aplicación de fuerza o presion en algun objeto lo cual genera problemas tanto psicologicos como fisicos.
+
 ### 2. Contexto del Perú.
+De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012. En el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
+Un enfoque a darse está en la prótesis mecánica , 3D. Por su elevado porcentaje de precisión, fuerza y estética. Además de su alto grado de rehabilitación pues funciona mediante sensores en los músculos de nuestro cuerpo, que a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana.  
+
+Las presentes estadísticas fueron recolectadas según el Instituto Especializado de Rehabilitación (INER).
+
+Según la presente tabla, la principal causa de amputación en el miembro superior fue por accidentes de trabajo ,que esta dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
+
 ## Usuario
+Paciente del género masculino entre 21 y 30 años que realiza trabajos manuales y de alto riesgo con amputación transmetacarpiana. 
 ## Problemática
 ### 1. Análisis.
 Las prótesis para miembros superiores enfrentan un problema significativo relacionado con la falta de un sistema adecuado para proporcionar retroalimentación sensorial a los usuarios (Garcia, n.d.). A pesar de medir variables sensoriales como la fuerza y la posición, estas no se transmiten adecuadamente al usuario , lo que dificulta el procedimiento. Esto puede resultar en problemas de control y, en última instancia, en el abandono del dispositivo. Es por ello que la implementación de un sistema de realimentación sensorial reviste gran importancia para mejorar el comando de la prótesis y, por lo tanto, mejorar su aceptación.
