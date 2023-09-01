@@ -41,6 +41,7 @@ Un enfoque a darse está en la prótesis mecánica , 3D. Por su elevado porcenta
 
 Asimismo, la principal causa de amputación en el miembro superior fue por accidentes de trabajo, las cuales estan dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
 
+
 <image align="center;" width="500px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
 
 <image align="center;" width="500px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%202.jpg">
