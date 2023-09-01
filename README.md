@@ -30,12 +30,16 @@ Ingenieria Biomedica PUCP-UPCH
 
 ## Contexto
 ### 1. Contexto mundial. 
-Cuando una persona pierde alguna extremidad y usa una protesis mecanica existe el problema de no poder ejercer la presion y fuerza suficiente por falta de sensibilidad. Un estudio en colombia identifico que los hombres adultos de la region andina entre los 35-50 años forma el mayor porcentaje de personas que perdieron una extremidad, aproximadamente 53.1% del total de personas analizadas. Por otro lado en Estados Unidos en la actualidad hay aproximadamente 2.1 millones de personas a las que les falta alguna extremidad y a futuro se prevee que en 2050 esta cifra ascienda a 3.6 millones de personas.
-<image src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
+Cuando una persona pierde alguna extremidad y usa una protesis mecanica existe el problema de no poder ejercer la presion y fuerza suficiente por falta de sensibilidad. Un estudio en colombia identifico que los hombres adultos entre los 35-50 años de edad forma el mayor porcentaje de personas (53.1%) que perdieron una extremidad a comparacion de los jovenes de entre 18-35 años de edad que solo representan el 33.5% del total de personas analizadas. Geograficamente el sector con mayor porcentaje fueron las personas que viven en zonas andinas representando casi tres cuartos del total de personas analizadas (73.5%).  Por otro lado en Estados Unidos en la actualidad hay aproximadamente 2.1 millones de personas a las que les falta alguna extremidad y a futuro se prevee que en 2050 esta cifra ascienda a 3.6 millones de personas.
+
+
 ### 2. Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012. En el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
 Un enfoque a darse está en la prótesis mecánica , 3D. Por su elevado porcentaje de precisión, fuerza y estética. Además de su alto grado de rehabilitación pues funciona mediante sensores en los músculos de nuestro cuerpo, que a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana.  
 
+<image src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
+
+<image src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%202.jpg">
 Las presentes estadísticas fueron recolectadas según el Instituto Especializado de Rehabilitación (INER).
 
 Según la presente tabla, la principal causa de amputación en el miembro superior fue por accidentes de trabajo ,que esta dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
