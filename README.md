@@ -41,7 +41,7 @@ Las prótesis para miembros superiores enfrentan un problema significativo relac
 ## Estado del arte
 ### Desarrollo de una prótesis mioeléctrica de miembro superior con amputación transradial por medio del uso de tecnologías 3D
 Este método consiste en una prótesis mioeléctrica controlada por señales electromiográficas producidas mediante la contracción de un músculo, buscando el acondicionamiento de la persona a la manipulación de diferentes objetos y a su entorno. Es de gran eficiencia y adaptabilidad debido a que es autónoma, resistente, segura y liviana.
-</p>
+
 ### Retroalimentación vibrotáctil y visual para la estimulación de diferentes partes del cuerpo durante la manipulación de objetos
 La mayoría de las prótesis de mano no proporcionan retroalimentación háptica intencional sobre el desempeño del movimiento, limitando a los usuarios de solo obtener la información acerca del estado de la prótesis a través de la vista. No obstante, existen diferentes sitios del cuerpo como dedo, brazo cuello y pie donde, a través de un interfaz robótica es posible manipular un objeto virtual con retroalimentación visual y vibrotáctil. “Investigaciones futuras justifican la identificación de mejoras en los parámetros de retroalimentación basados ​​en vibrotáctiles en amputados”, sin embargo los hallazgos al aumentar la dificultad de una tarea, no fueron favorables, pues lo usuarios no mostraron diferencias en su preferencia en los sitios de estimulación vibrotáctil.
 </p>
