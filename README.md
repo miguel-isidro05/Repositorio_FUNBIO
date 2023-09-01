@@ -43,7 +43,7 @@ Las presentes estadísticas fueron recolectadas según el Instituto Especializad
 Según la presente tabla, la principal causa de amputación en el miembro superior fue por accidentes de trabajo ,que esta dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
 
 ## Usuario
-Paciente del género masculino entre 21 y 30 años que realiza trabajos manuales y de alto riesgo con amputación transmetacarpiana. 
+Paciente del género masculino entre 21 y 30 años que realiza trabajos manuales y de alto riesgo con amputación transmetacarpiana en Lima, Perú. 
 
 ## Problemática
 La problemática de nuestro proyecto es que existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
