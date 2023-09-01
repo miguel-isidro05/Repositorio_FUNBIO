@@ -28,15 +28,15 @@ Ingenieria Biomedica PUCP-UPCH
 | 📰 Jose Fernando Mamami Condori |  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
 | 🦿 Wilber Mauricio Zenteno Castilla  |  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
 
-## Contexto:
-### 1. Contexto mundial 
-### 2. Contexto del Perú
-### 3. Usuario
-## Problemática:
-### 1. Análisis:
+## Contexto
+### 1. Contexto mundial. 
+### 2. Contexto del Perú.
+### 3. Usuario.
+## Problemática
+### 1. Análisis.
 Las prótesis para miembros superiores enfrentan un problema significativo relacionado con la falta de un sistema adecuado para proporcionar retroalimentación sensorial a los usuarios (Garcia, n.d.). A pesar de medir variables sensoriales como la fuerza y la posición, estas no se transmiten adecuadamente al usuario , lo que dificulta el procedimiento. Esto puede resultar en problemas de control y, en última instancia, en el abandono del dispositivo. Es por ello que la implementación de un sistema de realimentación sensorial reviste gran importancia para mejorar el comando de la prótesis y, por lo tanto, mejorar su aceptación.
 
-### 2. Pregunta Reto
+### 2. Pregunta Reto.
 ¿Cómo podríamos disminuir la deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
 
 ## Estado del arte
