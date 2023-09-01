@@ -3,7 +3,7 @@
 
 </p>
   <h3 align="center">
-Ingenieria Biomedica PUCP-UPCH
+Ingeniería Biomédica PUCP-UPCH
   </h3>
   <h5 align="center">
      Bienvenidos al repositorio del Grupo 14 del curso "Fundamentos de Biodiseño"
@@ -13,12 +13,12 @@ Ingenieria Biomedica PUCP-UPCH
 
 </p>
   <h5 align="center">
-    Tema de proyecto: Amputación
+    Tema de proyecto: Sistema somatosensoriales en prótesis no invasivas del miembro superior
   </h5>
   
 </p>
 
-## Asignacion de roles
+## Asignación de roles
 | Integrantes | Rol | Perfil Github |
 | ------------- | ------------- |------------- |
 | 🗣️ Ariana Geraldine Tania Roca Pérez |Coordinadora General  |<a href="https://github.com/ArianaRoca"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143196783?v=4"> |
