@@ -34,7 +34,7 @@
 
 ## Problemática:
 ### 1. Análisis:
-       Existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
+Existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
 ### 2. Pregunta Reto
 
 ## Estado del arte
