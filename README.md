@@ -34,9 +34,9 @@ Ingenieria Biomedica PUCP-UPCH
 
 ## Problemática:
 ### 1. Análisis:
-Existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
-### 2. Pregunta Reto
 
+### 2. Pregunta Reto
+¿Cómo podríamos disminuir la deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
 ## Estado del arte
 
 ## Bibliografía
