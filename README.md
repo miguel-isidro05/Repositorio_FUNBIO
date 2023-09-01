@@ -31,7 +31,7 @@ Ingenieria Biomedica PUCP-UPCH
 ## Contexto
 ### 1. Contexto mundial. 
 Cuando una persona pierde alguna extremidad y usa una protesis mecanica existe el problema de no poder ejercer la presion y fuerza suficiente por falta de sensibilidad. Un estudio en colombia identifico que los hombres adultos de la region andina entre los 35-50 años forma el mayor porcentaje de personas que perdieron una extremidad, aproximadamente 53.1% del total de personas analizadas. Por otro lado en Estados Unidos en la actualidad hay aproximadamente 2.1 millones de personas a las que les falta alguna extremidad y a futuro se prevee que en 2050 esta cifra ascienda a 3.6 millones de personas.
-
+<image src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
 ### 2. Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012. En el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
 Un enfoque a darse está en la prótesis mecánica , 3D. Por su elevado porcentaje de precisión, fuerza y estética. Además de su alto grado de rehabilitación pues funciona mediante sensores en los músculos de nuestro cuerpo, que a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana.  
