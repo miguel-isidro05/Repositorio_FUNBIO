@@ -53,13 +53,15 @@ Las presentes estadísticas fueron recolectadas según el Instituto Especializad
 Paciente del género masculino entre el rango de 21 a 30 años de edad con amputación transmetacarpiana con dificultades en el comando de su prótesis, que reside en Lima, Perú.
 
 ## Problemática
-Existe una deficiencia de sistemas somatosensoriales que transmitan información a personas con prótesis no invasivas del miembro superior  en el Perú.
+La problemática es que existe  una deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis del miembro superior en el Perú.
 
 ### 1. Análisis.
-Las prótesis para miembros superiores enfrentan un problema significativo relacionado con la falta de un sistema adecuado para proporcionar retroalimentación sensorial a los usuarios (Garcia, n.d.). A pesar de medir variables sensoriales como la fuerza y la posición, estas no se transmiten adecuadamente al usuario, lo que dificulta el procedimiento. Esto puede resultar en problemas de control y, en última instancia, en el abandono del dispositivo. Es por ello que la implementación de un sistema de realimentación sensorial reviste gran importancia para mejorar el comando de la prótesis y, por lo tanto, mejorar su aceptación.
+En la actualidad, las prótesis para miembros superiores enfrentan un problema significativo relacionado con la falta de un sistema adecuado para proporcionar retroalimentación sensorial a los usuarios. Una de las principales razones por las cuales las prótesis son rechazadas por el usuario es la falta de una realimentación sensorial apropiada que provea de información útil para lograr un mejor control y manipulación de objetos [12].
+Ello se debe a que las prótesis comerciales actuales poseen sistemas de control embebidos; es decir,  tanto las etapas de sensado y actuación ocurren ajenas al usuario siendo propias de la prótesis. [13] Esto puede resultar en problemas de control y, en última instancia, en el abandono del dispositivo. Por lo tanto, la revisión y perfeccionamiento de los sistemas de retroalimentación sensorial en dispositivos protésicos para extremidades superiores son de gran importancia.
+
 
 ### 2. Pregunta Reto.
-¿Cómo podríamos disminuir la deficiencia de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
+¿Cómo podríamos mejorar la disfunción de sistemas somatosensoriales que transmiten información a personas con prótesis no invasivas del miembro superior en el Perú?
 
 ## Estado del arte
 Se hizo una investigación sobre el estado de arte dirigido a la problemática. Tras analizar la información obtenida, se eligieron las propuestas más convenientes e importantes:
