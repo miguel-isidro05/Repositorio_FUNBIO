@@ -5,13 +5,9 @@ La pérdida de alguna extremidad debido a accidentes laborales es más común de
 Centrándonos en una región específica de los Estados Unidos, encontramos que la tasa anual de amputaciones de dedos en el trabajo es de 9,3 por 100.000 [2].Aquello ocurre debido a que cada año se producen alrededor de 19.000 amputaciones de dedos en el trabajo en Estados Unidos, las cuales 20% de estas lesiones son lo suficientemente graves como para requerir hospitalización. Además, en base al total de personas registradas se analizó a un grupo selecto de 134 personas de las cuales la tasa fue mayor para los hombres (14,7) que para las mujeres (1,9). Las tasas ajustadas por edad fueron más altas para los hombres hispanos (52,8) y negros (28,9) que para los hombres blancos (9,5). Además de hallar que las personas que trabajaban con máquinas (por ejemplo, prensas, sierras o cortadoras) o las mantenían en la industria manufacturera corrían el mayor riesgo.
 
 <p align="center">
-  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
+  <img width="660" height="600" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
 </p>
 
-
-<p align="center">
-<h5>Tabla 1. Características demográficas de trabajadores asegurados a una compañía de seguros de riesgos que sufrieron amputaciones en el período de 1982 a 2017, Colombia.</h5>
-</p>
 
 ### Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012; en el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
