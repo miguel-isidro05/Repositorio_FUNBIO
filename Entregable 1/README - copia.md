@@ -60,15 +60,37 @@ Ello se debe a que las prótesis comerciales actuales poseen sistemas de control
 ## Estado del arte
 Se hizo una investigación sobre el estado de arte dirigido a la problemática. Tras analizar la información obtenida, se eligieron las propuestas más convenientes e importantes:
 
-### Mejoras en la manipulación de objetos gracias al entrenamiento de una sola sesión superan las diferencias entre los sitios de estimulación durante la retroalimentación vibrotáctil.
+### Tecnología existente en el ámbito académico
+
+#### 1. Mejoras en la manipulación de objetos gracias al entrenamiento de una sola sesión superan las diferencias entre los sitios de estimulación durante la retroalimentación vibrotáctil.
 La mayoría de las prótesis no proporcionan retroalimentación háptica intencional sobre el desempeño del movimiento, limitando a los usuarios a solo obtener la información acerca del estado de la prótesis a través de la vista. No obstante, el presente artículo se enfoca en comprender los efectos del aprendizaje y los diferentes sitios de estimulación en la retroalimentación háptica intencional utilizando estimulación vibrotáctil en la manipulación de objetos virtuales, en donde través de una interfaz robótica para manipular objetos virtuales con retroalimentación visual y vibrotáctil en cuatro sitios del cuerpo (dedo, brazo, cuello y pie). La retroalimentación háptica mejora la interacción del usuario con la prótesis y le permite sentir y percibir su entorno de una manera más natural; este procedimiento involucra el uso de sensores, procesamiento de datos, integración de los componentes a la prótesis del usuario y la etapa más importante, la retroalimentación vibrotáctil, esta puede tomar diferentes formas como vibraciones o presión [17].
 
-### Diseño e implementación de un control de impedancia para mejorar el desempeño de un prototipo de prótesis de mano que usa brazalete MYO.
+#### 2. Diseño e implementación de un control de impedancia para mejorar el desempeño de un prototipo de prótesis de mano que usa brazalete MYO.
 El funcionamiento de este sistema se basó en las señales de retroalimentación disponibles, la fuerza ejercida, la velocidad y el uso de sensores SFR ubicados en la punta de los dedos, los cuales se utilizan para cuantificar la fuerza ejercida sobre el entorno. El brazalete de vibración proporciona la retroalimentación sensorial distintiva cuando el manipulador aplica  una fuerza correspondiente al movimiento. El sistema de control de admisión se implementa a través de dispositivo PSoC programable, en donde se configuran los señales de entrada y salida. En conclusión, se logra regular la fuerza aplicada al entorno y la velocidad de movimiento del dispositivo manipulador, todo esto basado en la retroalimentación de fuerza medida por los sensores SFR [18].
 
-### Núcleo somatosensorial talámico humano como lugar de estimulación mediante entradas de sensores táctiles nocivos y térmicos en una prótesis activa. 
+### 3. Núcleo somatosensorial talámico humano como lugar de estimulación mediante entradas de sensores táctiles nocivos y térmicos en una prótesis activa.  
 El locus sensorial somático del prosencéfalo para la entrada de sensores en la superficie de una prótesis activa es un componente importante de la interfaz cerebro-máquina. Este dispositivo analiza las respuestas neuronales a estímulos cutáneos controlados y las sensaciones inducidas por la estimulación a niveles de corriente de microamperios (TMIS) en el núcleo caudal ventral talámico humano (Vc), puede producir retroalimentación somatotópica con patrones útiles al Sistema Nervioso Central a partir de sensores en una prótesis activa, pidiendo evocar sensaciones similares a las producidas por estímulos táctiles naturales. En pacientes con lesiones importantes que conducen a la pérdida de información sensorial somática, TMIS a menudo evoca sensaciones en la representación de partes del cuerpo con pérdida de información sensorial, incluyendo el problema del miembro fantasma después de una amputación [19].
 
+### Tecnología existente en el ámbito de patentes
+
+#### Aparato para medir la percepción vibrotáctil y método de preparación del mismo, incluida la medición automatizada de temperatura.
+Código: SE1950373A1
+Año de publicación: 2020
+Inventores: Antonio Speidel, bo viejo, Michael Scarsen
+
+Este aparato está destinado a medir la percepción vibrotáctil en sujetos humanos; este dispositivo consta de una sonda de vibración con una extremidad diseñada para acoplarse a una parte del cuerpo del sujeto, un sensor de temperatura sin contacto que mira hacia la parte del cuerpo cuando se acopla con la extremidad de la sonda y un sensor de fuerza acoplado. Antes del procedimiento, la unidad de control calcula parámetros basados ​​en las señales de salida del sensor de temperatura sin contacto o del sensor de fuerza, indicando la presencia o ausencia de la parte del cuerpo, es decir, este aparato aborda los desafíos de medir la percepción vibrotáctil y la temperatura de la piel de manera automatizada y precisa, lo que lo convierte en una herramienta valiosa para la detección temprana de problemas de percepción vibrotáctil en partes del cuerpo de sujetos humanos.
+
+[18] Speidel A, Olde B, Scarsén M. Apparatus for measuring vibrotactile perception and preparation method thereof including automated measurement of temperature. Patent. SE:1950373:A1, 2020. 
+
+#### Sistema y método de realimentación electro táctil.
+Código: ES2930590T3
+Año de publicación: 2018
+Inventores: Matija Štrbac,Goran BijelicNebojsa, MalesevicThierry Keller
+
+Un sistema y método para transferir información propioceptiva y/o sensorial desde una prótesis o desde un sistema de detección dispuesto en una parte del cuerpo que tiene poca o ninguna sensibilidad, a la piel de un usuario que usa dicha prótesis o detección. El sistema comprende: un dispositivo para proporcionar retroalimentación electro táctil en forma de patrón de estimulación eléctrica con esquema de codificación para al menos una señal de entrada; y al menos un electrodo multiplaca configurado para ser colocado en una parte del cuerpo de dicho usuario, comprendiendo dicho electrodo multiplaca una pluralidad de almohadillas configuradas para activarse/desactivarse selectiva y discretamente según dicho patrón de estimulación predefinido [19].
+
+[19] Strbac M, Bijelic G, Malesevic N, Keller T. Sistema y método de realimentación electrotáctil. Patentar. ES:2930590:T3, 2022.
+Disponible en https://patents.google.com/patent/ES2930590T3/
 
 ## Bibliografía
 - Stepp, C. E., & Matsuoka, Y. (2011). Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society, 19(6), 677–685.
