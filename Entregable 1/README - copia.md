@@ -7,7 +7,7 @@ Centrándonos en una región específica de los Estados Unidos, encontramos que 
 
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/mundial%201.jpg">
+  <img width="560" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/mundial%201.jpg">
 </p>
 
 
