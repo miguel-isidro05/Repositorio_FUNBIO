@@ -14,14 +14,14 @@ En una conferencia realizada en Standford en el año 2008, se presentó una fór
 Según los datos de la Revista Médica Herediana publicada en el 2012 . El Instituto Nacional de Rehabilitación “Adriana Rebaza Flores” en Lima-Callao, Perú (INR) estudió las características clínicas y demográficas de 570 pacientes amputados, Las variables de estudio (tabla 2) fueron el sexo , la condición socieconómica y la procedencia [5].
 
 <p align="center">
-  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
+  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/2.jpg">
 </p>
 
 Se observó que la mayor parte de amputados del país son del sexo masculino con condición socieconómica pobre no extremo, que tienen procedencia en Lima -Callao.
 En la tabla 3 y 4 ,recolectamos datos que comprendieron los años de 1999 a 2002 .Se evaluaron 156 historias clínicas del Instituto Especializado de Rehabilitación [12].
 
 <p align="center">
-  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
+  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/3.jpg">
 </p>
 
 El nivel de amputación del miembro superior más frecuente en el presente estudio se representa a nivel de dedos 33.97% (53 casos) [Tabla 4]
