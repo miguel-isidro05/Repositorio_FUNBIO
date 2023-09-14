@@ -5,13 +5,13 @@ La pérdida de alguna extremidad debido a accidentes laborales es más común de
 Centrándonos en una región específica de los Estados Unidos, encontramos que la tasa anual de amputaciones de dedos en el trabajo es de 9,3 por 100.000 [2].Aquello ocurre debido a que cada año se producen alrededor de 19.000 amputaciones de dedos en el trabajo en Estados Unidos, las cuales 20% de estas lesiones son lo suficientemente graves como para requerir hospitalización. Además, en base al total de personas registradas se analizó a un grupo selecto de 134 personas de las cuales la tasa fue mayor para los hombres (14,7) que para las mujeres (1,9). Las tasas ajustadas por edad fueron más altas para los hombres hispanos (52,8) y negros (28,9) que para los hombres blancos (9,5). Además de hallar que las personas que trabajaban con máquinas (por ejemplo, prensas, sierras o cortadoras) o las mantenían en la industria manufacturera corrían el mayor riesgo.
 
 <p align="center">
-  <img width="460" height="300" src="https://www.pexels.com/photo/photo-of-grey-tabby-kitten-lying-down-2558605/">
+  <img width="460" height="300" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/mundial%201.jpg">
 </p>
 
 Por otro lado, según los datos recopilados por la Revista Brasilera de Medicina del Trabajo [3] con previa autorización de la facultad de Medicina de la universidad CES en Colombia, durante el periodo de 1982 a 2017, 245 trabajadores afiliados a una ARL colombiana fueron registrados con amputación de alguno de sus miembros superiores. Como se muestra en la Tabla 1, considerandose las variables de rango de edad, sexo, region demográfica.
 
 
-<image align="center;" width="450px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/mundial%201.jpg"> 
+<image align="center;" width="450px;" src ="> 
 
 ### Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012; en el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
