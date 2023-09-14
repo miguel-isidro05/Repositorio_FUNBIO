@@ -37,7 +37,7 @@ El sistema somatosensorial se encarga de procesar y transmitir información rela
 La retroalimentación sensorial se refiere al proceso mediante el cual el sistema nervioso recibe información sensorial del entorno externo o interno y la utiliza para monitorear y ajustar la actividad y el comportamiento del cuerpo. La retroalimentación puede asumir diferentes modalidades, puede haber retroalimentaciones visuales, auditivas, táctiles, autónomas [9].  Por ello, este proceso es crucial para que el sistema somatosensorial funcione eficazmente y para que podamos adaptarnos al mundo que nos rodea.
 
 <p align="center">
-  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/5.jpg">
+  <img width="960" height="700" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/5.jpg">
 </p>
 
 ## Usuario
