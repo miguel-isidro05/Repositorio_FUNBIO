@@ -1,5 +1,5 @@
 # Fundamentos de Biodiseño
-<image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
+<image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.pngg">
 
 </p>
   <h3 align="center">
