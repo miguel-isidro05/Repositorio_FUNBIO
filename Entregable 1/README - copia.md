@@ -1,4 +1,4 @@
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/6aa146ac-6081-4a84-a02c-b59c8362d2f5)# Repositorio_FUNBIO
+# Repositorio_FUNBIO
 ## Contexto
 ### Contexto mundial. 
 La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos [1]. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera [1].  Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 [3], la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
