@@ -11,9 +11,9 @@ Centrándonos en una región específica de los Estados Unidos, encontramos que 
 </p>
 
 
-
-<h3>Tabla 1. Características demográficas de trabajadores asegurados a una compañía de seguros de riesgos que sufrieron amputaciones en el período de 1982 a 2017, Colombia.</h3>
-
+<p align="center">
+<h4>Tabla 1. Características demográficas de trabajadores asegurados a una compañía de seguros de riesgos que sufrieron amputaciones en el período de 1982 a 2017, Colombia.</h4>
+</p>
 
 ### Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012; en el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
