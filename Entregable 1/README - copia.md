@@ -1,4 +1,6 @@
 # Fundamentos de Biodiseño
+<image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
+
 </p>
   <h3 align="center">
 Ingeniería Biomédica PUCP-UPCH
