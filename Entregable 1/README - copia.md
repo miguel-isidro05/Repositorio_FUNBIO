@@ -1,40 +1,19 @@
 # Repositorio_FUNBIO
-<image align="center;" width="1200px;" style="border-radius: 90%;" src ="Imágenes/imagen_read.png">
-
-</p>
-  <h3 align="center">
-Ingeniería Biomédica PUCP-UPCH
-  </h3>
-  <h5 align="center">
-     Bienvenidos al repositorio del Grupo 14 del curso "Fundamentos de Biodiseño"
-  </h5>
-</p>
-
-
-</p>
-  <h5 align="center">
-    Tema de proyecto: Sistema somatosensoriales en prótesis no invasivas del miembro superior
-  </h5>
-  
-</p>
-
-## Asignación de roles
-| Integrantes | Rol | Perfil Github |
-| ------------- | ------------- |------------- |
-| Ariana Geraldine Tania Roca Pérez |Coordinadora General  |<a href="https://github.com/ArianaRoca"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143196783?v=4"> |
-| Itzel Miyeko De la Cruz Galvez  |  Coordinadora de Planos y Bocetos   |<a href="https://github.com/Itzmiyeko"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143201186?v=4">  |
-| Alessandra Valle Montoya |  Coordinadora de Electrónica y Programación  |<a href="https://github.com/AleValleM"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018589?v=4">   |
-| Miguel Eduardo Isidro Baez  |  Coordinador de Página Web y Programación   |<a href="https://github.com/miguel-isidro05"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
-| Jose Fernando Mamami Condori |  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
-| Wilber Mauricio Zenteno Castilla  |  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
-
 ## Contexto
-### 1. Contexto mundial. 
-Cuando una persona pierde alguna extremidad y usa una protesis mecanica existe el problema de no poder ejercer la presion y fuerza suficiente por falta de sensibilidad. Un estudio en Colombia identifico que los hombres adultos entre los 35-50 años de edad forma el mayor porcentaje de personas (53.1%) que perdieron una extremidad a comparacion de los jovenes de entre 18-35 años de edad que solo representan el 33.5% del total de personas analizadas. Geograficamente el sector con mayor porcentaje fueron las personas que viven en zonas andinas representando casi tres cuartos del total de personas analizadas (73.5%).  Por otro lado, en Estados Unidos, existen aproximadamente 2.1 millones de personas a las cuales les falta alguna extremidad y, a futuro, se prevee que esta cifra ascienda a 3.6 millones de personas en 2050.
+### Contexto mundial. 
+La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos [1]. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera [1].  Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 [3], la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
+Centrándonos en una región específica de los Estados Unidos, encontramos que la tasa anual de amputaciones de dedos en el trabajo es de 9,3 por 100.000 [2].Aquello ocurre debido a que cada año se producen alrededor de 19.000 amputaciones de dedos en el trabajo en Estados Unidos, las cuales 20% de estas lesiones son lo suficientemente graves como para requerir hospitalización. Además, en base al total de personas registradas se analizó a un grupo selecto de 134 personas de las cuales la tasa fue mayor para los hombres (14,7) que para las mujeres (1,9). Las tasas ajustadas por edad fueron más altas para los hombres hispanos (52,8) y negros (28,9) que para los hombres blancos (9,5). Además de hallar que las personas que trabajaban con máquinas (por ejemplo, prensas, sierras o cortadoras) o las mantenían en la industria manufacturera corrían el mayor riesgo.
 
-<image align="center;" width="450px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/mundial%201.jpg"> 
+<p align="center">
+  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/mundial%201.jpg">
+</p>
 
-### 2. Contexto del Perú.
+
+<p align="center">
+<h5>Tabla 1. Características demográficas de trabajadores asegurados a una compañía de seguros de riesgos que sufrieron amputaciones en el período de 1982 a 2017, Colombia.</h5>
+</p>
+
+### Contexto del Perú.
 De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012; en el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
 
 Un enfoque mas profundo se encuentra en la prótesis mecánica por su elevado porcentaje de precisión, fuerza y estética. Además, de su alto grado de rehabilitación, ya que funciona mediante sensores en los músculos de nuestro cuerpo; sin embargo, a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana. 
