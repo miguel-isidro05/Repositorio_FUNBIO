@@ -92,15 +92,15 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 ### Tecnología existente en el ámbito de patentes
 
 #### Aparato para medir la percepción vibrotáctil y método de preparación del mismo, incluida la medición automatizada de temperatura.
-Código: SE1950373A1
-Año de publicación: 2020
+Código: SE1950373A1</p>
+Año de publicación: 2020</p>
 Inventores: Antonio Speidel, bo viejo, Michael Scarsen
 
 Este aparato está destinado a medir la percepción vibrotáctil en sujetos humanos; este dispositivo consta de una sonda de vibración con una extremidad diseñada para acoplarse a una parte del cuerpo del sujeto, un sensor de temperatura sin contacto que mira hacia la parte del cuerpo cuando se acopla con la extremidad de la sonda y un sensor de fuerza acoplado. Antes del procedimiento, la unidad de control calcula parámetros basados ​​en las señales de salida del sensor de temperatura sin contacto o del sensor de fuerza, indicando la presencia o ausencia de la parte del cuerpo, es decir, este aparato aborda los desafíos de medir la percepción vibrotáctil y la temperatura de la piel de manera automatizada y precisa, lo que lo convierte en una herramienta valiosa para la detección temprana de problemas de percepción vibrotáctil en partes del cuerpo de sujetos humanos.[20]
 
 #### Sistema y método de realimentación electro táctil.
-Código: ES2930590T3
-Año de publicación: 2018
+Código: ES2930590T3 </p>
+Año de publicación: 2018 </p>
 Inventores: Matija Štrbac,Goran BijelicNebojsa, MalesevicThierry Keller
 
 Un sistema y método para transferir información propioceptiva y/o sensorial desde una prótesis o desde un sistema de detección dispuesto en una parte del cuerpo que tiene poca o ninguna sensibilidad, a la piel de un usuario que usa dicha prótesis o detección. El sistema comprende: un dispositivo para proporcionar retroalimentación electro táctil en forma de patrón de estimulación eléctrica con esquema de codificación para al menos una señal de entrada; y al menos un electrodo multiplaca configurado para ser colocado en una parte del cuerpo de dicho usuario, comprendiendo dicho electrodo multiplaca una pluralidad de almohadillas configuradas para activarse/desactivarse selectiva y discretamente según dicho patrón de estimulación predefinido [21].
