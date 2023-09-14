@@ -5,7 +5,7 @@ La pérdida de alguna extremidad debido a accidentes laborales es más común de
 Centrándonos en una región específica de los Estados Unidos, encontramos que la tasa anual de amputaciones de dedos en el trabajo es de 9,3 por 100.000 [2].Aquello ocurre debido a que cada año se producen alrededor de 19.000 amputaciones de dedos en el trabajo en Estados Unidos, las cuales 20% de estas lesiones son lo suficientemente graves como para requerir hospitalización. Además, en base al total de personas registradas se analizó a un grupo selecto de 134 personas de las cuales la tasa fue mayor para los hombres (14,7) que para las mujeres (1,9). Las tasas ajustadas por edad fueron más altas para los hombres hispanos (52,8) y negros (28,9) que para los hombres blancos (9,5). Además de hallar que las personas que trabajaban con máquinas (por ejemplo, prensas, sierras o cortadoras) o las mantenían en la industria manufacturera corrían el mayor riesgo.
 
 <p align="center">
-  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
+  <img width="660" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
 </p>
 
 
