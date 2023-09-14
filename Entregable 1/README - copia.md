@@ -1,4 +1,4 @@
-# Entregable 2
+# Fundamentos de Biodiseño
 </p>
   <h3 align="center">
 Ingeniería Biomédica PUCP-UPCH
