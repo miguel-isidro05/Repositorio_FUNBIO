@@ -1,4 +1,4 @@
-# Repositorio_FUNBIO
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/6aa146ac-6081-4a84-a02c-b59c8362d2f5)# Repositorio_FUNBIO
 ## Contexto
 ### Contexto mundial. 
 La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos [1]. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera [1].  Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 [3], la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
@@ -8,22 +8,30 @@ Centrándonos en una región específica de los Estados Unidos, encontramos que 
   <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
 </p>
 
-
 ### Contexto del Perú.
-De acuerdo a las cifras proporcionadas por el Instituto de Rehabilitación “Adriana Rebaza Flores”, en un estudio realizado por Farro, L., Tapia, R., Bautista, L., Montalvo, R., Iriarte, H., 2012; en el Perú existe una considerable cantidad de pacientes amputados de miembro superior. De aquí nace la idea de realizar el diseño de una mano mecánica que ayude a realizar los quehaceres cotidianos en donde se necesite emplear ambas extremidades superiores.
+En una conferencia realizada en Standford en el año 2008, se presentó una fórmula para calcular la cantidad de personas con amputaciones de brazos por país [6]. En base a este método obtenemos la cifra exacta, la cual es 14500 peruanos.
 
-Un enfoque mas profundo se encuentra en la prótesis mecánica por su elevado porcentaje de precisión, fuerza y estética. Además, de su alto grado de rehabilitación, ya que funciona mediante sensores en los músculos de nuestro cuerpo; sin embargo, a pesar de su elevado costo es la mejor rehabilitación posible para una amputación transmetacarpiana. 
+Según los datos de la Revista Médica Herediana publicada en el 2012 . El Instituto Nacional de Rehabilitación “Adriana Rebaza Flores” en Lima-Callao, Perú (INR) estudió las características clínicas y demográficas de 570 pacientes amputados, Las variables de estudio (tabla 2) fueron el sexo , la condición socieconómica y la procedencia [5].
 
-Asimismo, la principal causa de amputación en el miembro superior sucedieron por accidentes de trabajo, las cuales estan dentro de la sección mayoritaria traumática (88,33%) con un 39,10 %. Siendo el mayor porcentaje de sexo masculino con un 83,97%. De estos pacientes el mayor porcentaje se encuentra en el grupo de edad entre los intervalos de 21 a 25 años y entre 31 a 35 años.
+<p align="center">
+  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
+</p>
 
+Se observó que la mayor parte de amputados del país son del sexo masculino con condición socieconómica pobre no extremo, que tienen procedencia en Lima -Callao.
+En la tabla 3 y 4 ,recolectamos datos que comprendieron los años de 1999 a 2002 .Se evaluaron 156 historias clínicas del Instituto Especializado de Rehabilitación [12].
 
-<image align="center;" width="400px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%201.jpg?raw=true">
+<p align="center">
+  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/1.jpg">
+</p>
 
-<image align="center;" width="400px;" src ="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/peru%202.jpg">
-  
-Las presentes estadísticas fueron recolectadas según el Instituto Especializado de Rehabilitación (INER).
+El nivel de amputación del miembro superior más frecuente en el presente estudio se representa a nivel de dedos 33.97% (53 casos) [Tabla 4]
 
-
+## Definiciones: 
+a. ¿Qué es el sistema sensorial?
+El sistema sensorial engloba todos los sistemas de detección sensorial en el cuerpo humano, es el encargado de recibir y procesar información que genera la conciencia del individuo sobre el entorno. Esto incluye sistemas como el visual, auditivo, gustativo y el táctil. Varias percepciones sensoriales influyen en la actividad motora voluntaria e involuntaria para facilitar la interacción con el mundo [7]. 
+b. ¿Qué es el sistema somatosensorial?
+El sistema somatosensorial se encarga de procesar y transmitir información relacionada con el tacto, la temperatura, el dolor, la presión y la propiocepción. El sistema somatosensorial es multimodal, sobre la base del estímulo que codifican. Los receptores sensoriales somáticos son nociceptores (mecánicos, de calor y polimodales), termorreceptores (frío y calor) y mecanorreceptores (de adaptación rápida, Meissner y de Pacini; de adaptación lenta, Merkel y corpúsculos de Ruffini) [8]. Ahora, sabemos que el sistema somatosensorial actúa como la interfaz principal entre el cuerpo y el entorno, pero ¿Cuál es el proceso mediante el cual el sistema nervioso recibe información de este sistema para tomar las decisiones y responder a las condiciones cambiantes? Ahí es donde entra la Retroalimentación sensorial. 
+c. 
 ## Usuario
 Paciente del género masculino entre el rango de 21 a 30 años de edad con amputación transmetacarpiana con dificultades en el comando de su prótesis, que reside en Lima, Perú.
 
