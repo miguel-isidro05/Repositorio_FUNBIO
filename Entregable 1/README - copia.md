@@ -12,7 +12,7 @@ Centrándonos en una región específica de los Estados Unidos, encontramos que 
 
 
 <p align="center">
-<h4>Tabla 1. Características demográficas de trabajadores asegurados a una compañía de seguros de riesgos que sufrieron amputaciones en el período de 1982 a 2017, Colombia.</h4>
+<h5>Tabla 1. Características demográficas de trabajadores asegurados a una compañía de seguros de riesgos que sufrieron amputaciones en el período de 1982 a 2017, Colombia.</h5>
 </p>
 
 ### Contexto del Perú.
