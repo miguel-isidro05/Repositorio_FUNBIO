@@ -93,38 +93,39 @@ Un sistema y método para transferir información propioceptiva y/o sensorial de
 Disponible en https://patents.google.com/patent/ES2930590T3/
 
 ## Bibliografía
-- Stepp, C. E., & Matsuoka, Y. (2011). Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society, 19(6), 677–685.
-https://doi.org/10.1109/TNSRE.2011.2168981 
+[1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
 
-- Wilke, M. A., Niethammer, C., Meyer, B., Farina, D., & Dosen, S. (2019). Psychometric characterization of incidental feedback sources during grasping with a hand prosthesis. Journal of neuroengineering and rehabilitation, 16(1), 155.
- https://doi.org/10.1186/s12984-019-0622-9 
+[2] Sorock GS, Smith E, Hall N. Hospitalized occupational finger amputations, New Jersey, 1985 and 1986. American Journal of Industrial Medicine. 1993 Mar;23(3):439–47. URL disponible en:
+https://pubmed.ncbi.nlm.nih.gov/8503463/
 
-- Pardo, L. A., Jr, Markovic, M., Schilling, A. F., Wilke, M. A., & Ernst, J. (2022). Vibrotactile mapping of the upper extremity: Absolute perceived intensity is location-dependent; perception of relative changes is not. Frontiers in neuroscience, 16, 958415.
-https://doi.org/10.3389/fnins.2022.958415
+[3] Garzón MO, Garcés M, Isaza D, Jaramillo S, Latorre V, Valderrama S. Characterization of workers covered by a risk insurance company in Colombia who suffered amputation. Revista Brasileira de Medicina do Trabalho. 2019;17(4):480–9. URL disponible en:
+https://pubmed.ncbi.nlm.nih.gov/32685746/
 
-- Garzón, M. O., Garcés, M., Isaza, D., Jaramillo, S. C., Latorre, V., & Valderrama, S. (2019). Characterization of workers covered by a risk insurance company in Colombia who suffered amputation. Revista Brasileira de Medicina do Trabalho.
-https://doi.org/10.5327/z1679443520190402
+[4] Diseño D E Mecanismo de D de, Grados de LPPMT. ESCUELA DE POSGRADO [Internet]. Gob.pe. 2006 [citado el 9 de septiembre de 2023]. Disponible en: https://www.conadisperu.gob.pe/observatorio/wp-content/uploads/2020/11/1.ABARCA_PINO_VICTORIA_DISENO_MECANISMO_DEDO.pdf
 
-- Camacho-Conchucos, H. T. (s. f.). Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos.
-http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
+[5] Farro L, Tapia R, Bautista L, Montalvo R, Iriarte H. Características clínicas y demográficas del [Internet]. Org.pe. 2012 [citado el 9 de septiembre de 2023]. Disponible en: http://www.scielo.org.pe/pdf/rmh/v23n4/v23n4ao4.pdf
 
-- G367: Tema 2. Funciones sensoriales: Sistema somatosensorial. (s. f.).
-https://ocw.unican.es/mod/page/view.php?id=541&lang=en
+[6] Prosthetic Hand. Maurice LeBlanc, MSME, CP [Internet]. Stanford.edu. [citado el 9 de septiembre de 2023]. Disponible en: https://web.stanford.edu/class/engr110/2011/LeBlanc-03a.pdf.
 
-- Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002. (2002). Microsoft Word - Trabajo Investigacion UNMSM2.doc.
-https://cybertesis.unmsm.edu.pe/bitstream/handle/20.500.12672/15921/Castro_aj.pdf?sequence=1&isAllowed=y  
+[7] Mahesh Gadhvi, Marlyn J. Moore, Muhammad Waseem. Physiology, Sensory System. StatPearls - NCBI Bookshelf [Internet]; 2023. URL disponible en:
+https://www.ncbi.nlm.nih.gov/books/NBK547656/ 
 
-- Fontana, J. M., & Molisani, L. (2013). Evaluación de un sistema vibrotactil para sustitución sensorial en prótesis de miembro superior. ResearchGate.
-https://www.researchgate.net/publication/264551048_Evaluacion_de_un_Sistema_Vibrotactil_para_Sustitucion_Sensorial_en_Protesis_de_Miembro_Superior
+[8] María Cabeza, Ángel Lozada, Mario Pérez, Juan José Pérez Rivero C. y C., Gabriela del P. Romero, Lourdes Rosas, Gustavo Ruiz, Carlos Torner. Biología de los sistemas sensoriales. México: Universidad Autónoma Metropolitana; 2018. URL disponible en: https://www.casadelibrosabiertos.uam.mx/contenido/contenido/Libroelectronico/Tacto.pdf 
 
-- Masteller, A., Sankar, S., Kim, H. B., Ding, K., Liu, X., & All, A. H. (2020). Recent developments in prosthesis sensors, texture recognition, and sensory stimulation for upper limb prostheses. Annals of Biomedical Engineering, 49(1), 57-74.
-https://doi.org/10.1007/s10439-020-02678-8
+[9] Mauricio Ortega, Virginia Pacheco. Modalidad de la retroalimentación y comportamiento inteligente en estudiantes universitarios. México: Universidad Nacional Autónoma de México; 2014. URL disponible en : 
+https://www.redalyc.org/pdf/292/29232614003.pdf 
 
-- Jui Hong Chien, Anna Korzeniewska, Luana Colloca, Claudia Campbell, Patrick Dougherty, & Frederick Lenz. (2017). Human Thalamic Somatosensory Nucleus (Ventral Caudal, Vc) as a Locus for Stimulation by INPUTS from Tactile, Noxious and Thermal Sensors on an Active Prosthesis. Maurizio Valle.
-https://www.mdpi.com/1424-8220/17/6/1197 
+ [10] Khadijeh Moulaei, Abbas Sheiktaheri, Ali A. Haghdoost, Mansour S. Nezhadd, Kambiz Bahaadinbeigy. A data set for the design and implementation of the upper limb disability registry. PMC Pubmed Central [Internet]; 2023. URL disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312779/
+ 
+ [11] Aparicio C, Eduardo J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002. Universidad Nacional Mayor de San Marcos; 2006. Disponible en: https://cybertesis.unmsm.edu.pe/handle/20.500.12672/15921
+ 
+[12] Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima Perú : 1990) [Internet]. 2010 [citado el 10 de septiembre de 2023];71(4):271–5. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
 
-- Castro, J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002 Lima: Universidad Nacional Mayor de San Marcos, Facultad de Medicina, Unidad de Posgrado; 2006.		
-https://hdl.handle.net/20.500.12672/15921
+[13] Nejatkermany MPZ, Modirian E, Soroush M, Masoumi M, Hosseini M. Phantom limb sensation (PLS) and phantom limb pain (PLP) among young landmine amputees. Iranian Journal of Child Neurology. 2016;10(3):42.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4928615/
 
+[14] Fontana JM, Molisani L. Evaluación de un Sistema Vibrotáctil para Sustitución Sensorial en Prótesis de Miembro Superior. Mecánica Computacional [Internet]. 2013 [cited 2023 Sep 10];32(34):2909–15. Disponible en: http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/4528
 
+[15] Pylatiuk C, Kargov A, Schulz S. Design and Evaluation of a Low-Cost Force Feedback System for Myoelectric Prosthetic Hands. JPO: Journal of Prosthetics and Orthotics [Internet]. 2006 Apr 1;18(2):57–61. Disponible en:https://journals.lww.com/jpojournal/fulltext/2006/04000/design_and_evaluation_of_a_low_cost_force_feedback.7.aspx
 
+[16] Stepp CE, Matsuoka Y. Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE Trans Neural Syst Rehabil Eng [Internet]. 2011;19(6):677–85. Disponible en: http://dx.doi.org/10.1109/tnsre.2011.2168981 
