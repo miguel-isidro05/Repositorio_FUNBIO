@@ -27,22 +27,15 @@ En la tabla 3 y 4 ,recolectamos datos que comprendieron los años de 1999 a 2002
 El nivel de amputación del miembro superior más frecuente en el presente estudio se representa a nivel de dedos 33.97% (53 casos) [Tabla 4]
 
 ## Definiciones: 
-      a. ¿Qué es el sistema sensorial?
-      El sistema sensorial engloba todos los sistemas de detección sensorial en el cuerpo humano, es el encargado de recibir y procesar información que 
-      genera la conciencia del individuo sobre el entorno. Esto incluye sistemas como el visual, auditivo, gustativo y el táctil. Varias percepciones 
-      sensoriales influyen en la actividad motora voluntaria e involuntaria para facilitar la interacción con el mundo [7]. 
+### a. ¿Qué es el sistema sensorial?
+El sistema sensorial engloba todos los sistemas de detección sensorial en el cuerpo humano, es el encargado de recibir y procesar información que genera la conciencia del individuo sobre el entorno. Esto incluye sistemas como el visual, auditivo, gustativo y el táctil. Varias percepciones sensoriales influyen en la actividad motora voluntaria e involuntaria para facilitar la interacción con el mundo [7]. 
 
-      b. ¿Qué es el sistema somatosensorial?
-      El sistema somatosensorial se encarga de procesar y transmitir información relacionada con el tacto, la temperatura, el dolor, la presión y la       
-      propiocepción. El sistema somatosensorial es multimodal, sobre la base del estímulo que codifican. Los receptores sensoriales somáticos son 
-      nociceptores (mecánicos, de calor y polimodales), termorreceptores (frío y calor) y mecanorreceptores (de adaptación rápida, Meissner y de Pacini; 
-      de adaptación lenta, Merkel y corpúsculos de Ruffini) [8]. Ahora, sabemos que el sistema somatosensorial actúa como la interfaz principal entre el 
-      cuerpo y el entorno, pero ¿Cuál es el proceso mediante el cual el sistema nervioso recibe información de este sistema para tomar las decisiones y 
-      responder a las condiciones cambiantes? Ahí es donde entra la Retroalimentación sensorial. 
+### b. ¿Qué es el sistema somatosensorial?
+El sistema somatosensorial se encarga de procesar y transmitir información relacionada con el tacto, la temperatura, el dolor, la presión y la propiocepción. El sistema somatosensorial es multimodal, sobre la base del estímulo que codifican. Los receptores sensoriales somáticos son nociceptores (mecánicos, de calor y polimodales), termorreceptores (frío y calor) y mecanorreceptores (de adaptación rápida, Meissner y de Pacini; de adaptación lenta, Merkel y corpúsculos de Ruffini) [8]. Ahora, sabemos que el sistema somatosensorial actúa como la interfaz principal entre el cuerpo y el entorno, pero ¿Cuál es el proceso mediante el cual el sistema nervioso recibe información de este sistema para tomar las decisiones y responder a las condiciones cambiantes? Ahí es donde entra la Retroalimentación sensorial. 
 
-      c. ¿Qué es la retroalimentación sensorial?
-      La retroalimentación sensorial se refiere al proceso mediante el cual el sistema nervioso recibe información sensorial del entorno externo o interno       y la utiliza para monitorear y ajustar la actividad y el comportamiento del cuerpo. La retroalimentación puede asumir diferentes modalidades, puede        haber retroalimentaciones visuales, auditivas, táctiles, autónomas [9].  Por ello, este proceso es crucial para que el sistema somatosensorial       
-      funcione eficazmente y para que podamos adaptarnos al mundo que nos rodea.
+### c. ¿Qué es la retroalimentación sensorial?
+La retroalimentación sensorial se refiere al proceso mediante el cual el sistema nervioso recibe información sensorial del entorno externo o interno y la utiliza para monitorear y ajustar la actividad y el comportamiento del cuerpo. La retroalimentación puede asumir diferentes modalidades, puede haber retroalimentaciones visuales, auditivas, táctiles, autónomas [9].  Por ello, este proceso es crucial para que el sistema somatosensorial funcione eficazmente y para que podamos adaptarnos al mundo que nos rodea.
+
 
 
 ## Usuario
@@ -73,8 +66,7 @@ El proyecto "Félix" fue formulado para ser aplicable a cualquier amputado de mi
 
 
 ### Diseño e implementación de un control de impedancia para mejorar el desempeño de un prototipo de prótesis de mano que usa brazalete MYO.
-El funcionamiento de este sistema se basó en las señales de retroalimentación disponibles, la fuerza ejercida, la velocidad y el uso de sensores SFR ubicados en la punta de los dedos, los cuales se utilizan para cuantificar la fuerza ejercida sobre el entorno. El brazalete de vibración proporciona la retroalimentación sensorial distintiva cuando el manipulador aplica  una fuerza correspondiente al movimiento. El sistema de control de admisión se implementa a través de dispositivo PSoC programable, en donde se configuran los señales de entrada y salida.
-En conclusión, se logra regular la fuerza aplicada al entorno y la velocidad de movimiento del dispositivo manipulador, todo esto basado en la retroalimentación de fuerza medida por los sensores SFR.
+El funcionamiento de este sistema se basó en las señales de retroalimentación disponibles, la fuerza ejercida, la velocidad y el uso de sensores SFR ubicados en la punta de los dedos, los cuales se utilizan para cuantificar la fuerza ejercida sobre el entorno. El brazalete de vibración proporciona la retroalimentación sensorial distintiva cuando el manipulador aplica  una fuerza correspondiente al movimiento. El sistema de control de admisión se implementa a través de dispositivo PSoC programable, en donde se configuran los señales de entrada y salida. En conclusión, se logra regular la fuerza aplicada al entorno y la velocidad de movimiento del dispositivo manipulador, todo esto basado en la retroalimentación de fuerza medida por los sensores SFR.
 
 ### Núcleo somatosensorial talámico humano como lugar de estimulación mediante entradas de sensores táctiles nocivos y térmicos en una prótesis activa. 
 El locus sensorial somático del prosencéfalo para la entrada de sensores en la superficie de una prótesis activa es un componente importante de la interfaz cerebro-máquina. Este dispositivo analiza las respuestas neuronales a estímulos cutáneos controlados y las sensaciones inducidas por la estimulación a niveles de corriente de microamperios (TMIS) en el núcleo caudal ventral talámico humano (Vc), puede producir retroalimentación somatotópica con patrones útiles al Sistema Nervioso Central a partir de sensores en una prótesis activa, pidiendo evocar sensaciones similares a las producidas por estímulos táctiles naturales. En pacientes con lesiones importantes que conducen a la pérdida de información sensorial somática, TMIS a menudo evoca sensaciones en la representación de partes del cuerpo con pérdida de información sensorial, incluyendo el problema del miembro fantasma después de una amputación [20].
