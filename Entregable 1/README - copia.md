@@ -19,20 +19,20 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-**[Contexto](#Contexto)**<br>
-**[Definiciones Instructions](#Definiciones)**<br>
-**[Usuario](#Definiciones)**<br>
-**[Problemática](#Problemática)**<br>
-**[Estado del arte](#Estadodelarte)**<br>
-**[Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
-**[Lista de requerimientos](#Listaderequerimientos)**<br>
-**[Propuesta de solución](#Propuestadesolución)**<br>
-**[Bibliografía](#Bibliografía)**<br>
+**[.Contexto](#Contexto)**<br>
+**[.Definiciones Instructions](#Definiciones)**<br>
+**[.Usuario](#Definiciones)**<br>
+**[.Problemática](#Problemática)**<br>
+**[.Estado del arte](#Estadodelarte)**<br>
+**[.Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
+**[.Lista de requerimientos](#Listaderequerimientos)**<br>
+**[.Propuesta de solución](#Propuestadesolución)**<br>
+**[.Bibliografía](#Bibliografía)**<br>
 
 
 ## Contexto
 ### Contexto mundial. 
-La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos [1]. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera [1]. Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 [3], la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
+La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece ,sobre todo, en personas de escasos recursos [1]. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera [1], además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 [3], la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
 Centrándonos en una región específica de los Estados Unidos, encontramos que la tasa anual de amputaciones de dedos en el trabajo es de 9,3 por 100.000 [2]. Aquello ocurre debido a que cada año se producen alrededor de 19.000 amputaciones de dedos en el trabajo en Estados Unidos, las cuales 20% de estas lesiones son lo suficientemente graves como para requerir hospitalización. Además, en base al total de personas registradas se analizó a un grupo selecto de 134 personas de las cuales la tasa fue mayor para los hombres (14,7) que para las mujeres (1,9). Las tasas ajustadas por edad fueron más altas para los hombres hispanos (52,8) y negros (28,9) que para los hombres blancos (9,5). Además de hallar que las personas que trabajaban con máquinas (por ejemplo, prensas, sierras o cortadoras) o las mantenían en la industria manufacturera corrían el mayor riesgo.
 
 <p align="center">
@@ -121,6 +121,7 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 
 ## Propuesta de solución
+Creación de un sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
 
 
 ## Bibliografía
