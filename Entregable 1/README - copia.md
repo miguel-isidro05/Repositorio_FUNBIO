@@ -109,15 +109,16 @@ Inventores: Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Y
 Se describe la tecnología para la guía localizada de una parte del cuerpo de un usuario hacia objetos específicos dentro de un entorno físico utilizando una interfaz de vibración. Un sistema de ejemplo puede incluir una interfaz de vibración que un usuario puede llevar puesta en una extremidad. La interfaz de vibración incluye una pluralidad de motores. El sistema incluye sensores acoplados al sistema vibrotáctil y un sistema de detección acoplado a los sensores y la interfaz de vibración. El sistema de detección está configurado para analizar un entorno físico en el que se encuentra el usuario para un objeto tangible usando el(los) sensor(es), para generar una trayectoria para navegar la extremidad del usuario hasta el objeto tangible basándose en una posición relativa de la extremidad. del usuario que lleva la interfaz de vibración a una posición del objeto tangible dentro del entorno físico, y para guiar la extremidad del usuario a lo largo de la trayectoria haciendo vibrar la interfaz de vibración.[21]
 
 
-## Lista de requerimientos.
+## LLuvia de ideas.
+![Image20230914194652](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/04b58eb1-66dc-4602-8c6d-2ffb31953116)
 
+## Lista de requerimientos.
 
 | Funcionaes | No funcionales |
 | ------- | ----------- |
 | Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
 
 ## Propuesta de solución.
-![Image20230914194652](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/04b58eb1-66dc-4602-8c6d-2ffb31953116)
 
 
 ## Bibliografía
