@@ -19,15 +19,15 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-**[.Contexto](#Contexto)**<br>
-**[.Definiciones Instructions](#Definiciones)**<br>
-**[.Usuario](#Definiciones)**<br>
-**[.Problemática](#Problemática)**<br>
-**[.Estado del arte](#Estadodelarte)**<br>
-**[.Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
-**[.Lista de requerimientos](#Listaderequerimientos)**<br>
-**[.Propuesta de solución](#Propuestadesolución)**<br>
-**[.Bibliografía](#Bibliografía)**<br>
+-**[Contexto](#Contexto)**<br>
+-**[Definiciones Instructions](#Definiciones)**<br>
+-**[Usuario](#Definiciones)**<br>
+-**[Problemática](#Problemática)**<br>
+-**[Estado del arte](#Estadodelarte)**<br>
+-**[Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
+-**[Lista de requerimientos](#Listaderequerimientos)**<br>
+-**[Propuesta de solución](#Propuestadesolución)**<br>
+-**[Bibliografía](#Bibliografía)**<br>
 
 
 ## Contexto
