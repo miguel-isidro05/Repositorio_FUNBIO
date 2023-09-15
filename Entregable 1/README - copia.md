@@ -111,7 +111,7 @@ Se describe la tecnología para la guía localizada de una parte del cuerpo de u
 
 | Funcionales | No funcionales |
 | ------- | ----------- |
-| Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
+| Mejorar la percepción de objetos, para facilitar tareas cotidianas | Ligero y flexible pues no debe afectar a la movilidad del usuario |
 
 ## Propuesta de solución.
 
