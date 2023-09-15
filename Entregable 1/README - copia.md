@@ -112,9 +112,10 @@ Se describe la tecnología para la guía localizada de una parte del cuerpo de u
 | Funcionales | No funcionales |
 | ------- | ----------- |
 | Funcionamiento continuo durante largos periodos de tiempo| Ligero y flexible pues no debe afectar a la movilidad del usuario |
-| Mejorar la percepción tactil al usuario (mejora de actividades cotidianas)| No debe ser invasivo |
+| Mejorar la percepción tactil al usuario | No debe ser invasivo |
 | Capacidad de detectar señales de entrada (presión y fuerza)| Ligero y flexible pues no debe afectar a la movilidad del usuario |
 | Permitir el control del feedback sensorial a través de sensores vibrotáctiles| Ligero y flexible pues no debe afectar a la movilidad del usuario |
+| Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| ----------- |
 
 
 ## Propuesta de solución.
