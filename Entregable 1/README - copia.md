@@ -109,11 +109,8 @@ Se describe la tecnología para la guía localizada de una parte del cuerpo de u
 
 ## Lista de requerimiento
 |Funcianales | No funcionales  | |
-| ------------- | ------------- |------------- |
-|abalbalb |BALBAABL  |
-|abalbalb |BALBAABL  |
-|abalbalb |BALBAABL  |
-|abalbalb |BALBAABL  |
+| ------------- | ------------- |
+|copialo aqui | copialo aqui |
 
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
