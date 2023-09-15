@@ -111,11 +111,13 @@ Se describe la tecnología para la guía localizada de una parte del cuerpo de u
 
 ## Lista de requerimientos.
 
+
 | Funcionaes | No funcionales |
 | ------- | ----------- |
 | Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
 
 ## Propuesta de solución.
+![Image20230914194652](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/04b58eb1-66dc-4602-8c6d-2ffb31953116)
 
 
 ## Bibliografía
