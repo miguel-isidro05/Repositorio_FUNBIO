@@ -111,11 +111,11 @@ Se describe la tecnología para la guía localizada de una parte del cuerpo de u
 
 | Funcionales | No funcionales |
 | ------- | ----------- |
-| Funcionamiento continuo durante largos periodos de tiempo| Ligero y flexible pues no debe afectar a la movilidad del usuario |
+| Control de intensidad personalizable (retroalimentación adaptativa)| Ligero y flexible pues no debe afectar a la movilidad del usuario |
 | Mejorar la percepción tactil al usuario | No debe ser invasivo |
 | Capacidad de detectar señales de entrada (presión y fuerza)| Resistente a condiciones ambientales adversas, golpes o vibraciones |
-| Permitir el control del feedback sensorial a través de sensores vibrotáctiles| Evitar la gestión de la sobrecarga sensorial (filtros y priorización de señales)  |
-| Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| Control de intensidad personalizable (retroalimentación adaptativa)|
+| Permitir el control del feedback sensorial a través de sensores vibrotáctiles| Evitar la gestión de la sobrecarga sensorial (filtros y priorización de señales) |
+| Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| Funcionamiento continuo durante largos periodos de tiempo |
 
 
 ## Propuesta de solución.
