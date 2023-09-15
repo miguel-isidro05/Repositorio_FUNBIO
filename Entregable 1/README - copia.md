@@ -107,6 +107,14 @@ Año de publicación: 2015
 Inventores: Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Yutaka Takaoka, Yusuke Nakano
 Se describe la tecnología para la guía localizada de una parte del cuerpo de un usuario hacia objetos específicos dentro de un entorno físico utilizando una interfaz de vibración. Un sistema de ejemplo puede incluir una interfaz de vibración que un usuario puede llevar puesta en una extremidad. La interfaz de vibración incluye una pluralidad de motores. El sistema incluye sensores acoplados al sistema vibrotáctil y un sistema de detección acoplado a los sensores y la interfaz de vibración. El sistema de detección está configurado para analizar un entorno físico en el que se encuentra el usuario para un objeto tangible usando el(los) sensor(es), para generar una trayectoria para navegar la extremidad del usuario hasta el objeto tangible basándose en una posición relativa de la extremidad. del usuario que lleva la interfaz de vibración a una posición del objeto tangible dentro del entorno físico, y para guiar la extremidad del usuario a lo largo de la trayectoria haciendo vibrar la interfaz de vibración.[21]
 
+## Lista de requerimiento
+|Funcianales | No funcionales  | |
+| ------------- | ------------- |------------- |
+|abalbalb |BALBAABL  |
+|abalbalb |BALBAABL  |
+|abalbalb |BALBAABL  |
+|abalbalb |BALBAABL  |
+
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
 
