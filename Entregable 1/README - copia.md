@@ -111,7 +111,7 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 
 ## Bibliografía
-[1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
+<a href="https://pubmed.ncbi.nlm.nih.gov/18295618/" >[1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/<a/>
 
 [2] Sorock GS, Smith E, Hall N. Hospitalized occupational finger amputations, New Jersey, 1985 and 1986. American Journal of Industrial Medicine. 1993 Mar;23(3):439–47. URL disponible en:
 https://pubmed.ncbi.nlm.nih.gov/8503463/
