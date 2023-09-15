@@ -19,7 +19,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Contexto
 ### Contexto mundial. 
-La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos **[(1)](#Bibliografía)**<br>. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera **[(1)](#Bibliografía)**<br>.  Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 **[(1)](#Bibliografía)**<br>, la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
+La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos **[1](#1.)**<br>. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera **[1](#1.)**<br>.  Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 **[1](#Bibliografía)**<br>, la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
 Centrándonos en una región específica de los Estados Unidos, encontramos que la tasa anual de amputaciones de dedos en el trabajo es de 9,3 por 100.000 **[(2)](#Bibliografía)**<br>.Aquello ocurre debido a que cada año se producen alrededor de 19.000 amputaciones de dedos en el trabajo en Estados Unidos, las cuales 20% de estas lesiones son lo suficientemente graves como para requerir hospitalización. Además, en base al total de personas registradas se analizó a un grupo selecto de 134 personas de las cuales la tasa fue mayor para los hombres (14,7) que para las mujeres (1,9). Las tasas ajustadas por edad fueron más altas para los hombres hispanos (52,8) y negros (28,9) que para los hombres blancos (9,5). Además de hallar que las personas que trabajaban con máquinas (por ejemplo, prensas, sierras o cortadoras) o las mantenían en la industria manufacturera corrían el mayor riesgo.
 
 <p align="center">
@@ -112,47 +112,46 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 ## Bibliografía
 
+######                                                                                                                                                                                          1.
+[1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
+
+[2] Sorock GS, Smith E, Hall N. Hospitalized occupational finger amputations, New Jersey, 1985 and 1986. American Journal of Industrial Medicine. 1993 Mar;23(3):439–47. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/8503463/
+[3] Garzón MO, Garcés M, Isaza D, Jaramillo S, Latorre V, Valderrama S. Characterization of workers covered by a risk insurance company in Colombia who suffered amputation. Revista Brasileira de Medicina do Trabalho. 2019;17(4):480–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/32685746/
+
+[4] Diseño D E Mecanismo de D de, Grados de LPPMT. ESCUELA DE POSGRADO [Internet]. Gob.pe. 2006 [citado el 9 de septiembre de 2023]. Disponible en: https://www.conadisperu.gob.pe/observatorio/wp-content/uploads/2020/11/1.ABARCA_PINO_VICTORIA_DISENO_MECANISMO_DEDO.pdf
+
+[5] Farro L, Tapia R, Bautista L, Montalvo R, Iriarte H. Características clínicas y demográficas del [Internet]. Org.pe. 2012 [citado el 9 de septiembre de 2023]. Disponible en: http://www.scielo.org.pe/pdf/rmh/v23n4/v23n4ao4.pdf
+
+[6] Prosthetic Hand. Maurice LeBlanc, MSME, CP [Internet]. Stanford.edu. [citado el 9 de septiembre de 2023]. Disponible en: https://web.stanford.edu/class/engr110/2011/LeBlanc-03a.pdf.
+
+ [7] Mahesh Gadhvi, Marlyn J. Moore, Muhammad Waseem. Physiology, Sensory System. StatPearls - NCBI Bookshelf [Internet]; 2023. URL disponible en: https://www.ncbi.nlm.nih.gov/books/NBK547656/ 
+
+ [8] María Cabeza, Ángel Lozada, Mario Pérez, Juan José Pérez Rivero C. y C., Gabriela del P. Romero, Lourdes Rosas, Gustavo Ruiz, Carlos Torner. Biología de los sistemas sensoriales. México: Universidad Autónoma Metropolitana; 2018. URL disponible en: https://www.casadelibrosabiertos.uam.mx/contenido/contenido/Libroelectronico/Tacto.pdf 
+
+ [9] Mauricio Ortega, Virginia Pacheco. Modalidad de la retroalimentación y comportamiento inteligente en estudiantes universitarios. México: Universidad Nacional Autónoma de México; 2014. URL disponible en : https://www.redalyc.org/pdf/292/29232614003.pdf 
+
+ [10] Khadijeh Moulaei, Abbas Sheiktaheri, Ali A. Haghdoost, Mansour S. Nezhadd, Kambiz Bahaadinbeigy. A data set for the design and implementation of the upper limb disability registry. PMC Pubmed Central [Internet]; 2023. URL disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312779/
  
-##### [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
-
-##### [2] Sorock GS, Smith E, Hall N. Hospitalized occupational finger amputations, New Jersey, 1985 and 1986. American Journal of Industrial Medicine. 1993 Mar;23(3):439–47. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/8503463/
-
-##### [3] Garzón MO, Garcés M, Isaza D, Jaramillo S, Latorre V, Valderrama S. Characterization of workers covered by a risk insurance company in Colombia who suffered amputation. Revista Brasileira de Medicina do Trabalho. 2019;17(4):480–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/32685746/
-
-##### [4] Diseño D E Mecanismo de D de, Grados de LPPMT. ESCUELA DE POSGRADO [Internet]. Gob.pe. 2006 [citado el 9 de septiembre de 2023]. Disponible en: https://www.conadisperu.gob.pe/observatorio/wp-content/uploads/2020/11/1.ABARCA_PINO_VICTORIA_DISENO_MECANISMO_DEDO.pdf
-
-##### [5] Farro L, Tapia R, Bautista L, Montalvo R, Iriarte H. Características clínicas y demográficas del [Internet]. Org.pe. 2012 [citado el 9 de septiembre de 2023]. Disponible en: http://www.scielo.org.pe/pdf/rmh/v23n4/v23n4ao4.pdf
-
-##### [6] Prosthetic Hand. Maurice LeBlanc, MSME, CP [Internet]. Stanford.edu. [citado el 9 de septiembre de 2023]. Disponible en: https://web.stanford.edu/class/engr110/2011/LeBlanc-03a.pdf.
-
-##### [7] Mahesh Gadhvi, Marlyn J. Moore, Muhammad Waseem. Physiology, Sensory System. StatPearls - NCBI Bookshelf [Internet]; 2023. URL disponible en: https://www.ncbi.nlm.nih.gov/books/NBK547656/ 
-
-##### [8] María Cabeza, Ángel Lozada, Mario Pérez, Juan José Pérez Rivero C. y C., Gabriela del P. Romero, Lourdes Rosas, Gustavo Ruiz, Carlos Torner. Biología de los sistemas sensoriales. México: Universidad Autónoma Metropolitana; 2018. URL disponible en: https://www.casadelibrosabiertos.uam.mx/contenido/contenido/Libroelectronico/Tacto.pdf 
-
-##### [9] Mauricio Ortega, Virginia Pacheco. Modalidad de la retroalimentación y comportamiento inteligente en estudiantes universitarios. México: Universidad Nacional Autónoma de México; 2014. URL disponible en : https://www.redalyc.org/pdf/292/29232614003.pdf 
-
-##### [10] Khadijeh Moulaei, Abbas Sheiktaheri, Ali A. Haghdoost, Mansour S. Nezhadd, Kambiz Bahaadinbeigy. A data set for the design and implementation of the upper limb disability registry. PMC Pubmed Central [Internet]; 2023. URL disponible en: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312779/
+ [11] Aparicio C, Eduardo J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002. Universidad Nacional Mayor de San Marcos; 2006. Disponible en: https://cybertesis.unmsm.edu.pe/handle/20.500.12672/15921
  
-##### [11] Aparicio C, Eduardo J. Etiología más frecuente de las amputaciones de miembro superior en el Instituto Especializado de Rehabilitación “Adriana Rebaza Flores” de enero 1999 a diciembre del 2002. Universidad Nacional Mayor de San Marcos; 2006. Disponible en: https://cybertesis.unmsm.edu.pe/handle/20.500.12672/15921
- 
-##### [12] Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima Perú : 1990) [Internet]. 2010 [citado el 10 de septiembre de 2023];71(4):271–5. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
+ [12] Camacho-Conchucos HT. Pacientes amputados por accidentes de trabajo: características y años acumulados de vida productiva potencial perdidos. An Fac Med (Lima Perú : 1990) [Internet]. 2010 [citado el 10 de septiembre de 2023];71(4):271–5. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832010000400011
 
-##### [13] Nejatkermany MPZ, Modirian E, Soroush M, Masoumi M, Hosseini M. Phantom limb sensation (PLS) and phantom limb pain (PLP) among young landmine amputees. Iranian Journal of Child Neurology. 2016;10(3):42. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4928615/
+ [13] Nejatkermany MPZ, Modirian E, Soroush M, Masoumi M, Hosseini M. Phantom limb sensation (PLS) and phantom limb pain (PLP) among young landmine amputees. Iranian Journal of Child Neurology. 2016;10(3):42. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4928615/
 
-##### [14] Fontana JM, Molisani L. Evaluación de un Sistema Vibrotáctil para Sustitución Sensorial en Prótesis de Miembro Superior. Mecánica Computacional [Internet]. 2013 [cited 2023 Sep 10];32(34):2909–15. Disponible en: http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/4528
+ [14] Fontana JM, Molisani L. Evaluación de un Sistema Vibrotáctil para Sustitución Sensorial en Prótesis de Miembro Superior. Mecánica Computacional [Internet]. 2013 [cited 2023 Sep 10];32(34):2909–15. Disponible en: http://venus.ceride.gov.ar/ojs/index.php/mc/article/view/4528
 
-##### [15] Pylatiuk C, Kargov A, Schulz S. Design and Evaluation of a Low-Cost Force Feedback System for Myoelectric Prosthetic Hands. JPO: Journal of Prosthetics and Orthotics [Internet]. 2006 Apr 1;18(2):57–61. Disponible en:https://journals.lww.com/jpojournal/fulltext/2006/04000/design_and_evaluation_of_a_low_cost_force_feedback.7.aspx
+ [15] Pylatiuk C, Kargov A, Schulz S. Design and Evaluation of a Low-Cost Force Feedback System for Myoelectric Prosthetic Hands. JPO: Journal of Prosthetics and Orthotics [Internet]. 2006 Apr 1;18(2):57–61. Disponible en:https://journals.lww.com/jpojournal/fulltext/2006/04000/design_and_evaluation_of_a_low_cost_force_feedback.7.aspx
 
-##### [16] Stepp CE, Matsuoka Y. Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE Trans Neural Syst Rehabil Eng [Internet]. 2011;19(6):677–85. Disponible en: http://dx.doi.org/10.1109/tnsre.2011.2168981 
+ [16] Stepp CE, Matsuoka Y. Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE Trans Neural Syst Rehabil Eng [Internet]. 2011;19(6):677–85. Disponible en: http://dx.doi.org/10.1109/tnsre.2011.2168981 
 
-##### [17] Aguilar, A. & Vargas, D. Diseño e implementación de un control de impedancia para mejorar el desempeño de un prototipo de prótesis de mano que usa brazalete MYO. [Internet]. 2022. [citado: 2023, septiembre] Disponible en: http://hdl.handle.net/11349/30597    
+ [17] Aguilar, A. & Vargas, D. Diseño e implementación de un control de impedancia para mejorar el desempeño de un prototipo de prótesis de mano que usa brazalete MYO. [Internet]. 2022. [citado: 2023, septiembre] Disponible en: http://hdl.handle.net/11349/30597    
 
-##### [18] Chien J, Korzeniewska A, Colloca L, Campbell C, Dougherty P, Lenz F. Human thalamic somatosensory nucleus (ventral caudal, vc) as a locus for stimulation by INPUTS from tactile, noxious and thermal sensors on an active prosthesis. Sensors (Basel) [Internet]. 2017 [citado el 10 de septiembre de 2023];17(6):1197. Disponible en: http://dx.doi.org/10.3390/s17061197 
+ [18] Chien J, Korzeniewska A, Colloca L, Campbell C, Dougherty P, Lenz F. Human thalamic somatosensory nucleus (ventral caudal, vc) as a locus for stimulation by INPUTS from tactile, noxious and thermal sensors on an active prosthesis. Sensors (Basel) [Internet]. 2017 [citado el 10 de septiembre de 2023];17(6):1197. Disponible en: http://dx.doi.org/10.3390/s17061197 
 
-##### [19] Speidel A, Olde B, Scarsén M. Apparatus for measuring vibrotactile perception and preparation method thereof including automated measurement of temperature. Patent. SE:1950373:A1, 2020. 		https://patents.google.com/pateaaant/SE1950373A1/en?oq=SE1950373A1 
+ [19] Speidel A, Olde B, Scarsén M. Apparatus for measuring vibrotactile perception and preparation method thereof including automated measurement of temperature. Patent. SE:1950373:A1, 2020. 		https://patents.google.com/pateaaant/SE1950373A1/en?oq=SE1950373A1 
 
-##### [20] Sears HH, Dyck AD, Iversen EK, Kunz SR, Linder JR, Archer SL, et al. System and method for force feedback [Internet]. [cited 2023 Sep 14]. URL disponible en: https://patents.google.com/patent/US7438724B2/en
+ [20] Sears HH, Dyck AD, Iversen EK, Kunz SR, Linder JR, Archer SL, et al. System and method for force feedback [Internet]. [cited 2023 Sep 14]. URL disponible en: https://patents.google.com/patent/US7438724B2/en
 
-##### [21] Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Yutaka Takaoka, Yusuke Nakano. Object detection and localized extremity guidance. United States; (2015). URL disponible en: https://patents.google.com/patent/US9613505B2/  
+ [21] Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Yutaka Takaoka, Yusuke Nakano. Object detection and localized extremity guidance. United States; (2015). URL disponible en: https://patents.google.com/patent/US9613505B2/  
 
 
