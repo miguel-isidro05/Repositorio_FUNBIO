@@ -165,7 +165,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4928615/
 
 [18] Chien J, Korzeniewska A, Colloca L, Campbell C, Dougherty P, Lenz F. Human thalamic somatosensory nucleus (ventral caudal, vc) as a locus for stimulation by INPUTS from tactile, noxious and thermal sensors on an active prosthesis. Sensors (Basel) [Internet]. 2017 [citado el 10 de septiembre de 2023];17(6):1197. Disponible en: http://dx.doi.org/10.3390/s17061197 
 
-[19] Speidel A, Olde B, Scarsén M. Apparatus for measuring vibrotactile perception and preparation method thereof including automated measurement of temperature. Patent. SE:1950373:A1, 2020. 		https://patents.google.com/pateaaant/SE1950373A1/en?oq=SE1950373A1 
+[19] Strbac M, Bijelic G, Malesevic N, Keller T. Sistema y método de realimentación electrotáctil. Patentar. ES:2930590:T3, 2022.
+Disponible en https://patents.google.com/patent/ES2930590T3/
 
 [20] Sears HH, Dyck AD, Iversen EK, Kunz SR, Linder JR, Archer SL, et al. System and method for force feedback [Internet]. [cited 2023 Sep 14]. URL disponible en: https://patents.google.com/patent/US7438724B2/en
 
