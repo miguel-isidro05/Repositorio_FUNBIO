@@ -28,5 +28,5 @@ Ingeniería Biomédica PUCP-UPCH
 | Jose Fernando Mamami Condori            <h5> jose.mamani@upch.pe <h5/>|  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
 | Wilber Mauricio Zenteno Castilla        <h5> wilber.zenteno@upch.pe <h5/>|  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
 
-[**Acerca de nuestra investigación**](https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Entregable%201/README%20-%20copia.md)<br>
+[**Acerca de nuestra investigación**](https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Entregable%20de%20la%20semana/README%20-%20copia.md)<br>
 
