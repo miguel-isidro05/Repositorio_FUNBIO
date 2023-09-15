@@ -28,4 +28,5 @@ Ingeniería Biomédica PUCP-UPCH
 | Jose Fernando Mamami Condori |  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
 | Wilber Mauricio Zenteno Castilla  |  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
 
+[**Acerca de nuestra investigación**](https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Entregable%201/README%20-%20copia.md)<br>
 
