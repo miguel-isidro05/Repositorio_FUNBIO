@@ -10,7 +10,8 @@ Ingeniería Biomédica PUCP-UPCH
 </p>
 
 
-</p>
+</p>![Image20230914194652](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/080b7423-0d8f-4017-9a8f-4e6102d151ca)
+
   <h5 align="center">
     Tema de proyecto: Sistema somatosensoriales en prótesis no invasivas del miembro superior
   </h5>
