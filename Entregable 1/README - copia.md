@@ -55,7 +55,6 @@ El sistema somatosensorial se encarga de procesar y transmitir información rela
 La retroalimentación sensorial se refiere al proceso mediante el cual el sistema nervioso recibe información sensorial del entorno externo o interno y la utiliza para monitorear y ajustar la actividad y el comportamiento del cuerpo. La retroalimentación puede asumir diferentes modalidades, puede haber retroalimentaciones visuales, auditivas, táctiles, autónomas [8].  Por ello, este proceso es crucial para que el sistema somatosensorial funcione eficazmente y para que podamos adaptarnos al mundo que nos rodea.
 <p align="center">
   <img width="860" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/5.jpg">
-</p>
 
 ## Usuario
 Los estudios descriptivos son de gran importancia en la evaluación de un usuario, pues en base a ello se definirá un público objetivo a desarrollar. Por dicha razón, se han considerado varios puntos a tomar en cuenta, tales como la mayor predominancia de pacientes suele variar entre varones de 21 a 30 años [11,12], además los lugares de amputación más frecuentes suelen ocurrir en la mano (22,2%) [11,12] y la procedencia de los pacientes tiende a ser de Lima o Callao (46.8%) [11].
@@ -108,13 +107,9 @@ Año de publicación: 2015
 Inventores: Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Yutaka Takaoka, Yusuke Nakano
 Se describe la tecnología para la guía localizada de una parte del cuerpo de un usuario hacia objetos específicos dentro de un entorno físico utilizando una interfaz de vibración. Un sistema de ejemplo puede incluir una interfaz de vibración que un usuario puede llevar puesta en una extremidad. La interfaz de vibración incluye una pluralidad de motores. El sistema incluye sensores acoplados al sistema vibrotáctil y un sistema de detección acoplado a los sensores y la interfaz de vibración. El sistema de detección está configurado para analizar un entorno físico en el que se encuentra el usuario para un objeto tangible usando el(los) sensor(es), para generar una trayectoria para navegar la extremidad del usuario hasta el objeto tangible basándose en una posición relativa de la extremidad. del usuario que lleva la interfaz de vibración a una posición del objeto tangible dentro del entorno físico, y para guiar la extremidad del usuario a lo largo de la trayectoria haciendo vibrar la interfaz de vibración.[21]
 
-
-## LLuvia de ideas.
-![Image20230914194652](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/04b58eb1-66dc-4602-8c6d-2ffb31953116)
-
 ## Lista de requerimientos.
 
-| Funcionaes | No funcionales |
+| Funcionales | No funcionales |
 | ------- | ----------- |
 | Controlar la temperatura del sistema aislado | No ser invasivo (ruido) |
 
