@@ -21,12 +21,12 @@ Ingeniería Biomédica PUCP-UPCH
 ## Asignación de roles
 | Integrantes | Rol | Perfil Github |
 | ------------- | ------------- |------------- |
-| Ariana Geraldine Tania Roca Pérez        ariana.roca@upch.pe |Coordinadora General  |<a href="https://github.com/ArianaRoca"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143196783?v=4"> |
-| Itzel Miyeko De la Cruz Galvez           itzel.de.la.cruz@upch.pe |  Coordinadora de Planos y Bocetos   |<a href="https://github.com/Itzmiyeko"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143201186?v=4">  |
-| Alessandra Valle Montoya                 alessandra.valle@upch.pe|  Coordinadora de Electrónica y Programación  |<a href="https://github.com/AleValleM"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018589?v=4">   |
-| Miguel Eduardo Isidro Baez               miguel.isidro@upch.pe|  Coordinador de Página Web y Programación   |<a href="https://github.com/miguel-isidro05"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
-| Jose Fernando Mamami Condori             jose.mamani@upch.pe|  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
-| Wilber Mauricio Zenteno Castilla         wilber.zenteno@upch.pe|  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
+| Ariana Geraldine Tania Roca Pérez        <h5>ariana.roca@upch.pe <h5/>|Coordinadora General  |<a href="https://github.com/ArianaRoca"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143196783?v=4"> |
+| Itzel Miyeko De la Cruz Galvez           <h5>itzel.de.la.cruz@upch.pe <h5/> |  Coordinadora de Planos y Bocetos   |<a href="https://github.com/Itzmiyeko"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143201186?v=4">  |
+| Alessandra Valle Montoya                 <h5>alessandra.valle@upch.pe <h5/>|  Coordinadora de Electrónica y Programación  |<a href="https://github.com/AleValleM"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018589?v=4">   |
+| Miguel Eduardo Isidro Baez              <h5> miguel.isidro@upch.pe <h5/>|  Coordinador de Página Web y Programación   |<a href="https://github.com/miguel-isidro05"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143018639?s=96&v=4">  |
+| Jose Fernando Mamami Condori            <h5> jose.mamani@upch.pe <h5/>|  Coordinador de Investigación   |<a href="https://github.com/Fernando968"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/84026167?v=4">   |
+| Wilber Mauricio Zenteno Castilla        <h5> wilber.zenteno@upch.pe <h5/>|  Coordinador de Producción Digital y Prototipado   |<a href="https://github.com/Mauricioz2111"> <image align="center;" style="border-radius: 50%;" width="100px;" src ="https://avatars.githubusercontent.com/u/143200892?v=4">   |
 
 [**Acerca de nuestra investigación**](https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Entregable%201/README%20-%20copia.md)<br>
 
