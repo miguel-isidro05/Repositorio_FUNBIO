@@ -19,15 +19,15 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-- **- [Contexto](#Contexto)**<br>
--**[Definiciones Instructions](#Definiciones)**<br>
--**[Usuario](#Definiciones)**<br>
--**[Problemática](#Problemática)**<br>
--**[Estado del arte](#Estadodelarte)**<br>
--**[Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
--**[Lista de requerimientos](#Listaderequerimientos)**<br>
--**[Propuesta de solución](#Propuestadesolución)**<br>
--**[Bibliografía](#Bibliografía)**<br>
+**- [Contexto](#Contexto)**<br>
+**- [Definiciones Instructions](#Definiciones)**<br>
+**- [Usuario](#Definiciones)**<br>
+**- [Problemática](#Problemática)**<br>
+**- [Estado del arte](#Estadodelarte)**<br>
+**- [Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
+**- [Lista de requerimientos](#Listaderequerimientos)**<br>
+**- [Propuesta de solución](#Propuestadesolución)**<br>
+**- [Bibliografía](#Bibliografía)**<br>
 
 
 ## Contexto
@@ -108,7 +108,6 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 |<h4>Codigo: USOO7438724B2<h4/> <h4>Harold H. Sears, Arthur D. Dyek, Edwin K. Iversen, Steven R. Kunz, James R. Linder, Shawn L. Archer, Reed H. Grant, Ronald E. Madsen Jr.<h4/> <h4>(2018)<h4/> |<h4>"Sistema y método de retroalimentación y fuerza" <h4/> <h6>         En la presente invención se proporciona un sistema y un método de retroalimentación de la fuerza de agarre para su uso con un dispositivo protésico. El sistema puede incluir una mano protésica que tiene una pluralidad de dígitos para usar con el dispositivo protésico. Se puede proporcionar un sensor de fuerza para producir una señal de fuerza y ​​el sensor de fuerza está configurado para asociarse con la pluralidad de dígitos de la mano protésica. Además, un controlador de retroalimentación de fuerza puede recibir la señal de fuerza del sensor de fuerza. Un actuador de retroalimentación de fuerza también está en comunicación con el controlador de retroalimentación de fuerza. El accionador de retroalimentación de fuerza puede proporcionar vibraciones de retroalimentación a un usuario del dispositivo protésico.[20] <h6/>|<p align="center"> <img width="2000" height="250" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/imagen%202.png"> </p>|
 |<h4>Codigo: US9613505B2<h4/> <h4>Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Yutaka Takaoka, Yusuke Nakano<h4/> <h4>(2015)<h4/> | <h4>"Detección de objetos y guía localizada de las extremidades." <h4/><h6>         Se describe la tecnología para la guía localizada de una parte del cuerpo de un usuario hacia objetos específicos dentro de un entorno físico utilizando una interfaz de vibración. Un sistema de ejemplo puede incluir una interfaz de vibración que un usuario puede llevar puesta en una extremidad. La interfaz de vibración incluye una pluralidad de motores. El sistema incluye sensores acoplados al sistema vibrotáctil y un sistema de detección acoplado a los sensores y la interfaz de vibración. El sistema de detección está configurado para analizar un entorno físico en el que se encuentra el usuario para un objeto tangible usando el(los) sensor(es), para generar una trayectoria para navegar la extremidad del usuario hasta el objeto tangible basándose en una posición relativa de la extremidad. del usuario que lleva la interfaz de vibración a una posición del objeto tangible dentro del entorno físico, y para guiar la extremidad del usuario a lo largo de la trayectoria haciendo vibrar la interfaz de vibración.[21]<h6/> |<img width="2000" height="250" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/imagen%203.png">   |
 
-
 ## Lista de requerimientos
 
 | Funcionales | No funcionales |
@@ -118,11 +117,11 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 | Capacidad de detectar señales de entrada (presión y fuerza)| Resistente a condiciones ambientales adversas, golpes o vibraciones |
 | Permitir el control del feedback sensorial a través de sensores vibrotáctiles| Evitar la gestión de la sobrecarga sensorial (filtros y priorización de señales) |
 | Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| Funcionamiento continuo durante largos periodos de tiempo |
+|Correcta lectura de datos de entrada mediante un software| Es portatil y estético|
 
 
 ## Propuesta de solución
 Creación de un sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
-
 
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
