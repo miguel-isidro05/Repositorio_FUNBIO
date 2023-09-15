@@ -17,6 +17,19 @@ Ingeniería Biomédica PUCP-UPCH
   
 </p>
 
+## Indice.
+
+**[Contexto](#Contexto)**<br>
+**[Definiciones Instructions](#Definiciones)**<br>
+**[Usuario](#Definiciones)**<br>
+**[Problemática](#Problemática)**<br>
+**[Estado del arte](#Estadodelarte)**<br>
+**[Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
+**[Lista de requerimientos](#Listaderequerimientos)**<br>
+**[Propuesta de solución](#Propuestadesolución)**<br>
+**[Bibliografía](#Bibliografía)**<br>
+
+
 ## Contexto
 ### Contexto mundial. 
 La pérdida de alguna extremidad debido a accidentes laborales es más común de lo que parece sobre todo en personas de escasos recursos [1]. Asimismo, aquellas personas para solventar sus gastos tienden a realizar trabajos manuales en la industria manufacturera [1].  Además se encontró que en el año 2005,1.6 millones de personas en los Estados Unidos vivían con la pérdida de alguna extremidad y en la actualidad se estima que 1 de cada 190 estadounidenses viven con la ausencia de alguna extremidad y de no controlarse este aumento masivo se estima que la cifra ascienda a 3.6 millones de estadounidenses para el año 2050 [3], la cual es una cifra alarmante tomando en cuenta que los Estados Unidos es el país que más destaca a nivel mundial.
@@ -96,7 +109,7 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 |<h4>Codigo: US9613505B2<h4/> <h4>Eric Martinson, Emrah Akin Sisbot, Joseph Djugash, Kentaro Oguchi, Yutaka Takaoka, Yusuke Nakano<h4/> <h4>(2015)<h4/> | <h4>"Detección de objetos y guía localizada de las extremidades." <h4/><h6>         Se describe la tecnología para la guía localizada de una parte del cuerpo de un usuario hacia objetos específicos dentro de un entorno físico utilizando una interfaz de vibración. Un sistema de ejemplo puede incluir una interfaz de vibración que un usuario puede llevar puesta en una extremidad. La interfaz de vibración incluye una pluralidad de motores. El sistema incluye sensores acoplados al sistema vibrotáctil y un sistema de detección acoplado a los sensores y la interfaz de vibración. El sistema de detección está configurado para analizar un entorno físico en el que se encuentra el usuario para un objeto tangible usando el(los) sensor(es), para generar una trayectoria para navegar la extremidad del usuario hasta el objeto tangible basándose en una posición relativa de la extremidad. del usuario que lleva la interfaz de vibración a una posición del objeto tangible dentro del entorno físico, y para guiar la extremidad del usuario a lo largo de la trayectoria haciendo vibrar la interfaz de vibración.[21]<h6/> |<img width="2000" height="250" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/imagen%203.png">   |
 
 
-## Lista de requerimientos.
+## Lista de requerimientos
 
 | Funcionales | No funcionales |
 | ------- | ----------- |
@@ -107,11 +120,11 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 | Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| Funcionamiento continuo durante largos periodos de tiempo |
 
 
-## Propuesta de solución.
+## Propuesta de solución
 
 
 ## Bibliografía
-<a href="https://pubmed.ncbi.nlm.nih.gov/18295618/" >[1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/<a/>
+[1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
 
 [2] Sorock GS, Smith E, Hall N. Hospitalized occupational finger amputations, New Jersey, 1985 and 1986. American Journal of Industrial Medicine. 1993 Mar;23(3):439–47. URL disponible en:
 https://pubmed.ncbi.nlm.nih.gov/8503463/
