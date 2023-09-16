@@ -196,5 +196,5 @@ Disponible en https://patents.google.com/patent/ES2930590T3/
 
 [23] I-limb® quantum bionic hand. Ossur.com [Internet]. Ossur.com. [citado el 16 de septiembre de 2023]. Disponible en: https://www.ossur.com/en-us/prosthetics/arms/i-limb-quantum
 
-
+[24]
 
