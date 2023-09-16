@@ -133,8 +133,8 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 . Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
 
 ### 3. MYHAND
-Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas. </p>  
-Descripción: prótesis de miembro superior que tiene varios agarres adaptables y sensibles. Los dedos se doblarán alrededor de cualquier forma u objeto determinado y usted puede ayudar activamente a la mano a cerrar el puño o señalar con el dedo índice. Para un agarre óptimo, ahora presentamos MySkin.[24</p>  
+Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas.
+Descripción: prótesis de miembro superior que tiene varios agarres adaptables y sensibles. Los dedos se doblarán alrededor de cualquier forma u objeto determinado y usted puede ayudar activamente a la mano a cerrar el puño o señalar con el dedo índice. Para un agarre óptimo, ahora presentamos MySkin.[24]</p>  
 #### Empresa: HY5-Bionics </p>  
 #### Características principales:</p>   
 . Tamaño: 7 ¾ </p> 
