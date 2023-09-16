@@ -124,7 +124,7 @@ Descripción: Prótesis mioeléctrica con sensación háptica en donde la veloci
 . Retroalimentación táctil sensorial.</p>
 . Microprocesador L6882</p>
 
-### 2.I-LIMB Hand
+### 2. I-LIMB Hand
 Descripción: Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]
 #### Empresa: Ossur</p> 
 #### Características principales:</p>
@@ -132,11 +132,11 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 . La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>
 . Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
 
-### MYHAND
+### 3. MYHAND
 Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas. </p>  
 Descripción: prótesis de miembro superior que tiene varios agarres adaptables y sensibles. Los dedos se doblarán alrededor de cualquier forma u objeto determinado y usted puede ayudar activamente a la mano a cerrar el puño o señalar con el dedo índice. Para un agarre óptimo, ahora presentamos MySkin.[24</p>  
 #### Empresa: HY5-Bionics </p>  
-#### Características:</p>   
+#### Características principales:</p>   
 . Tamaño: 7 ¾ </p> 
 . Patrones de agarre: pellizco, potencia, trípode, puño, apuntar.</p> 
 . Rendimiento:  Potencia máxima de agarre: 120N. Agarre máximo del trípode: 60N.  </p> 
