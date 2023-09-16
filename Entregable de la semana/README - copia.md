@@ -118,7 +118,11 @@ Descripción: Prótesis mioeléctrica con sensación háptica en donde la veloci
 . Conectividad Bluetooth</p>
 . Retroalimentación táctil sensorial.</p>
 . Microprocesador L6882</p>
-<img width="700" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">
+
+<p align="center">
+  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">
+</p>
+
 ### 2. I-LIMB Hand
 Descripción: Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]
 #### Empresa: Ossur</p> 
@@ -126,7 +130,10 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 . La mano i-LIMB utiliza señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Sensores electromiográficos (EMG) capturan estas señales y las traducen en comandos para la mano artificial.</p>
 . La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>
 . Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
-<img width="700" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
+
+<p align="center">
+  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
+</p>
 
 ### 3. MYHAND
 Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas.
@@ -139,7 +146,10 @@ Descripción: prótesis de miembro superior que tiene varios agarres adaptables 
 . Dígitos de los dedos de titanio indestructibles. </p> 
 . Peso: 575 g.</p> 
 . Retroalimentación háptica sensorial. </p> 
-<img width="700" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros3.jpg">
+
+<p align="center">
+  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros3.jpg">
+</p>
 
 ## Lista de requerimientos
 
