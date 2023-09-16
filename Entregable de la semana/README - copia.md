@@ -215,9 +215,9 @@ Disponible en https://patents.google.com/patent/ES2930590T3/
 
 [21] Harshbarger SD, Beaty JD, Jacob Vogelstein R, Thakor NV. Multi-modal neural interfacing for prosthetic devices. US Patent. 20170020693:A1, 2017.Disponible en https://patents.google.com/patent/US20170020693A1/
 
-[22]Ability handTM — [Internet]. PSYONIC. [citado el 16 de septiembre de 2023]. Disponible en: https://www.psyonic.io/ability-hand 
+[22] Ability handTM — [Internet]. PSYONIC. [citado el 16 de septiembre de 2023]. Disponible en: https://www.psyonic.io/ability-hand 
 
 [23] I-limb® quantum bionic hand. Ossur.com [Internet]. Ossur.com. [citado el 16 de septiembre de 2023]. Disponible en: https://www.ossur.com/en-us/prosthetics/arms/i-limb-quantum
 
-[24]
+[24] Hy M—. MyHand — Hy5 [Internet]. Hy5 | Worlds 1st hydraulic hand prosthesis. [citado el 16 de septiembre de 2023]. Disponible en: https://www.hy5-bionics.com/myhand
 
