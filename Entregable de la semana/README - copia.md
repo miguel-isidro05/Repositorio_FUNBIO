@@ -109,11 +109,6 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 |<h4>Codigo: US20170020693A1<h4/> <h4>Stuart D. HarshbargerJames D. BeatyR. Jacob VogelsteinNitish V. Thakor <h4/> <h4>(2016)<h4/> | <h4>"Detección de objetos y guía localizada de las extremidades." <h4/><h6>         La invención descrita proporciona un sistema y un método de retroalimentación de la fuerza de agarre para su uso con un dispositivo protésico. El sistema incluye una mano protésica con una pluralidad de dígitos para usar con el dispositivo protésico. Además, se proporciona un sensor de fuerza que está configurado para asociarse con la pluralidad de dígitos de la mano protésica y producir una señal de fuerza. El controlador de retroalimentación de fuerza recibe la señal de fuerza del sensor de fuerza, y el actuador de retroalimentación de fuerza también está en comunicación con el controlador de retroalimentación de fuerza. El accionador de retroalimentación de fuerza puede proporcionar vibraciones de retroalimentación a un usuario del dispositivo protésico para mejorar la experiencia de uso y la precisión en la realización de tareas. [21]<h6/> |<img width="2400" height="250" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/imagen%207.png">   |
 
 ## Dispositivos comerciales
-
-| Producto y Empresa | Caracteristicas |Descripción|              Imagen               |
-| ------- | ----------- | --| -------------------------------- |
-|<h4>Ability Hand<h4/> <h4> Empresa: Psyonic <h4/> |- Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)</p>- Una batería de 7,4 V y 2200 mA</p>- Conectividad Bluetooth   </p>- Retroalimentación táctil sensorial.</p>- Microprocesador L6882</p> <h6/> |Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]|<p align="center"> <img width="2000" height="250" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg"> </p>|
-
 ### 1. Ability Hand
 Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]</p>
 #### Empresa: Psyonic</p>
@@ -123,7 +118,7 @@ Descripción: Prótesis mioeléctrica con sensación háptica en donde la veloci
 . Conectividad Bluetooth</p>
 . Retroalimentación táctil sensorial.</p>
 . Microprocesador L6882</p>
-
+<img width="700" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">
 ### 2. I-LIMB Hand
 Descripción: Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]
 #### Empresa: Ossur</p> 
@@ -131,6 +126,7 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 . La mano i-LIMB utiliza señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Sensores electromiográficos (EMG) capturan estas señales y las traducen en comandos para la mano artificial.</p>
 . La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>
 . Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
+<img width="700" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
 
 ### 3. MYHAND
 Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas.
@@ -143,6 +139,7 @@ Descripción: prótesis de miembro superior que tiene varios agarres adaptables 
 . Dígitos de los dedos de titanio indestructibles. </p> 
 . Peso: 575 g.</p> 
 . Retroalimentación háptica sensorial. </p> 
+<img width="700" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros3.jpg">
 
 ## Lista de requerimientos
 
