@@ -110,7 +110,7 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 ## Dispositivos comerciales
 ### 1. Ability Hand
-Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]
+Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]</p>
 #### Empresa: Psyonic</p>
 #### Características principales:</p>
 . Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)</p>
@@ -119,6 +119,13 @@ Descripción: Prótesis mioeléctrica con sensación háptica en donde la veloci
 . Retroalimentación táctil sensorial.</p>
 . Microprocesador L6882</p>
 
+### 2.I-LIMB Hand
+Descripción: Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]
+#### Empresa: Ossur</p> 
+#### Características principales:</p>
+. La mano i-LIMB utiliza señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Sensores electromiográficos (EMG) capturan estas señales y las traducen en comandos para la mano artificial.</p>
+. La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>
+. Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
 
 
 ## Lista de requerimientos
