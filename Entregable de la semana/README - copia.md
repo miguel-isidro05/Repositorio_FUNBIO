@@ -110,9 +110,9 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 
 ## Dispositivos comerciales
 ### 1. Ability Hand
-Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo.
-Empresa: Psyonic</p>
-Características principales:</p>
+Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]
+#### Empresa: Psyonic</p>
+#### Características principales:</p>
 . Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)</p>
 . Una batería de 7,4 V y 2200 mA</p>
 . Conectividad Bluetooth</p>
@@ -184,5 +184,10 @@ Disponible en https://patents.google.com/patent/ES2930590T3/
 [20] Sears HH, Dyck AD, Iversen EK, Kunz SR, Linder JR, Archer SL, et al. System and method for force feedback [Internet]. [cited 2023 Sep 14]. URL disponible en: https://patents.google.com/patent/US7438724B2/en
 
 [21] Harshbarger SD, Beaty JD, Jacob Vogelstein R, Thakor NV. Multi-modal neural interfacing for prosthetic devices. US Patent. 20170020693:A1, 2017.Disponible en https://patents.google.com/patent/US20170020693A1/
+
+[22]Ability handTM — [Internet]. PSYONIC. [citado el 16 de septiembre de 2023]. Disponible en: https://www.psyonic.io/ability-hand 
+
+[23] I-limb® quantum bionic hand. Ossur.com [Internet]. Ossur.com. [citado el 16 de septiembre de 2023]. Disponible en: https://www.ossur.com/en-us/prosthetics/arms/i-limb-quantum
+
 
 
