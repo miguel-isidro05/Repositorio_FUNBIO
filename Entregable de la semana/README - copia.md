@@ -136,13 +136,13 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas. </p>  
 Descripción: prótesis de miembro superior que tiene varios agarres adaptables y sensibles. Los dedos se doblarán alrededor de cualquier forma u objeto determinado y usted puede ayudar activamente a la mano a cerrar el puño o señalar con el dedo índice. Para un agarre óptimo, ahora presentamos MySkin.[24</p>  
 #### Empresa: HY5-Bionics </p>  
-#### Características:  
-. Tamaño: 7 ¾
-. Patrones de agarre: pellizco, potencia, trípode, puño, apuntar.
-. Rendimiento:  Potencia máxima de agarre: 120N. Agarre máximo del trípode: 60N
-. Dígitos de los dedos de titanio indestructibles.
-. Peso: 575 g 
-. Retroalimentación háptica sensorial.
+#### Características:</p>   
+. Tamaño: 7 ¾ </p> 
+. Patrones de agarre: pellizco, potencia, trípode, puño, apuntar.</p> 
+. Rendimiento:  Potencia máxima de agarre: 120N. Agarre máximo del trípode: 60N.  </p> 
+. Dígitos de los dedos de titanio indestructibles. </p> 
+. Peso: 575 g.</p> 
+. Retroalimentación háptica sensorial. </p> 
 
 ## Lista de requerimientos
 
