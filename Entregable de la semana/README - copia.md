@@ -120,7 +120,7 @@ Descripción: Prótesis mioeléctrica con sensación háptica en donde la veloci
 . Microprocesador L6882</p>
 
 <p align="center">
-  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">
+  <img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">
 </p>
 
 ### 2. I-LIMB Hand
@@ -132,7 +132,7 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 . Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
 
 <p align="center">
-  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
+  <img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
 </p>
 
 ### 3. MYHAND
@@ -148,7 +148,7 @@ Descripción: prótesis de miembro superior que tiene varios agarres adaptables 
 . Retroalimentación háptica sensorial. </p> 
 
 <p align="center">
-  <img width="760" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros3.jpg">
+  <img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros3.jpg">
 </p>
 
 ## Lista de requerimientos
