@@ -130,7 +130,6 @@ Descripción: Protesis mioeléctrica controlada por un sistema de control que ut
 . La mano i-LIMB utiliza señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Sensores electromiográficos (EMG) capturan estas señales y las traducen en comandos para la mano artificial.</p>
 . La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>
 . Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.    </p>    
-
 <p align="center">
   <img width="400" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
 </p>
