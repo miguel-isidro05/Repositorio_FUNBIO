@@ -46,10 +46,4 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 
 ## Conclusión del CS elegido
 
-## Bibliografía
-
-
-[23] I-limb® quantum bionic hand. Ossur.com [Internet]. Ossur.com. [citado el 16 de septiembre de 2023]. Disponible en: https://www.ossur.com/en-us/prosthetics/arms/i-limb-quantum
-
-[24] Hy M—. MyHand — Hy5 [Internet]. Hy5 | Worlds 1st hydraulic hand prosthesis. [citado el 16 de septiembre de 2023]. Disponible en: https://www.hy5-bionics.com/myhand
 
