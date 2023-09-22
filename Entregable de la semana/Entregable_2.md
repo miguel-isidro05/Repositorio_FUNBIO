@@ -20,10 +20,10 @@ Ingeniería Biomédica PUCP-UPCH
 ## Indice.
 
 **- [Problemática](#Problemática)**<br>
-**- [Estado del arte](#Estadodelarte)**<br>
-**- [Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
-**- [Lista de requerimientos](#Listaderequerimientos)**<br>
-**- [Propuesta de solución](#Propuestadesolución)**<br>
+**- [Estado del arte](#Estado-del-arte)**<br>
+**- [Tecnología existente en el ámbito de patentes](#Tecnología-existente-en-el-ámbito-de-patentes)**<br>
+**- [Lista de requerimientos](#Lista-de-requerimientos)**<br>
+**- [Propuesta de solución](#Propuesta-de-solución)**<br>
 **- [Bibliografía](#Bibliografía)**<br>
 
 
