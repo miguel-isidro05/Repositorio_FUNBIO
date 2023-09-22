@@ -27,6 +27,7 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
 **- [Lista de requerimientos](#Listaderequerimientos)**<br>
 **- [Propuesta de solución](#Propuestadesolución)**<br>
+**- [Caja negra](#Cajanegra)**<br>
 **- [Bibliografía](#Bibliografía)**<br>
 
 
@@ -125,6 +126,13 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 | Permitir el control del feedback sensorial a través de sensores vibrotáctiles| Evitar la gestión de la sobrecarga sensorial (filtros y priorización de señales) |
 | Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| Funcionamiento continuo durante largos periodos de tiempo |
 |Correcta lectura de datos de entrada mediante un software| Es portatil y estético|
+
+## Caja negra
+## Lista de entradas y salidas
+## Esquema de funciones
+## Matriz morfológica
+## Lista d evaloración
+## Conclusión del CS elegido
 
 
 ## Propuesta de solución
