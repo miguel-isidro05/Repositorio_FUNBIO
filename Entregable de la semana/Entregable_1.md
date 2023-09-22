@@ -23,6 +23,7 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Definiciones Instructions](#Definiciones)**<br>
 **- [Usuario](#Definiciones)**<br>
 **- [Problemática](#Problemática)**<br>
+**- [Bibliografía](#Bibliografía)**<br>
 
 
 ## Contexto
