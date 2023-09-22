@@ -143,7 +143,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
   <img width="510" height="1500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
 
-## Lista d evaloración
+## Tabla de valoración
 ## Conclusión del CS elegido
 
 ## Bibliografía
