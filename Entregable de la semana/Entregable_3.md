@@ -82,5 +82,6 @@ Funciones:
 </p>
 
 ## Conclusión del CS elegido
+En conclusión, se eligió la primera propuesta debido a que esta se basa en una combinación excepcional de características que lo hacen destacar como la opción ideal. Su facilidad de uso y su portabilidad lo hacen accesible para una amplia gama de usuarios, mientras que su seguridad y precisión garantizan un rendimiento confiable. Además, su precio asequible, su eficiencia energética y su facilidad de ensamble hacen que sea una buena inversión a largo plazo. En conjunto, este elemento representa un concepto de solución que satisface tanto las necesidades técnicas como las económicas. 
 
 
