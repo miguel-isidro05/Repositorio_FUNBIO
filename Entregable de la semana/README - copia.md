@@ -127,16 +127,16 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 | Respuesta rápida de la prótesis a los movimientos e intenciones del usuario.| Funcionamiento continuo durante largos periodos de tiempo |
 |Correcta lectura de datos de entrada mediante un software| Es portatil y estético|
 
+
+## Propuesta de solución
+Creación de un sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
+
 ## Caja negra
 ## Lista de entradas y salidas
 ## Esquema de funciones
 ## Matriz morfológica
 ## Lista d evaloración
 ## Conclusión del CS elegido
-
-
-## Propuesta de solución
-Creación de un sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
 
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
