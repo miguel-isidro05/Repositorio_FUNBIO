@@ -62,7 +62,7 @@ Funciones:
 
 ## Correlación entre el mecanismo biológico y el artificial
 <p align="center">
-  <img width="700" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Documento%20sin%20t%C3%ADtulo_page-0001.jpg?raw=true ">
+  <img width="800" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Documento%20sin%20t%C3%ADtulo_page-0001.jpg?raw=true ">
 </p>
 
 ## Tabla de valoración
