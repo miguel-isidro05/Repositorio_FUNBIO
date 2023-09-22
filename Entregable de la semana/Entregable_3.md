@@ -43,7 +43,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 </p>
 Funciones:
              
-| Funcionales | No funcionales | 
+| Funciones | Descripción | 
 | ------- | ----------- |
 | Regulador de energía| Asegurar el suministro estable de energía para todos los componentes.|
 | Procesador |  Procesar las señales y datos para integrar las demás funciones del Sistema. |
@@ -53,13 +53,6 @@ Funciones:
 | Generar un estímulo vibrotátil| Controla el movimiento y la respuesta física de la retroalimentación vibrotáctil.|
 | Generar movimiento de sugestión | Controla el movimiento de los actuadores. |
 
--Regulador de energía: Asegurar el suministro estable de energía para todos los componentes.</p>
--Procesador: Procesar las señales y datos para integrar las demás funciones del Sistema.</p>
--Detectar: Recopila información del entorno, es decir senda </p>
--Filtro: Elimina el ruido y proporciona datos limpios al procesador.</p>
--Almacenar : Almacena datos importantes, configuraciones y registros de uso tanto del procesador como del controlador. </p>
--Generar un estímulo vibrotátil: Controla el movimiento y la respuesta física de la retroalimentación vibrotáctil.</p>
--Generar movimiento de sugestión: Controla el movimiento de los actuadores
 
 
 ## Matriz morfológica
