@@ -44,7 +44,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 . Movimiento de sugestión: Sensación de movimiento de agarre del sistema<p>
 . Estimulación vibrotáctil: La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida<p>
 . Información de uso del paciente: Información recibida por el paciente según estímulos.<p>
-. <h4>Luces indicadoras: Indicadores del correcto funcionamiento de la retroalimentación somatosensorial <p>
+. Luces indicadoras: Indicadores del correcto funcionamiento de la retroalimentación somatosensorial <p>
 ## Esquema de funciones
 ![WhatsApp Image 2023-09-21 at 21 39 53 (1)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b93df328-aee1-4555-bde0-e7e324b98be6)
 </p>
