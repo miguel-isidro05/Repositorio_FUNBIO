@@ -78,8 +78,6 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 
 ## Bibliografía
 
-[15] Pylatiuk C, Kargov A, Schulz S. Design and Evaluation of a Low-Cost Force Feedback System for Myoelectric Prosthetic Hands. JPO: Journal of Prosthetics and Orthotics [Internet]. 2006 Apr 1;18(2):57–61. Disponible en:https://journals.lww.com/jpojournal/fulltext/2006/04000/design_and_evaluation_of_a_low_cost_force_feedback.7.aspx
-
 [16] Stepp CE, Matsuoka Y. Object manipulation improvements due to single session training outweigh the differences among stimulation sites during vibrotactile feedback. IEEE Trans Neural Syst Rehabil Eng [Internet]. 2011;19(6):677–85. Disponible en: http://dx.doi.org/10.1109/tnsre.2011.2168981 
 
 [17] Aguilar, A. & Vargas, D. Diseño e implementación de un control de impedancia para mejorar el desempeño de un prototipo de prótesis de mano que usa brazalete MYO. [Internet]. 2022. [citado: 2023, septiembre] Disponible en: http://hdl.handle.net/11349/30597    
