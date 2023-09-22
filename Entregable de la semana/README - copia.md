@@ -109,18 +109,15 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 |<h4>Codigo: US20170020693A1<h4/> <h4>Stuart D. HarshbargerJames D. BeatyR. Jacob VogelsteinNitish V. Thakor <h4/> <h4>(2016)<h4/> | <h4>"Detección de objetos y guía localizada de las extremidades." <h4/><h6>         La invención descrita proporciona un sistema y un método de retroalimentación de la fuerza de agarre para su uso con un dispositivo protésico. El sistema incluye una mano protésica con una pluralidad de dígitos para usar con el dispositivo protésico. Además, se proporciona un sensor de fuerza que está configurado para asociarse con la pluralidad de dígitos de la mano protésica y producir una señal de fuerza. El controlador de retroalimentación de fuerza recibe la señal de fuerza del sensor de fuerza, y el actuador de retroalimentación de fuerza también está en comunicación con el controlador de retroalimentación de fuerza. El accionador de retroalimentación de fuerza puede proporcionar vibraciones de retroalimentación a un usuario del dispositivo protésico para mejorar la experiencia de uso y la precisión en la realización de tareas. [21]<h6/> |<img width="2400" height="250" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/imagen%207.png">   |
 
 ## Dispositivos comerciales
-### 1. Ability Hand
-Descripción: Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]</p>
-#### Empresa: Psyonic</p>
-#### Características principales:</p>
-. Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)</p>
-. Una batería de 7,4 V y 2200 mA</p>
-. Conectividad Bluetooth</p>
-. Retroalimentación táctil sensorial.</p>
-. Microprocesador L6882</p>
+| Dispositivo | Descripción y características|              Imagen               |
+| ------- | ----------- | -------------------------------- |
+| <h4> 1. Ability Hand<h4/> <h4> Empresa: Psyonic|<h4> Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22] <h4>Características principales:<h4>(2020)<h4/>. Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)<h4>. Una batería de 7,4 V y 2200 mA<h4/>. Conectividad Bluetooth<h4/>. Retroalimentación táctil sensorial.<h4/>. Microprocesador L6882|<p align="center">
+  <img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">|
 
-<p align="center">
-  <img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">
+
+
+
+
 </p>
 
 ### 2. I-LIMB Hand
