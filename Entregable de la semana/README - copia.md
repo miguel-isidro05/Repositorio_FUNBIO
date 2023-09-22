@@ -142,10 +142,12 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 <p align="center">
   <img width="510" height="1500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
+
 ## Tabla de valoración
 <p align="center">
-  <img width="710" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/TABLA.jpg?raw=true">
+  <img width="710" height="310" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/TABLA.jpg?raw=true">
 </p>
+
 ## Conclusión del CS elegido
 
 ## Bibliografía
