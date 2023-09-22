@@ -137,10 +137,37 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 </p>
 
 ## Lista de entradas y salidas
+### Entradas
++ Energía: Se usará una fuente de poder que alimentará al sistema para poder realizar las operaciones correspondientes.
++ Señales:Se mandarán señales electromiográficas (EMG) durante el proceso de contracción y relajación de los músculos.
++ Información de los ensores de presión y fuerza: estos sensores recibirán e interpretarán la información de los estímulos externos a evaluar.
+
+### Salidas
++ Movimiento de sugestión: Sensación de movimiento de agarre del sistema.
++ Estimulación vibrotáctil: La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida.
++ Información de uso del paciente: Información recibida por el paciente según estímulo.
++ Luces indicadoras: Indicadores del correcto funcionamiento de la retroalimentación somatosensorial.
+
 ## Esquema de funciones
+![WhatsApp Image 2023-09-21 at 21 39 53 (1)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b93df328-aee1-4555-bde0-e7e324b98be6)
+</p>
+Funciones:
+             
+| Funciones | Descripción | 
+| ------- | ----------- |
+| Regulador de energía| Asegurar el suministro estable de energía para todos los componentes.|
+| Procesador |  Procesar las señales y datos para integrar las demás funciones del Sistema. |
+| Detectar| Recopila información del entorno, es decir senda. |
+| Filtro | Elimina el ruido y proporciona datos limpios al procesador.|
+| Almacenar | Almacena datos importantes, configuraciones y registros de uso tanto del procesador como del controlador. |
+| Generar un estímulo vibrotátil| Controla el movimiento y la respuesta física de la retroalimentación vibrotáctil.|
+| Generar movimiento de sugestión | Controla el movimiento de los actuadores. |
+
+
+
 ## Matriz morfológica
 <p align="center">
-  <img width="610" height="1500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
+  <img width="550" height="1300" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
 
 ## Tabla de valoración
@@ -148,7 +175,14 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
   <img width="710" height="310" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/TABLA.jpg?raw=true">
 </p>
 
+## Correlación entre el mecanismo biológico y el artificial
+<p align="center">
+  <img width="800" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Documento%20sin%20t%C3%ADtulo_page-0001.jpg?raw=true ">
+</p>
+
 ## Conclusión del CS elegido
+En conclusión, se eligió la primera propuesta debido a que esta se basa en una combinación excepcional de características que lo hacen destacar como la opción ideal. Su facilidad de uso y su portabilidad lo hacen accesible para una amplia gama de usuarios, mientras que su seguridad y precisión garantizan un rendimiento confiable. Además, su precio asequible, su eficiencia energética y su facilidad de ensamble hacen que sea una buena inversión a largo plazo. En conjunto, este elemento representa un concepto de solución que satisface tanto las necesidades técnicas como las económicas. 
+
 
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
