@@ -111,13 +111,7 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 ## Dispositivos comerciales
 | Dispositivo | Descripción y características|              Imagen               |
 | ------- | ----------- | -------------------------------- |
-| <h4> 1. Ability Hand<h4/> <h4> Empresa: Psyonic|<h4> Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22] <h4>Características principales:. Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)<p>. Una batería de 7,4 V y 2200 mA<p>. Conectividad Bluetooth<p>. Retroalimentación táctil sensorial.<p>. Microprocesador L6882|<p align="center"><img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">|
-
-
-
-
-
-</p>
+| <h4> 1. Ability Hand<h4/> <p> Empresa: Psyonic|<p> Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22] <p>Características principales:. Tamaños: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)<p>. Una batería de 7,4 V y 2200 mA<p>. Conectividad Bluetooth<p>. Retroalimentación táctil sensorial.<p>. Microprocesador L6882|<p align="center"><img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">|
 
 ### 2. I-LIMB Hand
 Descripción: Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]
