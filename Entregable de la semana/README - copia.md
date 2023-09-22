@@ -140,7 +140,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 ## Esquema de funciones
 ## Matriz morfológica
 <p align="center">
-  <img width="510" height="1500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
+  <img width="610" height="1500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
 
 ## Tabla de valoración
