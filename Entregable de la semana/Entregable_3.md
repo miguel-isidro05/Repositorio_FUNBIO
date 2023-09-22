@@ -60,14 +60,14 @@ Funciones:
   <img width="550" height="1300" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
 
-## Correlación entre el mecanismo biológico y el artificial
-<p align="center">
-  <img width="800" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Documento%20sin%20t%C3%ADtulo_page-0001.jpg?raw=true ">
-</p>
-
 ## Tabla de valoración
 <p align="center">
   <img width="710" height="310" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/TABLA.jpg?raw=true">
+</p>
+
+## Correlación entre el mecanismo biológico y el artificial
+<p align="center">
+  <img width="800" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Documento%20sin%20t%C3%ADtulo_page-0001.jpg?raw=true ">
 </p>
 
 ## Conclusión del CS elegido
