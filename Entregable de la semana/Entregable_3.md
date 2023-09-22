@@ -38,13 +38,17 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 </p>
 
 ## Lista de entradas y salidas
-. Energía: Se usará una fuente de poder que alimentará al sistema para poder realizar las operaciones correspondientes<p>
-. Señales:Se mandarán señales electromiográficas (EMG) durante el proceso de contracción y relajación de los músculos.<p>
-. Sensores de presión y fuerza:Recibirán e interpretarán la información de los estímulos externos a evaluar<p>
-. Movimiento de sugestión: Sensación de movimiento de agarre del sistema<p>
-. Estimulación vibrotáctil: La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida<p>
-. Información de uso del paciente: Información recibida por el paciente según estímulos.<p>
-. Luces indicadoras: Indicadores del correcto funcionamiento de la retroalimentación somatosensorial <p>
+### Entradas
++ Energía: Se usará una fuente de poder que alimentará al sistema para poder realizar las operaciones correspondientes.
++ Señales:Se mandarán señales electromiográficas (EMG) durante el proceso de contracción y relajación de los músculos.
++ Información de los ensores de presión y fuerza: estos sensores recibirán e interpretarán la información de los estímulos externos a evaluar.
+
+### Salidas
++ Movimiento de sugestión: Sensación de movimiento de agarre del sistema.
++ Estimulación vibrotáctil: La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida.
++ Información de uso del paciente: Información recibida por el paciente según estímulo.
++ Luces indicadoras: Indicadores del correcto funcionamiento de la retroalimentación somatosensorial.
+
 ## Esquema de funciones
 ![WhatsApp Image 2023-09-21 at 21 39 53 (1)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b93df328-aee1-4555-bde0-e7e324b98be6)
 </p>
