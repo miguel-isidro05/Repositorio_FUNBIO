@@ -112,27 +112,10 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 | Dispositivo |Descripción|Características principales|             Imagen               |
 | ------- | ----------- | ------------------------- |--------------|
 |<h4> 1. Ability Hand<h4/><p>.Empresa: Psyonic.|<h6>Prótesis mioeléctrica con sensación háptica en donde la velocidad de movimiento es dos veces más rápida que una prótesis normal. Esta prótesis cuenta con 32 patrones de agarres, resistente al agua y  dúctil. Este dispositivo cuenta con sensores ubicados en las yemas de los dedos que detectan la presión al agarrar un objeto, mandando como señal de salida feedback sensorial expresada en vibraciones  en el brazo [22]<h6/>|. Tamaño: Pequeño (189 mm de largo por 110 mm de ancho por 55 mm de fondo) y grande  (200 mm de largo por 110 mm de ancho por 55 mm de fondo)<p>.Una batería de 7,4 V y 2200 mA<p>.Conectividad Bluetooth<p>.Retroalimentación táctil sensorial.<p>.Microprocesador L6882|<p align="center"><img width="2000" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">|
-|<h4> 2. I-LIMB Hand<h4/>.Empresa: Ossur|<h6>Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]<h6/>|<h6>. La mano i-LIMB utiliza señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Sensores electromiográficos (EMG) capturan estas señales y las traducen en comandos para la mano artificial.</p>. La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>. Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.<h6/>|<p align="center"><img width="2000" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
 
+|<h4> 2. I-LIMB Hand<h4/><p>.Empresa: Ossur|<h6>Protesis mioeléctrica controlada por un sistema de control que utiliza una señal muscular mioeléctrica  de dos entradas para abrir y cerrar los dedos realistas de la mano. Cada dedo utiliza un motor en cada articulación, lo que proporciona un agarre flexible que el usuario puede ajustar a  la forma del objeto que se está agarrando.[23]<h6/>|. La mano i-LIMB utiliza señales eléctricas generadas por los músculos residuales del usuario para controlar los movimientos de la prótesis. Sensores electromiográficos (EMG) capturan estas señales y las traducen en comandos para la mano artificial.</p>. La i-LIMB está diseñada para replicar de manera cercana los movimientos naturales de una mano humana.</p>. Batería recargable: La i-LIMB generalmente funciona con una batería recargable que proporciona una autonomía suficiente para un uso diario normal.|<p align="center"><img width="2000" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%202.jpeg">
 
-#### 
-#### Características principales:</p>
-
-### 3. MYHAND
-Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas.
-Descripción: prótesis de miembro superior que tiene varios agarres adaptables y sensibles. Los dedos se doblarán alrededor de cualquier forma u objeto determinado y usted puede ayudar activamente a la mano a cerrar el puño o señalar con el dedo índice. Para un agarre óptimo, ahora presentamos MySkin.[24]</p>  
-#### Empresa: HY5-Bionics </p>  
-#### Características principales:</p>   
-. Tamaño: 7 ¾ </p> 
-. Patrones de agarre: pellizco, potencia, trípode, puño, apuntar.</p> 
-. Rendimiento:  Potencia máxima de agarre: 120N. Agarre máximo del trípode: 60N.  </p> 
-. Dígitos de los dedos de titanio indestructibles. </p> 
-. Peso: 575 g.</p> 
-. Retroalimentación háptica sensorial. </p> 
-
-<p align="center">
-  <img width="550" height="500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-09-15%20at%2011.25.36%20PM.jpeg">
-</p>
+|<h4>3. MYHAND<h4/><p>Empresa: HY5-Bionics.|<h6>Myhand es una prótesis robótica con retroalimentación sensorial para recuperar la funcionalidad de una mano amputada utilizando tecnologías portátiles no invasivas.Es una prótesis de miembro superior que tiene varios agarres adaptables y sensibles. Los dedos se doblarán alrededor de cualquier forma u objeto determinado y usted puede ayudar activamente a la mano a cerrar el puño o señalar con el dedo índice. Para un agarre óptimo, ahora presentamos MySkin.<h6/>|. Tamaño: 7 ¾ </p> . Patrones de agarre: pellizco, potencia, trípode, puño, apuntar.</p> . Rendimiento:  Potencia máxima de agarre: 120N. Agarre máximo del trípode: 60N.  </p> . Dígitos de los dedos de titanio indestructibles. </p> . Peso: 575 g.</p> . Retroalimentación háptica sensorial.|<p align="center"><img width="2000" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-09-15%20at%2011.25.36%20PM.jpeg">
 
 ## Lista de requerimientos
 
