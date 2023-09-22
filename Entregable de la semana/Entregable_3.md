@@ -38,13 +38,13 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 </p>
 
 ## Lista de entradas y salidas
-. <h4>Energía:<h4/> Se usará una fuente de poder que alimentará al sistema para poder realizar las operaciones correspondientes<p>
-. <h4> Señales:<h4/> Se mandarán señales electromiográficas (EMG) durante el proceso de contracción y relajación de los músculos.<p>
-. <h4>Sensores de presión y fuerza:<h4/>Recibirán e interpretarán la información de los estímulos externos a evaluar<p>
-. <h4>Movimiento de sugestión:<h4/> Sensación de movimiento de agarre del sistema<p>
-. <h4>Estimulación vibrotáctil:<h4/> La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida<p>
-. <h4>Información de uso del paciente:<h4/> Información recibida por el paciente según estímulos.<p>
-. <h4>Luces indicadoras:<h4/> Indicadores del correcto funcionamiento de la retroalimentación somatosensorial <p>
+. Energía: Se usará una fuente de poder que alimentará al sistema para poder realizar las operaciones correspondientes<p>
+. Señales:Se mandarán señales electromiográficas (EMG) durante el proceso de contracción y relajación de los músculos.<p>
+. Sensores de presión y fuerza:<h4/>Recibirán e interpretarán la información de los estímulos externos a evaluar<p>
+. Movimiento de sugestión: Sensación de movimiento de agarre del sistema<p>
+. Estimulación vibrotáctil: La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida<p>
+. Información de uso del paciente: Información recibida por el paciente según estímulos.<p>
+. <h4>Luces indicadoras: Indicadores del correcto funcionamiento de la retroalimentación somatosensorial <p>
 ## Esquema de funciones
 ![WhatsApp Image 2023-09-21 at 21 39 53 (1)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b93df328-aee1-4555-bde0-e7e324b98be6)
 </p>
