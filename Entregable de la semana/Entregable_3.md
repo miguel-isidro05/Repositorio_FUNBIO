@@ -39,6 +39,8 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
   <img width="610" height="1500" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
 
+## Correlación entre el mecanismo biológico y el artificial
+
 ## Tabla de valoración
 <p align="center">
   <img width="710" height="310" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/TABLA.jpg?raw=true">
