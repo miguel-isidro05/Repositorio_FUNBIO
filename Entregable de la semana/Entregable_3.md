@@ -19,13 +19,13 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-**- [Propuesta de solución](##Propuestadesolución)**<br>
-**- [Caja negra](##Cajanegra)**<br>
-**- [Lista de entradas y de salidas](##Listadeentradasysalidas)**<br>
-**- [Esquema de funciones](##Esquemadefunciones)**<br>
-**- [Matriz morfológica](##Matrizmorfológica)**<br>
-**- [Correlación entre el mecanismo biológico y el artificial](##Correlaciónentreelmecanismobiológicoyelartificial)**<br>
-**- [Tabla de valoración](##Tabladevaloración)**<br>
+**- [Propuesta de solución](#Propuestadesolución)**<br>
+**- [Caja negra](#Cajanegra)**<br>
+**- [Lista de entradas y de salidas](#Listadeentradasysalidas)**<br>
+**- [Esquema de funciones](#Esquemadefunciones)**<br>
+**- [Matriz morfológica](#Matrizmorfológica)**<br>
+**- [Correlación entre el mecanismo biológico y el artificial](#Correlaciónentreelmecanismobiológicoyelartificial)**<br>
+**- [Tabla de valoración](#Tabladevaloración)**<br>
 **- [Bibliografía](#Bibliografía)**<br>
 
 
