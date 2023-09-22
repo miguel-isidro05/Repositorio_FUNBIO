@@ -133,7 +133,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 
 ## Caja negra
 <p align="center">
-  <img width="500" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/CAJAN%20NEGRA.png">
+  <img width="300" height="800" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/CAJAN%20NEGRA.png">
 </p>
 
 
