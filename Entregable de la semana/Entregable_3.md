@@ -42,6 +42,16 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 ![WhatsApp Image 2023-09-21 at 21 39 53 (1)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b93df328-aee1-4555-bde0-e7e324b98be6)
 </p>
 Funciones:
+| Función | Descripción |
+| ------- | ----------- |
+| Regulador de energía| Asegurar el suministro estable de energía para todos los componentes.|
+| Procesador |  Procesar las señales y datos para integrar las demás funciones del Sistema. |
+| Detectar| Recopila información del entorno, es decir senda. |
+| Filtro | Elimina el ruido y proporciona datos limpios al procesador.|
+| Almacenar | Almacena datos importantes, configuraciones y registros de uso tanto del procesador como del controlador. |
+| Generar un estímulo vibrotátil| Controla el movimiento y la respuesta física de la retroalimentación vibrotáctil.|
+| Generar movimiento de sugestión | Controla el movimiento de los actuadores. |
+
 -Regulador de energía: Asegurar el suministro estable de energía para todos los componentes.</p>
 -Procesador: Procesar las señales y datos para integrar las demás funciones del Sistema.</p>
 -Detectar: Recopila información del entorno, es decir senda </p>
