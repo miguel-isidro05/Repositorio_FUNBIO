@@ -24,7 +24,6 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Tecnología existente en el ámbito de patentes](#Tecnologíaexistenteenelámbitodepatentes)**<br>
 **- [Lista de requerimientos](#Listaderequerimientos)**<br>
 **- [Propuesta de solución](#Propuestadesolución)**<br>
-**- [Caja negra](#Cajanegra)**<br>
 **- [Bibliografía](#Bibliografía)**<br>
 
 
