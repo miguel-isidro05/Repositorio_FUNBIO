@@ -40,7 +40,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 ## Lista de entradas y salidas
 . Energía: Se usará una fuente de poder que alimentará al sistema para poder realizar las operaciones correspondientes<p>
 . Señales:Se mandarán señales electromiográficas (EMG) durante el proceso de contracción y relajación de los músculos.<p>
-. Sensores de presión y fuerza:<h4/>Recibirán e interpretarán la información de los estímulos externos a evaluar<p>
+. Sensores de presión y fuerza:Recibirán e interpretarán la información de los estímulos externos a evaluar<p>
 . Movimiento de sugestión: Sensación de movimiento de agarre del sistema<p>
 . Estimulación vibrotáctil: La retroalimentación vibrotáctil que le llegará al usuario según la fuerza o presión ejercida<p>
 . Información de uso del paciente: Información recibida por el paciente según estímulos.<p>
