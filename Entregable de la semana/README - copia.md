@@ -132,6 +132,11 @@ El locus sensorial somático del prosencéfalo para la entrada de sensores en la
 Creación de un sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
 
 ## Caja negra
+<p align="center">
+  <img width="660" height="400" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/CAJAN%20NEGRA.png">
+</p>
+
+
 ## Lista de entradas y salidas
 ## Esquema de funciones
 ## Matriz morfológica
