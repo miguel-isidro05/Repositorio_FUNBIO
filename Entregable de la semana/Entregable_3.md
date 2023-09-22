@@ -57,7 +57,7 @@ Funciones:
 
 ## Matriz morfológica
 <p align="center">
-  <img width="450" height="1300" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
+  <img width="550" height="1300" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/MATRIZ.png?raw=true">
 </p>
 
 ## Correlación entre el mecanismo biológico y el artificial
