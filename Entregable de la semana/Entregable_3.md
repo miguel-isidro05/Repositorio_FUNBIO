@@ -41,7 +41,7 @@ Creación de un sistema de retroalimentación somatosensorial para una prótesis
 ## Esquema de funciones
 ![WhatsApp Image 2023-09-21 at 21 39 53 (1)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b93df328-aee1-4555-bde0-e7e324b98be6)
 </p>
-Funciones:
+Funciones: </p>
 | Función | Descripción |
 | ------- | ----------- |
 | Regulador de energía| Asegurar el suministro estable de energía para todos los componentes.|
