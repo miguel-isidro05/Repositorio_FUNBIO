@@ -183,6 +183,24 @@ Funciones:
 ## Conclusión del CS elegido
 En conclusión, se eligió la primera propuesta debido a que esta se basa en una combinación excepcional de características que lo hacen destacar como la opción ideal. Su facilidad de uso y su portabilidad lo hacen accesible para una amplia gama de usuarios, mientras que su seguridad y precisión garantizan un rendimiento confiable. Además, su precio asequible, su eficiencia energética y su facilidad de ensamble hacen que sea una buena inversión a largo plazo. En conjunto, este elemento representa un concepto de solución que satisface tanto las necesidades técnicas como las económicas. 
 
+# Bocetos del concepto seleccionado
+## Boceto 1 (B)
+
+## Boceto 2 (A)
+
+## Boceto 3 (C)
+
+# Tabla de valoración técnica
+
+# Tabla de valoración económica
+
+# Proyecto óptimo
+
+
+<p>Eje X: Resultado técnico </p>
+<p>Eje Y: Resultado económico </p>
+
+## Conclusión
 
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
