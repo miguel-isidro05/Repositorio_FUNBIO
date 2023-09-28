@@ -30,7 +30,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Propuesta de solución
-Creación de un sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
+Sistema de retroalimentación somatosensorial para una prótesis de miembro superior que le permita al usuario obtener la sensación de fuerza y presión a  través de sensores vibrotáctiles. 
 
 ## Caja negra
 <p align="center">
