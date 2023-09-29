@@ -27,7 +27,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Proyectos preliminares:
-### a. Proyectos preliminar 1:
+### a. Proyecto preliminar 1:
 <p align="center">
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/03e8da8f-b231-466c-bdc5-cb169cd3af5b">
 </p>
@@ -36,7 +36,7 @@ Ingeniería Biomédica PUCP-UPCH
 </p>
 
 
-### b. Proyectos preliminar 2:
+### b. Proyecto preliminar 2:
 <p align="center">
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/50daae6d-e319-4ed5-aed2-845543093824">
 </p>
@@ -47,7 +47,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 
-### c. Proyectos preliminar 3:
+### c. Proyecto preliminar 3:
 <p align="center">
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/1b1b0f8c-1af3-44e3-95b1-0e80a011a212">
 </p>
@@ -57,9 +57,12 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Tabla de Valoración Técnica: 
+
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8467a41f-b550-407e-a66a-6fafe47d61ad)
 
 ## Tabla de Valoración Económica:
+
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/tabla%202.jpg)
 
 ## Proyecto Óptimo:
 
