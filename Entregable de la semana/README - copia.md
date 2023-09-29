@@ -195,7 +195,7 @@ En conclusión, se eligió la primera propuesta debido a que esta se basa en una
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/03e8da8f-b231-466c-bdc5-cb169cd3af5b">
 </p>
 <p align="center">
-  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8f865998-b2de-429d-8c0a-9d48989ce98d">
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/62b59f10-6fae-4ae6-8b85-1d1a338234d4)">
 </p>
 
 
@@ -205,7 +205,7 @@ En conclusión, se eligió la primera propuesta debido a que esta se basa en una
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/50daae6d-e319-4ed5-aed2-845543093824">
 </p>
 <p align="center">
-  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/321cab32-2528-478b-b68a-fb70dcf075d9">
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/d18608d3-99a2-409d-85b7-2684cdc5d2f3">
 </p>
 
 
@@ -217,8 +217,9 @@ En conclusión, se eligió la primera propuesta debido a que esta se basa en una
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/1b1b0f8c-1af3-44e3-95b1-0e80a011a212">
 </p>
 <p align="center">
-  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/7d677951-7c45-42e9-9d1e-c5830447425d">
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/a8a06138-49e9-4200-8fa7-5e7db4828146">
 </p>
+
 
 
 ## Tabla de Valoración Técnica: 
@@ -244,7 +245,7 @@ En conclusión, se eligió la primera propuesta debido a que esta se basa en una
 </p>
 
 ## Conclusión: 
-Como proyecto óptimo se eligió el proyecto preliminar número BLA debido a su excelente funcionamiento e ergonomía permitiendo un nivel de comodidad y ajusteal usuario, por otro lado, este cuenta con óptimo montaje y libertad de movimiento para el usuario. un bajocosto de elaboración con respecto a los demás proyectos, en donde el estilo y la éstética van de la mano con la durabilidad del material.
+Como proyecto óptimo, se eligió el proyecto preliminar número 2 debido a su excelente funcionamiento y ergonomía permitiendo un nivel de comodidad y ajuste al usuario. Por otro lado, este cuenta con óptimo montaje y libertad de movimiento. Asi como un bajocosto de elaboración con respecto a los demás proyectos, en donde el estilo y la éstética van de la mano con la durabilidad del material.
 
 ## Bibliografía
 [1] Ziegler-Graham K, MacKenzie EJ, Ephraim PL, Travison TG, Brookmeyer R. Estimating the Prevalence of Limb Loss in the United States: 2005 to 2050. Archives of Physical Medicine and Rehabilitation [Internet]. 2008 Mar;89(3):422–9. URL disponible en: https://pubmed.ncbi.nlm.nih.gov/18295618/
