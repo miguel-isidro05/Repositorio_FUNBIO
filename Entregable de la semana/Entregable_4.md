@@ -22,7 +22,7 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Proyectos preliminares](#Proyectos-preliminares)**<br>
 **- [Tabla de Valoración Técnica](#Tabla-de-Valoración-Técnica)**<br>
 **- [Tabla de Valoración Económica](#Tabla-de-Valoración-Económica)**<br>
-**- [Proyecto Ópiimo](#Proyecto-Ópiimo)**<br>
+**- [Proyecto Óptimo](#Proyecto-Óptimo)**<br>
 **- [Conclusión](#Conclusión)**<br>
 
 
