@@ -37,14 +37,23 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ### b.Proyectos preliminar 2:
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/50daae6d-e319-4ed5-aed2-845543093824)
+<p align="center">
+  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/50daae6d-e319-4ed5-aed2-845543093824">
+</p>
+<p align="center">
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/321cab32-2528-478b-b68a-fb70dcf075d9">
+</p>
 
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/321cab32-2528-478b-b68a-fb70dcf075d9)
+
 
 
 ### c.Proyectos preliminar 3:
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/1b1b0f8c-1af3-44e3-95b1-0e80a011a212)
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/7d677951-7c45-42e9-9d1e-c5830447425d)
+<p align="center">
+  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/1b1b0f8c-1af3-44e3-95b1-0e80a011a212">
+</p>
+<p align="center">
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/7d677951-7c45-42e9-9d1e-c5830447425d">
+</p>
 
 
 ## Tabla de Valoración Técnica: 
