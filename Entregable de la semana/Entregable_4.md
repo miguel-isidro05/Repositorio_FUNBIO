@@ -35,12 +35,12 @@ Ingeniería Biomédica PUCP-UPCH
   <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8f865998-b2de-429d-8c0a-9d48989ce98d">
 </p>
 
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/03e8da8f-b231-466c-bdc5-cb169cd3af5b)
-
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8f865998-b2de-429d-8c0a-9d48989ce98d)
-
 
 ### b.Proyectos preliminar 2:
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/50daae6d-e319-4ed5-aed2-845543093824)
+
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/321cab32-2528-478b-b68a-fb70dcf075d9)
+
 
 ### c.Proyectos preliminar 3:
 
