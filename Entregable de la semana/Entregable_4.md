@@ -48,6 +48,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Tabla de Valoración Técnica: 
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8467a41f-b550-407e-a66a-6fafe47d61ad)
 
 ## Tabla de Valoración Económica:
 
