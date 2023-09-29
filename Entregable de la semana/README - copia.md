@@ -28,6 +28,11 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Lista de requerimientos](#Listaderequerimientos)**<br>
 **- [Propuesta de solución](#Propuestadesolución)**<br>
 **- [Caja negra](#Cajanegra)**<br>
+**- [Proyectos preliminares](#Proyectos-preliminares)**<br>
+**- [Tabla de Valoración Técnica](#Tabla-de-Valoración-Técnica)**<br>
+**- [Tabla de Valoración Económica](#Tabla-de-Valoración-Económica)**<br>
+**- [Proyecto Óptimo](#Proyecto-Óptimo)**<br>
+**- [Conclusión](#Conclusión)**<br>
 **- [Bibliografía](#Bibliografía)**<br>
 
 
