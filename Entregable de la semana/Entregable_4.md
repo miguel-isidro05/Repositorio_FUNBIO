@@ -52,7 +52,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Tabla de Valoración Económica:
 
-## Proyecto Ópiimo:
+## Proyecto Óptimo:
 
 ## Conclusión: 
 Como proyecto óptimo se eligió el proyecto preliminar número BLA debido a su excelente funcionamiento e ergonomía permitiendo un nivel de comodidad y ajusteal usuario, por otro lado, este cuenta con óptimo montaje y libertad de movimiento para el usuario. un bajocosto de elaboración con respecto a los demás proyectos, en donde el estilo y la éstética van de la mano con la durabilidad del material.
