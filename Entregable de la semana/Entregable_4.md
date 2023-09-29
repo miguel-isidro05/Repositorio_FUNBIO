@@ -77,9 +77,9 @@ Ingeniería Biomédica PUCP-UPCH
 <p align="center">
   <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/dd27c313-3295-4cf4-9689-fc51109253ec">
 </p>
-
-[image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/3ef5a960-00ba-4f8e-ac72-518445e7dcda)
-
+<p align="center">
+  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/3ef5a960-00ba-4f8e-ac72-518445e7dcda">
+</p>
 
 ## Conclusión: 
 Como proyecto óptimo se eligió el proyecto preliminar número BLA debido a su excelente funcionamiento e ergonomía permitiendo un nivel de comodidad y ajusteal usuario, por otro lado, este cuenta con óptimo montaje y libertad de movimiento para el usuario. un bajocosto de elaboración con respecto a los demás proyectos, en donde el estilo y la éstética van de la mano con la durabilidad del material.
