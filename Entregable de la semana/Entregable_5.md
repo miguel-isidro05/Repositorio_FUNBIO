@@ -20,10 +20,9 @@ Ingeniería Biomédica PUCP-UPCH
 ## Indice.
 
 **- [Fundamento anatómico la posición de los actuadores](#Fundaento-anatómico-la-posición-de-los-actuadores)**<br>
-**- [Lista de elementos](#Lista-de-elemento)**<br>
+**- [Lista de elementos](#Lista-de-elementos)**<br>
 **- [Modelado 3D](#Tabla-de-Valoración-Técnica)**<br>
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
-**- [Conclusión](#Conclusión)**<br>
 
 
 ## Fundamneto anatómico la posición de los actuadores
@@ -33,7 +32,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 
-
+## Lista de elementos 
 ## Modelado 3D 
 
 <p align="center">
@@ -48,5 +47,5 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 
-## Diseño esquemática: 
+## Diseño esquemático: 
 comcocmo
