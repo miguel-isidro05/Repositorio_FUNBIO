@@ -19,7 +19,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-**- [Fundamento anatómico de la posición de actuadores y sensores](#Fundaento-anatómico-de-la-posición-de-actuadores-y-sensores)**<br>
+**- [Fundamento anatómico de la posición de actuadores y sensores](#Fundamento-anatómico-de-la-posición-de-actuadores-y-sensores)**<br>
 **- [Lista de elementos](#Lista-de-elementos)**<br>
 **- [Modelado 3D](#Modelado-3D)**<br>
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
