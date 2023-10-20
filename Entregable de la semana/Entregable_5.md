@@ -31,25 +31,28 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 ## Lista de elementos
 ### Elementos del anillo
-
 | Anillo del Pulgar | Anillo del dedo medio |
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Anillo%20del%20Pulgar-1.png">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Anillo%20del%20dedo%20medio-1.png"> |
 
-### Elementos del dedo medio falange
 
+### Elementos del dedo medio falange
 | Dedo medio falange distal | Dedo medio falange medial |
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio%20falange%20distal-1.png">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio%20falange%20medial-1.png?raw=true">|
 
-### Elementos del pulgar
 
+
+### Elementos del pulgar
 | Falange Distal del Pulgar | Falange Proximal del Pulgar |
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Falange%20Distal%20del%20Pulgar-1.png">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Falange%20Proximal%20del%20Pulgar-1.png"> |
-| Base del pulgar| 
-| ------- | 
-| <p align="center"><img width="1000" height="750" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">| 
+
+| Base del pulgar |  |
+| ------- | ----------- |
+| <p align="center"><img width="1000" height="750" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">|
+
+
 
 ## Modelado 3D
 
