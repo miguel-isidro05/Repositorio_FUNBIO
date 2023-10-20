@@ -1,4 +1,4 @@
-# Fundamentos de Biodiseño
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/ee0012b8-bce9-4be8-9259-a45e153d1709)# Fundamentos de Biodiseño
 </p>
 <image align="center;" width="1200px;" style="border-radius: 90%;" src ="../Imágenes/imagen_read.png">
   <h3 align="center">
@@ -65,7 +65,16 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 | <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Tapa%20de%20la%20caja%20de%20componentes%20electronicos.jpg">|
 
 ## Modelado 3D
+### Lista de componentes
+| Nano arduino | Batería de polímero de litio 3.7V |
+| ------- | ----------- |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/09d56a0c-48ac-47c9-aac7-6794f164279e.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/bateria%20de%20litio.jpg"> |
 
+| Caja de componentes electronicos | Case del arduino nano |
+| ------- | ----------- |
+| <p align="center"><img width="3000" height="450" src="">| <p align="center"><img width="3000" height="450" src=""> |
+
+### Estructura acoplada
 
 
 
