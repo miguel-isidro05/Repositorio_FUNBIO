@@ -51,7 +51,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 | Base del pulgar | 
 | ----------- |
-| <p align="center"><img width="345" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">|
+| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">|
 
 
 
@@ -63,7 +63,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 | Tapa de la caja de componentes electronicos | 
 | ----------- |
-| <p align="center"><img width="345" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Tapa%20de%20la%20caja%20de%20componentes%20electronicos.jpg">|
+| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Tapa%20de%20la%20caja%20de%20componentes%20electronicos.jpg">|
 
 ## Modelado 3D
 
