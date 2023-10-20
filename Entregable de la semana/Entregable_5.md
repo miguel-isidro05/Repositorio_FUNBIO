@@ -32,6 +32,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 ## Lista de elementos
 ## Modelado 3D
 
+| Anillo del Pulgar | Anillo del dedo medio |
 | ------- | ----------- |
 | Regulador de energía| Asegurar el suministro |
 
