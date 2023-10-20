@@ -25,7 +25,7 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
 
 
-## Fundamneto anatómico la posición de los actuadores
+## Fundamento anatómico la posición de los actuadores
 ### Proyecto preliminar 1:
 
 
