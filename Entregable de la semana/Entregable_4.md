@@ -40,10 +40,10 @@ Ingeniería Biomédica PUCP-UPCH
 ### Proyecto preliminar 2:
 
 <p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/50daae6d-e319-4ed5-aed2-845543093824">
+  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Despiece%201.jpg">
 </p>
 <p align="center">
-  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/d18608d3-99a2-409d-85b7-2684cdc5d2f3">
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Despiece%202.jpg">
 </p>
 
 
