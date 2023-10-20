@@ -34,7 +34,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 
 
-### Vista explosiva:
+## Vista explosiva:
 
 
 
