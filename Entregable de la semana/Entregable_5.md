@@ -30,23 +30,28 @@ La aplicación de la percepción del tacto es de suma importancia para la calida
 En el prototipo que presentamos decidimos optar por colocar estos sensores en la yema de los dedos ya que en este sector la piel es abundante en terminaciones nerviosas, por ello la hace un área esencial para el sentido del tacto, lo que permite obtener satisfactoriamente en nuestra propuesta una sensibilidad táctil y aguda. Esta zona está controlada por los músculos extrínsecos que se encuentran en la palma y el antebrazo, en este proyecto optamos por colocar los actuadores en la muñeca, ya que cuando los músculos se contraen tiran de los tendones y permiten que los dedos se muevan, incluyendo la flexión y extensión de las articulaciones de los dedos, además que ayudan a la sensación del tacto. Estos músculos se encuentran en el antebrazo y son responsables de mover la muñeca hacia arriba y hacia abajo. Al mover la muñeca, estos músculos ayudan a transmitir las señales nerviosas que permiten la sensación del tacto en los dedos.
 
 ## Lista de elementos
-## Modelado 3D
+### Elementos del anillo
 
 | Anillo del Pulgar | Anillo del dedo medio |
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Anillo%20del%20Pulgar-1.png">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Anillo%20del%20dedo%20medio-1.png"> |
 
+### Elementos del dedo medio falange
+
 | Dedo medio falange distal | Dedo medio falange medial |
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio%20falange%20distal-1.png">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio%20falange%20medial-1.png?raw=true">|
 
+### Elementos del pulgar
+
 | Falange Distal del Pulgar | Falange Proximal del Pulgar |
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Falange%20Distal%20del%20Pulgar-1.png">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Falange%20Proximal%20del%20Pulgar-1.png"> |
-
 | Base del pulgar| 
 | ------- | 
 | <p align="center"><img width="1000" height="750" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">| 
+
+## Modelado 3D
 
 
 ## Vista explosiva:
