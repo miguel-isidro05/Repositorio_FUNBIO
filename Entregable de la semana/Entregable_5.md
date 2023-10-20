@@ -1,4 +1,4 @@
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/ee0012b8-bce9-4be8-9259-a45e153d1709)# Fundamentos de Biodiseño
+# Fundamentos de Biodiseño
 </p>
 <image align="center;" width="1200px;" style="border-radius: 90%;" src ="../Imágenes/imagen_read.png">
   <h3 align="center">
@@ -68,7 +68,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 ### Lista de componentes
 | Nano arduino | Batería de polímero de litio 3.7V |
 | ------- | ----------- |
-| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/09d56a0c-48ac-47c9-aac7-6794f164279e.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/bateria%20de%20litio.jpg"> |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/arduino.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/bateria%20de%20litio.jpg"> |
 
 | Amplificador de voltaje MT3608 | Modulo Cargador de bateria de litio |
 | ------- | ----------- |
