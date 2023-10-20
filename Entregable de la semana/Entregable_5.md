@@ -34,7 +34,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 | Anillo del Pulgar | Anillo del dedo medio |
 | ------- | ----------- |
-| Regulador de energía| Asegurar el suministro |
+| <p align="center"><img width="2000" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg">| <p align="center"><img width="2000" height="200" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/pros%201.jpeg"> |
 
 
 ## Vista explosiva:
