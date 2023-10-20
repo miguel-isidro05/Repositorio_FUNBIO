@@ -51,7 +51,7 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 | Base del pulgar | 
 | ----------- |
-| <p align="center"><img width="475" height="550" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">|
+| <p align="center"><img width="475" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Base%20del%20Pulgar-1.png">|
 
 
 
