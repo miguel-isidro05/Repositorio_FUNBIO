@@ -97,5 +97,5 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 ## Diseño esquemático 
 ![ultima-1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/35a196f0-e402-491e-87ba-0b3816a18752)
 
-Link del sketchfab: ![ultima-1](https://sketchfab.com/ArianaRoca)
-Link del oneshape: ![ultima-1]([https://sketchfab.com/ArianaRoca](https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/17a1e1f20c3112a1085765bd)https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/17a1e1f20c3112a1085765bd)
+Link del sketchfab: https://sketchfab.com/ArianaRoca
+Link del oneshape: https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/17a1e1f20c3112a1085765bd
