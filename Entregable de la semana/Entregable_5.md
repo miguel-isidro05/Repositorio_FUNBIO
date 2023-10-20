@@ -80,8 +80,13 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 
 ### Estructura acoplada
 
+| Dedo medio | Dedo pulgar |
+| ------- | ----------- |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20pulgar.jpg"> |
 
-
+| Pulsera | 
+| ----------- |
+| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Pulsera%203d.jpg">|
 
 
 
