@@ -35,15 +35,11 @@ Ingeniería Biomédica PUCP-UPCH
 ## Lista de elementos 
 ## Modelado 3D 
 
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8467a41f-b550-407e-a66a-6fafe47d61ad">
-</p>
+
 
 ### Vista explosiva:
 
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/tabla%202.jpg">
-</p>
+
 
 
 
