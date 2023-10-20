@@ -70,9 +70,13 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/09d56a0c-48ac-47c9-aac7-6794f164279e.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/bateria%20de%20litio.jpg"> |
 
-| Caja de componentes electronicos | Case del arduino nano |
+| Amplificador de voltaje MT3608 | Modulo Cargador de bateria de litio |
 | ------- | ----------- |
-| <p align="center"><img width="3000" height="450" src="">| <p align="center"><img width="3000" height="450" src=""> |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/ampli.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/cargador%20de.jpg"> |
+
+| Modulo Bluetooth HC-05 | Luz led DIP 5mm |
+| ------- | ----------- |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/modulo%20blue.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/luz%20led.jpg"> |
 
 ### Estructura acoplada
 
