@@ -32,6 +32,8 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 ## Lista de elementos
 ## Modelado 3D
 
+| ------- | ----------- |
+| Regulador de energía| Asegurar el suministro |
 
 
 ## Vista explosiva:
