@@ -29,9 +29,7 @@ Ingeniería Biomédica PUCP-UPCH
 ## Fundamneto anatómico la posición de los actuadores
 ### Proyecto preliminar 1:
 
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/03e8da8f-b231-466c-bdc5-cb169cd3af5b">
-</p>
+
 
 
 
