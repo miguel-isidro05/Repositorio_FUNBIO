@@ -78,6 +78,10 @@ En el prototipo que presentamos decidimos optar por colocar estos sensores en la
 | ------- | ----------- |
 | <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/modulo%20blue.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/luz%20led.jpg"> |
 
+| SFR 402 | Actuador resonante |
+| ------- | ----------- |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/sensor.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/ACTUADOR.jpg"> |
+
 ### Estructura acoplada
 
 | Dedo medio | Dedo pulgar |
