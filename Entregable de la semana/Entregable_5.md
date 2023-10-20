@@ -21,7 +21,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 **- [Fundamento anatómico la posición de los actuadores](#Fundaento-anatómico-la-posición-de-los-actuadores)**<br>
 **- [Lista de elementos](#Lista-de-elementos)**<br>
-**- [Modelado 3D](#Tabla-de-Valoración-Técnica)**<br>
+**- [Modelado 3D](#Modelado-3D)**<br>
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
 
 
