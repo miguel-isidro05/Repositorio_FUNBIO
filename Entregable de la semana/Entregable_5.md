@@ -19,18 +19,11 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice
 
-**- [Fundamento anatómico de la posición de actuadores y sensores](#Fundamento-anatómico-de-la-posición-de-actuadores-y-sensores)**<br>
 **- [Lista de elementos](#Lista-de-elementos)**<br>
 **- [Modelado 3D](#Modelado-3D)**<br>
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
 
 
-## Fundamento anatómico de la posición de actuadores y sensores
-El retináculo flexor, o ligamento retináculo flexor, es una estructura que se encuentra en la muñeca y está involucrada en el movimiento de los tendones flexores de la mano y los dedos. Este ligamento es importante para mantener los tendones en su lugar y permitir que funcionen eficazmente al doblar los dedos y la muñeca. Proporcionar retroalimentación en la zona del retináculo flexor podría ser útil en ciertos contextos, especialmente en la terapia ocupacional o fisioterapia, para mejorar la función de los tendones flexores. Si la persona no tiene sensibilidad en los dedos o está trabajando en la mejora de la sensibilidad háptica en esta área, tocar o masajear suavemente la superficie del retináculo flexor podría ayudar a estimular los receptores táctiles en la piel y promover una mayor percepción táctil.
- Los actuadores se ubican en el retináculo flexor debido a varias razones.Al ubicar los actuadores en esta área, se busca imitar el movimiento natural de los dedos y permitir un mayor control y precisión en los movimientos de la prótesis de la mano.Se puede lograr una mejor emulación de los movimientos de flexión y extensión de los dedos. Esto es importante para que la prótesis pueda realizar tareas cotidianas, como agarrar objetos o manipular herramientas, de manera más eficiente y natural.
-Esto permite aprovechar la estructura anatómica existente en la muñeca, lo que puede facilitar la conexión y el control de la prótesis. Al utilizar los tendones flexores existentes en el retináculo flexor, se puede lograr una mejor integración entre la prótesis y el cuerpo, lo que puede mejorar la comodidad y la funcionalidad de la prótesis.
-
-En resumen, ubicar los actuadores en el retináculo flexor de la prótesis de la mano permite imitar el movimiento natural de los dedos, lograr un mayor control y precisión en los movimientos, y aprovechar la estructura anatómica existente en la muñeca.
 
 
 ## Estructuras
