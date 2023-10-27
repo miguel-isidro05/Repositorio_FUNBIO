@@ -87,7 +87,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Pulsera | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Pulsera%203d.jpg">|
+| <p align="center"><img width="445" height="450" src="[WhatsApp Image 2023-10-27 at 07 05 24](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/37dda577-a3d2-44ca-bfc1-e564da4be83b">|
 
 
 
