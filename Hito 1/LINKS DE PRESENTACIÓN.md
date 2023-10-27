@@ -19,10 +19,10 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## LINKS:
 
-## Link de onShape: 
+###  Link de onShape: 
 https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/83d5da68dc0f9d11ed1161a2?renderMode=0&uiState=653ba9cca06d5302d86eaa7d 
 
-## Link de diapositivas: 
+###  Link de diapositivas: 
 https://www.canva.com/design/DAFyNqh3YYE/r45GpGo5k-A6n7lS4QJ2xQ/edit 
 
 
