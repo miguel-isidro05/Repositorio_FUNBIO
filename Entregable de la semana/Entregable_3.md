@@ -68,7 +68,7 @@ Funciones:
 
 ## Matriz morfológica
 <p align="center">
-  <img width="750" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/entregabel%203%20xd.jpg">
+  <img width="750" height="1000" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/228ae7af-e776-4da0-aa17-79042362b04d">
 </p>
 
 ## Tabla de valoración
