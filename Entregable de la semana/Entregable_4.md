@@ -45,7 +45,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 </p>
 <p align="center">
-  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Despiece%202.jpg">
+<img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Despiece%202.jpg">
 </p>
 
 
