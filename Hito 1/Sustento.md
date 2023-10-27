@@ -19,13 +19,13 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-**- [PPOSICIÓN DE LOS ACTUADORES RESONANTES](#POSICIÓN-DE-LOS-ACTUADORES-RESONANTES)**<br>
+**- [Posición de los actuadores resonantes](#Posición-de-los-actuadores-resonantes)**<br>
 **- [¿Por qué es importante la incorporación somatosensorial en la prótesis?](#¿Por-qué-es-importante-la-incorporación-somatosensorial-en-la-prótesis?)**<br>
 **- [¿Por qué tener sensores en la yema de los dedos?](#¿Por-qué-tener-sensores-en-la-yema-de-los-dedos?)**<br>
 
 
 
-## POSICIÓN DE LOS ACTUADORES RESONANTES: 
+## Posición de los actuadores resonantes: 
 
 El retináculo flexor, o ligamento retináculo flexor, es una estructura que se encuentra en la muñeca y está involucrada en el movimiento de los tendones flexores de la mano y los dedos. Este ligamento es importante para mantener los tendones en su lugar y permitir que funcionen eficazmente al doblar los dedos y la muñeca. Si la persona no tiene sensibilidad en los dedos o está trabajando en la mejora de la sensibilidad háptica en esta área, estimular suavemente la superficie del retináculo flexor podría ayudar a estimular los receptores táctiles en la piel y promover una mayor percepción táctil.
 Los actuadores se ubican en el retináculo flexor debido a varias razones. Al ubicar los actuadores en esta área, se busca imitar el movimiento natural de los dedos y permitir un mayor control y precisión en los movimientos de la prótesis de la mano.Se puede lograr una mejor emulación de los movimientos de flexión y extensión de los dedos. Esto es importante para que la prótesis pueda realizar tareas cotidianas, como agarrar objetos o manipular herramientas, de manera más eficiente y natural.
