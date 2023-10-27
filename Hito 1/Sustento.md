@@ -45,7 +45,7 @@ El retináculo flexor es una estructura anatómica ubicada en la muñeca que act
 
 
 
-[“]Panamericana, Asociacion, Anatomia DE, Bianchi HF, Medan CD, Algieri RD, Nicolás E, et al. asociación argentina de anatomía. 2015 [citado el 27 de octubre de 2023]; Disponible en: https://www.revista-anatomia.com.ar/archivo/2015-3-revista-argentina-de-anatomia-online.pdf
+[2]Panamericana, Asociacion, Anatomia DE, Bianchi HF, Medan CD, Algieri RD, Nicolás E, et al. asociación argentina de anatomía. 2015 [citado el 27 de octubre de 2023]; Disponible en: https://www.revista-anatomia.com.ar/archivo/2015-3-revista-argentina-de-anatomia-online.pdf
 
 
 
@@ -60,7 +60,7 @@ Es importante que los pacientes amputados tengan este sistema somatosensorial pa
 
 
 
-Salminger S, Stino H, Pichler LH, Gstoettner C, Sturma A, Mayer JA, et al. Current rates of prosthetic usage in upper-limb amputees – have innovations had an impact on device acceptance? Disabil Rehabil [Internet]. 2022;44(14):3708–13. Disponible en: http://dx.doi.org/10.1080/09638288.2020.1866684
+[3] Salminger S, Stino H, Pichler LH, Gstoettner C, Sturma A, Mayer JA, et al. Current rates of prosthetic usage in upper-limb amputees – have innovations had an impact on device acceptance? Disabil Rehabil [Internet]. 2022;44(14):3708–13. Disponible en: http://dx.doi.org/10.1080/09638288.2020.1866684
 
 
 
@@ -68,17 +68,10 @@ Salminger S, Stino H, Pichler LH, Gstoettner C, Sturma A, Mayer JA, et al. Curre
 
 
 
-## Tabla de Valoración Técnica: 
+## ¿Por qué tener sensores en la yema de los dedos ?
+La percepción periférica de las sensaciones vibrotáctiles depende del tipo, número y propiedades características de los mecanorreceptores de la piel. Estos mecanorreceptores son capaces de activar y detectar la amplitud y duración de la estimulación activando y desactivando canales dependientes del voltaje (mecanismos de adaptación). Además, la ubicación de los mecanorreceptores a lo largo de la superficie corporal en la piel sin pelo y en la piel con pelo dará como resultado una detección diferente de los estímulos vibratorios, principalmente dependiendo de su frecuencia. Las vibraciones tienen propiedades físicas esenciales que permiten codificarlas y distinguir correctamente entre señales. La colocación de los sensores en la yema de los dedos es una zona estratégica ya que en una prótesis somatosensorial proporciona información táctil importante. Estos sensores pueden detectar diferentes tipos de estímulos táctiles como la presión, la textura y la temperatura gracias a los receptores táctiles en la yema de los dedos como los corpúsculos de Meissner ,de Pacini, De Ruffini y de Merkel , que son especialmente sensibles a estas señales táctiles . El corpúsculo de Meissner y Merkel son responsables de detectar el tacto suave y los cambios de presión como también textura de los objetos respectivamente. El corpúsculo de Pacini es un receptor de adaptación rápida que responde al inicio y final de la desviación mecánica y a las vibraciones de alta frecuencia. Los corpúsculos de Ruffini son receptores sensoriales situados en la piel que perciben los cambios de temperatura relacionados con el calor y registran su estiramiento.
 
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8467a41f-b550-407e-a66a-6fafe47d61ad">
-</p>
-
-## Tabla de Valoración Económica:
-
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/tabla%202.jpg">
-</p>
+[4] Malamud-Kessler DC. Fisiología de la vibración Fisiología de la vibración Physiology of vibration sense [Internet]. Revmexneurociencia.com. 2014 [citado el 26 de octubre de 2023]. Disponible en: https://previous.revmexneurociencia.com/wp-content/uploads/2014/05/Nm143-06-Fisio.pdf
 
 
 ## Proyecto Óptimo:
