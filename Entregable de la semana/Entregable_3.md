@@ -68,7 +68,7 @@ Funciones:
 
 ## Matriz morfológica
 <p align="center">
- [image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/6bc7c346-7bbf-438e-a982-dc4a6605d573)
+  <img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/6bc7c346-7bbf-438e-a982-dc4a6605d573">
 
 </p>
 
