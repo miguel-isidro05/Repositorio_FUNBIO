@@ -92,7 +92,9 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Diseño esquemático 
-![ultima-1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/35a196f0-e402-491e-87ba-0b3816a18752)
+![WhatsApp Image 2023-10-27 at 07 05 24](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/dd640d5e-86f0-4714-b8fa-f7dfbcf7b097)
+![5-1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/ec997614-358c-43f0-82c2-4d261653c9ee)
+
 
 Link del sketchfab.
 https://sketchfab.com/ArianaRoca
