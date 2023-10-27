@@ -81,9 +81,9 @@ Ingeniería Biomédica PUCP-UPCH
 
 ### Estructura acoplada
 
-| Dedo medio | Dedo pulgar |
+| Dedo medio |
 | ------- | ----------- |
-| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio.jpg">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20pulgar.jpg"> |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio.jpg">|
 
 | Pulsera | 
 | ----------- |
