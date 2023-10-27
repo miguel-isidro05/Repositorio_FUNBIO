@@ -25,4 +25,7 @@ https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05a
 ###  Link de diapositivas: 
 https://www.canva.com/design/DAFyNqh3YYE/r45GpGo5k-A6n7lS4QJ2xQ/edit 
 
+###  Link de TINKERCAD:
+https://www.tinkercad.com/things/8y2y9BStGQN-copy-of-codigo-final/editel
+
 
