@@ -75,3 +75,10 @@ La percepción periférica de las sensaciones vibrotáctiles depende del tipo, n
 [5] Antfolk C, D’Alonzo M, Controzzi M, Lundborg G, Rosen B, Sebelius F, et al. Artificial redirection of sensation from prosthetic fingers to the phantom hand map on transradial amputees: Vibrotactile versus mechanotactile sensory feedback. IEEE Trans Neural Syst Rehabil Eng [Internet]. 2013 [citado el 26 de octubre de 2023];21(1):112–20. Disponible en: https://pubmed.ncbi.nlm.nih.gov/23033439/
 
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/250a8753-bbbd-42ba-9405-d2a01cd8e746)
+[6]Despopoulos A, Silbernagl S. Color Atlas of Physiology [Internet]. Thieme Medical Publishers. 1991 [citado el 26 de octubre de 2023]. Disponible en: https://www.iberlibro.com/Color-Atlas-Physiology-Despopoulos-Agamemnon-Silbernagl/30891925330/bd
+
+La sensibilidad vibratoria en la periferia tiene distintas características dependiendo de la región corporal que reciba su aferencia. Desde el punto de vista mecánico el sinusoide vibratorio posee distintas características (amplitud y frecuencia de disparo), que le confieren distintas propiedades y que generarán distintas características de la percepción vibrotáctil. La vía de transmisión del estímulo vibratorio consta de cuatro relevos conocidos que conservan una distribución somatotópica a lo largo del trayecto, y la codificación de las características vibro-mecánicas le confieren propiedades específicas.
+
+[image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/ec05c94f-501c-42ce-bb12-8430081e262c)
+[7]Talbot WH, Darian-Smith I, Kornhuber HH, Mountcastle VB. The sense of flutter-vibration: comparison of the human capacity with response patterns of mechanoreceptive afferents from the monkey hand. J Neurophysiol [Internet]. 1968 [citado el 26 de octubre de 2023];31(2):301–34. Disponible en: https://pubmed.ncbi.nlm.nih.gov/4972033/
+
