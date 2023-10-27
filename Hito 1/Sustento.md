@@ -20,10 +20,9 @@ Ingeniería Biomédica PUCP-UPCH
 ## Indice.
 
 **- [PPOSICIÓN DE LOS ACTUADORES RESONANTES](#POSICIÓN-DE-LOS-ACTUADORES-RESONANTES)**<br>
-**- [Tabla de Valoración Técnica](#Tabla-de-Valoración-Técnica)**<br>
-**- [Tabla de Valoración Económica](#Tabla-de-Valoración-Económica)**<br>
-**- [Proyecto Óptimo](#Proyecto-Óptimo)**<br>
-**- [Conclusión](#Conclusión)**<br>
+**- [¿Por qué es importante la incorporación somatosensorial en la prótesis?](#¿Por-qué-es-importante-la-incorporación-somatosensorial-en-la-prótesis?)**<br>
+**- [¿Por qué tener sensores en la yema de los dedos?](#¿Por-qué-tener-sensores-en-la-yema-de-los-dedos?)**<br>
+
 
 
 ## POSICIÓN DE LOS ACTUADORES RESONANTES: 
@@ -68,20 +67,11 @@ Es importante que los pacientes amputados tengan este sistema somatosensorial pa
 
 
 
-## ¿Por qué tener sensores en la yema de los dedos ?
-La percepción periférica de las sensaciones vibrotáctiles depende del tipo, número y propiedades características de los mecanorreceptores de la piel. Estos mecanorreceptores son capaces de activar y detectar la amplitud y duración de la estimulación activando y desactivando canales dependientes del voltaje (mecanismos de adaptación). Además, la ubicación de los mecanorreceptores a lo largo de la superficie corporal en la piel sin pelo y en la piel con pelo dará como resultado una detección diferente de los estímulos vibratorios, principalmente dependiendo de su frecuencia. Las vibraciones tienen propiedades físicas esenciales que permiten codificarlas y distinguir correctamente entre señales. La colocación de los sensores en la yema de los dedos es una zona estratégica ya que en una prótesis somatosensorial proporciona información táctil importante. Estos sensores pueden detectar diferentes tipos de estímulos táctiles como la presión, la textura y la temperatura gracias a los receptores táctiles en la yema de los dedos como los corpúsculos de Meissner ,de Pacini, De Ruffini y de Merkel , que son especialmente sensibles a estas señales táctiles . El corpúsculo de Meissner y Merkel son responsables de detectar el tacto suave y los cambios de presión como también textura de los objetos respectivamente. El corpúsculo de Pacini es un receptor de adaptación rápida que responde al inicio y final de la desviación mecánica y a las vibraciones de alta frecuencia. Los corpúsculos de Ruffini son receptores sensoriales situados en la piel que perciben los cambios de temperatura relacionados con el calor y registran su estiramiento.
+## ¿Por qué tener sensores en la yema de los dedos?
+La percepción periférica de las sensaciones vibrotáctiles depende del tipo, número y propiedades características de los mecanorreceptores de la piel. Estos mecanorreceptores son capaces de activar y detectar la amplitud y duración de la estimulación activando y desactivando canales dependientes del voltaje (mecanismos de adaptación). Además, la ubicación de los mecanorreceptores a lo largo de la superficie corporal en la piel sin pelo y en la piel con pelo dará como resultado una detección diferente de los estímulos vibratorios, principalmente dependiendo de su frecuencia. Las vibraciones tienen propiedades físicas esenciales que permiten codificarlas y distinguir correctamente entre señales. La colocación de los sensores en la yema de los dedos es una zona estratégica ya que en una prótesis somatosensorial proporciona información táctil importante. Estos sensores pueden detectar diferentes tipos de estímulos táctiles como la presión, la textura y la temperatura gracias a los receptores táctiles en la yema de los dedos como los corpúsculos de Meissner ,de Pacini, De Ruffini y de Merkel , que son especialmente sensibles a estas señales táctiles . El corpúsculo de Meissner y Merkel son responsables de detectar el tacto suave y los cambios de presión como también textura de los objetos respectivamente. El corpúsculo de Pacini es un receptor de adaptación rápida que responde al inicio y final de la desviación mecánica y a las vibraciones de alta frecuencia. Los corpúsculos de Ruffini son receptores sensoriales situados en la piel que perciben los cambios de temperatura relacionados con el calor y registran su estiramiento. En resumen tener sensores de fuerza en las yemas de los dedos de la prótesis ayuda a proporcionar estímulos de retroalimentación fisiológica a través de una interfaz hombre-máquina adecuada , en ello se puede recuperar la funcionalidad completa de la mano y, por lo tanto, podría reducir la tasa de abandono que experimentan los pacientes.
 
 [4] Malamud-Kessler DC. Fisiología de la vibración Fisiología de la vibración Physiology of vibration sense [Internet]. Revmexneurociencia.com. 2014 [citado el 26 de octubre de 2023]. Disponible en: https://previous.revmexneurociencia.com/wp-content/uploads/2014/05/Nm143-06-Fisio.pdf
 
+[5] Antfolk C, D’Alonzo M, Controzzi M, Lundborg G, Rosen B, Sebelius F, et al. Artificial redirection of sensation from prosthetic fingers to the phantom hand map on transradial amputees: Vibrotactile versus mechanotactile sensory feedback. IEEE Trans Neural Syst Rehabil Eng [Internet]. 2013 [citado el 26 de octubre de 2023];21(1):112–20. Disponible en: https://pubmed.ncbi.nlm.nih.gov/23033439/
 
-## Proyecto Óptimo:
-
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/dd27c313-3295-4cf4-9689-fc51109253ec">
-</p>
-<p align="center">
-  <img  src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/3ef5a960-00ba-4f8e-ac72-518445e7dcda">
-</p>
-
-## Conclusión: 
-Como proyecto óptimo, se eligió el proyecto preliminar número 2 debido a su excelente funcionamiento y ergonomía permitiendo un nivel de comodidad y ajuste al usuario. Por otro lado, este cuenta con óptimo montaje y libertad de movimiento. Asi como un bajocosto de elaboración con respecto a los demás proyectos, en donde el estilo y la éstética van de la mano con la durabilidad del material.
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/250a8753-bbbd-42ba-9405-d2a01cd8e746)
