@@ -37,7 +37,10 @@ Ingeniería Biomédica PUCP-UPCH
 ## Prototipado de Software 
 ### 1. Paper prototype
 ### 2. Clickable prototype
-[https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type=design&node-id=111-177&t=CuifoEGz4Qve8rY7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A47&mode=design]
+<p align="center">
+  <img width="1100" height="800" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143196783/a384d1b3-f976-49b3-a6ed-878b1405316f">
+
+Link de Figma: https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type=design&node-id=111-177&t=CuifoEGz4Qve8rY7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A47&mode=design
 
 ### 2. Coding prototype
 
