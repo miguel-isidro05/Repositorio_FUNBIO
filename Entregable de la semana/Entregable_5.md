@@ -87,8 +87,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Dedo medio | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143196783/39e4f042-2437-427e-892f-72f417521a94
-">|
+| <p align="center"><img width="425" height="425" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/DEDO%20FINAL%20.png?raw=true">|
 
 | Emsamblaje | 
 | ----------- |
