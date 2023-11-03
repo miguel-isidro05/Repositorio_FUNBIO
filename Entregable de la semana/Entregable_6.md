@@ -55,6 +55,9 @@ Link de Figma: [https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type
 ### Codigo de los servomotores
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/106a857f-3669-4b18-bfe1-74c99b372a9c)
 
+### Codigo de la app
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/6647e2ea-b1c8-45b1-847f-8dc7a50d28db)
+
 ## Evidencia de funcionamiento 
 ### 1. Imágenes
 ![08ccd47f-afa2-4387-82ce-b142aa510114](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/e4312009-03b7-4f44-a9de-34343fce1a9b)
@@ -62,13 +65,11 @@ Link de Figma: [https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type
 
 ### 2. Video explicativo 
 ### Video del servomotor funcionando
-
-
 https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/0fc94c23-70ac-4db5-a36c-8e637ec682d2
-
 
 ### Video de la prueba con bluetooth
 https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/1cc79b15-40a3-4681-8962-9aa97c0a9672
+
 
 
 
