@@ -37,7 +37,7 @@ Ingeniería Biomédica PUCP-UPCH
 ## Prototipado de Software 
 ### 1. Paper prototype
 ### 2. Clickable prototype
-[[https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type=design&node-id=111-177&t=CuifoEGz4Qve8rY7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A47&mode=design]
+[https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type=design&node-id=111-177&t=CuifoEGz4Qve8rY7-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A47&mode=design]
 
 ### 2. Coding prototype
 
