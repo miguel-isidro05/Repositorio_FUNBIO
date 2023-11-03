@@ -25,18 +25,18 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Evidencia de funcionamiento](#Evidencia-de-funcionamiento)**<br>
 
 
-## Diagrama de flujo de datos (DFD) :
+## Diagrama de flujo de datos (DFD) 
 
 
-## Diagrama de flujo del usuario  :
+## Diagrama de flujo del usuario  
 
-## Prototipado de Software :
+## Prototipado de Software 
 ### 1. Paper prototype
 ### 2. Clickable prototype
 ### 2. Coding prototype
 
 
-## Evidencia de funcionamiento : 
+## Evidencia de funcionamiento 
 ### 1. Imágenes
 ### 2. Video explicativo 
 
