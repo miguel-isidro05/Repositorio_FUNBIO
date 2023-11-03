@@ -38,7 +38,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Caja de componentes electronicos | Pieza sujetadora|
 | ------- | ----------- |
-| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Caja%20de%20componentes%201.png?raw=true">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Tapa%20de%20caja%20de%20componentes%20ENSAMBLE%20121.png?raw=true"> |
+| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Caja%20de%20componentes%201.png?raw=true">| <p align="center"><img width="3000" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Pieza%20sujetadora%20ENSAMBLE%201.png?raw=true"> |
 
 | Tapa de la caja de componentes electronicos | 
 | ----------- |
