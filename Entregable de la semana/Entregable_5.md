@@ -102,4 +102,4 @@ Link del sketchfab.
 https://sketchfab.com/ArianaRoca
 
 Link del oneshape.
-https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/17a1e1f20c3112a1085765bd
+https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/50bc1242193f3fa99f1fa690?renderMode=0&uiState=6544c6831f49927ebc7b845d
