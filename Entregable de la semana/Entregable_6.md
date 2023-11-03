@@ -26,6 +26,9 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Diagrama de flujo de datos (DFD) 
+![2](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/e1cc17b3-ea58-4109-8b3e-0a95ee04a8ea)
+![1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/141457b3-da60-40c3-afa8-8253a7588571)
+![2](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/e1cc17b3-ea58-4109-8b3e-0a95ee04a8ea)
 
 
 ## Diagrama de flujo del usuario  
