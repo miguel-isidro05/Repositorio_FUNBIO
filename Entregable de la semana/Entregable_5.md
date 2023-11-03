@@ -42,7 +42,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Tapa de la caja de componentes electronicos | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Tapa%20de%20caja%20de%20componentes%20ENSAMBLE%20121.png?raw=true">|
+| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Caja%20de%20componentes%201.png?raw=true">|
 
 ## Modelado 3D
 ### Lista de componentes
