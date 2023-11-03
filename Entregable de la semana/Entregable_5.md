@@ -83,7 +83,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Pulsera | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="">|
+| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/CAJA.png?raw=true">|
 
 | Dedo medio | 
 | ----------- |
