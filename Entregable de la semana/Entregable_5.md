@@ -19,7 +19,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice
 
-**- [Lista de elementos](#Lista-de-elementos)**<br>
+**- [Estructuras](#Estructuras)**<br>
 **- [Modelado 3D](#Modelado-3D)**<br>
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
 
