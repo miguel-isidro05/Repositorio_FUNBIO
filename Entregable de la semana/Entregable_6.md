@@ -25,10 +25,10 @@ Ingeniería Biomédica PUCP-UPCH
 **- [Evidencia de funcionamiento](#Evidencia-de-funcionamiento)**<br>
 
 
-## Diagrama de flujo de datos (DFD) 
+## Diagrama de flujo de datos 
 
-
-
+![1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/608b40c2-337a-4dbb-a80f-993cfacab726)
+![2](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/37dca77c-09fe-46e3-be5b-b43ce4b0dcdf)
 
 ## Diagrama de flujo del usuario  
 
