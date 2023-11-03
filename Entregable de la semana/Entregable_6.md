@@ -26,9 +26,9 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Diagrama de flujo de datos 
+![Diagrama de Flujo Desarrollo de Procesos Moderno Beige y Rosa ](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/8a014c93-600f-49a3-bdb0-83f99b6c9470)
 
-![1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/608b40c2-337a-4dbb-a80f-993cfacab726)
-![2](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/37dca77c-09fe-46e3-be5b-b43ce4b0dcdf)
+
 
 ## Diagrama de flujo del usuario  
 
