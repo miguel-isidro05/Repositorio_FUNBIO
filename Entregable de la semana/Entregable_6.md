@@ -45,7 +45,8 @@ Ingeniería Biomédica PUCP-UPCH
 
 Link de Figma: [https://www.figma.com/proto/nE1P0fCxvQmKNnJzHlf0it/Untitled?type=design&node-id=104-47&t=EIIGjFsXWZgh3l3k-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=104%3A47&mode=design]
 
-### 2. Coding prototype
+### 3. Coding prototype
+#### Codigo del bluetooth enlazado al circuito
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/7263ce91-a3ac-40ca-adc8-2a94b2306f73)
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/bea9f678-688b-41ae-bea9-67533ff61b80)
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/84ad1fb1-98af-49a6-8568-f789eb541643)
