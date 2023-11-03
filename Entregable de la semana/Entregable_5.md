@@ -89,7 +89,9 @@ Ingeniería Biomédica PUCP-UPCH
 | ----------- |
 | <p align="center"><img width="445" height="450" src="">|
 
-
+| Emsamblaje | 
+| ----------- |
+| <p align="center"><img width="445" height="450" src="">|
 
 ## Diseño esquemático 
 ![Schematic-funbio-2023-10-27-1 (2)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b1daa231-e505-4099-a716-7cbdc6de191a)
