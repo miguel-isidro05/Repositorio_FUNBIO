@@ -19,7 +19,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice.
 
-**- [Diagrama de flujo de datos (DFD)](#Diagrama-de-flujo-de-datos-(DFD))**<br>
+**- [Diagrama de flujo de datos](#Diagrama-de-flujo-de-datos)**<br>
 **- [Diagrama de flujo del usuario](#Diagrama-de-flujo-del-usuario)**<br>
 **- [Prototipado de Software](#Prototipado-de-Software)**<br>
 **- [Evidencia de funcionamiento](#Evidencia-de-funcionamiento)**<br>
