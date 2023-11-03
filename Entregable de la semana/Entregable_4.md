@@ -41,7 +41,7 @@ Ingeniería Biomédica PUCP-UPCH
 ### Proyecto preliminar 2:
 
 <p align="center">
-<img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/a7b822b4-37ec-4c1d-af76-671811eb8970](https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/BOCETO%20FINAL.png?raw=true">
+<img src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/BOCETO%20FINAL.png?raw=true">
 
 </p>
 <p align="center">
