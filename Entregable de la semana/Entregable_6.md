@@ -31,7 +31,8 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Diagrama de flujo del usuario  
-https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Diagrama%20en%20blanco.png?raw=true
+<p align="center">
+  <img width="900" height="210" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Diagrama%20en%20blanco.png?raw=true">
 
 ## Prototipado de Software 
 ### 1. Paper prototype
