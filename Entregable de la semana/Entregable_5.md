@@ -91,7 +91,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Emsamblaje | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="">|
+| <p align="center"><img width="450" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/PROTOTIPADO%20FINALLL.png?raw=true">|
 
 ## Diseño esquemático 
 ![Schematic-funbio-2023-10-27-1 (2)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b1daa231-e505-4099-a716-7cbdc6de191a)
