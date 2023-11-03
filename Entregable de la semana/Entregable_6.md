@@ -31,6 +31,10 @@ Ingeniería Biomédica PUCP-UPCH
 ## Diagrama de flujo del usuario  :
 
 ## Prototipado de Software :
+### 1. Paper prototype
+### 2. Clickable prototype
+### 2. Coding prototype
+
 
 ## Evidencia de funcionamiento : 
 ### 1. Imágenes
