@@ -83,16 +83,17 @@ Ingeniería Biomédica PUCP-UPCH
 
 | Pulsera | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/718727c4-7ff1-47fe-85c2-886f8e1ed881">|
+| <p align="center"><img width="445" height="450" src="">|
 
 | Dedo medio | 
 | ----------- |
-| <p align="center"><img width="445" height="450" src="https://github.com/miguel-isidro05/Repositorio_FUNBIO/blob/main/Im%C3%A1genes/Dedo%20medio.jpg">|
+| <p align="center"><img width="445" height="450" src="">|
 
 
 
 ## Diseño esquemático 
-![5-1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/ec997614-358c-43f0-82c2-4d261653c9ee)
+![Schematic-funbio-2023-10-27-1 (2)](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/b1daa231-e505-4099-a716-7cbdc6de191a)
+
 
 
 Link del sketchfab.
