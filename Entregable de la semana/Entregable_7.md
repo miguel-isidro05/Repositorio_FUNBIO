@@ -20,8 +20,9 @@ Ingeniería Biomédica PUCP-UPCH
 ## Indice
 
 **- [Limitaciones en la manufactura digital](#Limitaciones_en_la_manufactura_digital)**<br>
-**- [Limitaciones en la electrónica](#RLimitaciones_en_la_electrónica)**<br>
+**- [Limitaciones en Hardware y Electrónica](#RLimitaciones_en_Hardware_y_Electrónica)**<br>
 **- [Retos](#Retos)**<br>
+**- [Módulos del prototipo](#Módulos_del_prototipo)**<br>
 
 
 
@@ -29,7 +30,7 @@ Ingeniería Biomédica PUCP-UPCH
 ## Limitaciones en la manufactura digital
 
 
-## Limitaciones en la electrónica
+## Limitaciones en Hardware y Electrónica
 
 
 ## Retos
