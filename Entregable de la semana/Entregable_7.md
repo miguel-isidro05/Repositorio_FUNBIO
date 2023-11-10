@@ -35,7 +35,6 @@ Ingeniería Biomédica PUCP-UPCH
 ## Retos
 ![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/f1a3bd7f-7c13-488d-8268-1d69fdf0b067)
 
-## Módulos del prototipo
 
 
 
