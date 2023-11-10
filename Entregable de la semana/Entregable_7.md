@@ -19,8 +19,8 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice
 
-**- [Estructuras](#Estructuras)**<br>
-**- [Modelado 3D](#Modelado-3D)**<br>
+**- [Retos y limitaciones en la manufactura digital](#Retos_y_limitaciones_en_la_manufactura_digital)**<br>
+**- [Retos y limitaciones en la electrónica](#Retos_y_limitaciones_en_la_electrónica)**<br>
 **- [Diseño esquemático](#Diseño-esquemático)**<br>
 
 
@@ -34,8 +34,4 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 
-Link del sketchfab.
-https://sketchfab.com/ArianaRoca
 
-Link del oneshape.
-https://cad.onshape.com/documents/2a936acb983a3fbe3d396402/w/006b9284bf17206e05abc571/e/50bc1242193f3fa99f1fa690?renderMode=0&uiState=6544c6831f49927ebc7b845d
