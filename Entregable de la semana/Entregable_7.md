@@ -21,6 +21,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 **- [Retos y limitaciones en la manufactura digital](#Retos_y_limitaciones_en_la_manufactura_digital)**<br>
 **- [Retos y limitaciones en la electrónica](#Retos_y_limitaciones_en_la_electrónica)**<br>
+**- [Reporte de pruebas](#Reporte_de_pruebas)**<br>
 
 
 
@@ -29,6 +30,9 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Retos y limitaciones en la electrónica
+
+
+## Reporte de pruebas
 
 
 
