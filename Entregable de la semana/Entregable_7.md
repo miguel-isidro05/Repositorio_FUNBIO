@@ -19,20 +19,21 @@ Ingeniería Biomédica PUCP-UPCH
 
 ## Indice
 
-**- [Retos y limitaciones en la manufactura digital](#Retos_y_limitaciones_en_la_manufactura_digital)**<br>
-**- [Retos y limitaciones en la electrónica](#Retos_y_limitaciones_en_la_electrónica)**<br>
-**- [Reporte de pruebas](#Reporte_de_pruebas)**<br>
+**- [Limitaciones en la manufactura digital](#Limitaciones_en_la_manufactura_digital)**<br>
+**- [Limitaciones en la electrónica](#RLimitaciones_en_la_electrónica)**<br>
+**- [Retos](#Retos)**<br>
 
 
 
 
-## Retos y limitaciones en la manufactura digital
+## Limitaciones en la manufactura digital
 
 
-## Retos y limitaciones en la electrónica
+## Limitaciones en la electrónica
 
 
-## Reporte de pruebas
+## Retos
+![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/f1a3bd7f-7c13-488d-8268-1d69fdf0b067)
 
 
 
