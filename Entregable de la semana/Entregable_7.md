@@ -27,9 +27,11 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Limitaciones en la manufactura digital
+![1](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/bbad570f-32f6-473e-8892-6765a47fac74)
 
 
 ## Limitaciones en Hardware y Electrónica
+![2](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/4c2a3aef-867b-4911-9161-ed683ceb268c)
 
 
 ## Retos
