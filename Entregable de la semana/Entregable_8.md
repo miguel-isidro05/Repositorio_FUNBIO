@@ -27,7 +27,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 
 ## Verificación de diseño de Hardware-Software
-![image](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018589/73c7d763-515b-40cd-bd6b-f2e1a00128af)
+![entregable 8](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/b6ffa2e9-7b8c-400b-b675-347a2b623f39)
 ![entregable 8](https://github.com/miguel-isidro05/Repositorio_FUNBIO/assets/143018639/66117cda-593e-4f01-ae43-dcdd636e4f14)
 
 
