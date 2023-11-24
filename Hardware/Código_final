@@ -1,0 +1,116 @@
+#include <SoftwareSerial.h>
+
+#define rxPin 0 //RX
+#define txPin 1 //TX
+
+int estado = 0;
+SoftwareSerial BTSerial(0,1); //RX, TX (libreria SoftwareSerial)
+
+int rojo=9;
+int verde=10;
+int azul=11;
+
+int vib_estacionaria;
+int valor;
+
+String fuerza_vibracion_estacionario;
+
+const int vibrador=2;
+double valor_vib;
+
+void setup()
+{
+  Serial.begin(9600);
+  BTSerial.begin(9600); //baudios del  BTSerial que sera lo del bluetooth
+
+  pinMode(rojo,OUTPUT);
+  pinMode(verde,OUTPUT);
+  pinMode(azul,OUTPUT);
+
+  pinMode(A5, INPUT);
+  pinMode(vibrador,OUTPUT);
+}
+
+void Color(int G, int B, int R) {     
+  analogWrite(verde, G) ;   // Green - Verde 
+  analogWrite(azul, B) ;   // Blue - Azul
+  analogWrite(rojo, R) ;   // Red - Rojo
+}
+
+void loop()
+{
+  valor = map (analogRead(A5),0,1023,0,70);
+
+  if( BTSerial.available()>0) //Si el bluetoh esta recibiendo datos
+  {
+    estado = BTSerial.read(); //estado cambia dependiendo de que valor se asigne en el monitor serial
+  }
+  
+  switch( estado)
+  {
+    
+    case 'a':
+    if((valor>5) and (valor<=22.5)) //intensidad baja
+    {
+      Color(255,0,0);
+      
+      fuerza_vibracion_estacionario= (String) valor + "," + "bajo";
+      Serial.println(fuerza_vibracion_estacionario);
+      
+      
+      analogWrite (vibrador, 80);
+      delay(200); 
+
+      break;
+    }
+    if((valor>22.5) and (valor<=40)){// fuerza moderada
+      
+      Color(0,255,0);
+       
+      fuerza_vibracion_estacionario= (String) valor + "," + "Mediano";
+      Serial.println(fuerza_vibracion_estacionario);
+   
+
+      analogWrite (vibrador, 100) ;
+      
+      delay(200); 
+      break;
+    }
+    if((valor>40)){// fuerza moderada
+      Color(0,0,255);
+      
+      fuerza_vibracion_estacionario= (String) valor + "," + "Alto";
+      Serial.println(fuerza_vibracion_estacionario);
+    
+      analogWrite (vibrador, 120) ;
+      delay(200);
+      break;
+    }   
+    else{
+       Color(0,0,0);
+       fuerza_vibracion_estacionario= "No detecta valores" + "," + "No detecta valores";
+       Serial.println(fuerza_vibracion_estacionario);
+
+       analogWrite (vibrador, 0) ;
+       delay(200);
+       break;
+    }
+
+    case 'b':
+     Color(0,0,0);
+     analogWrite (vibrador, 0) ;
+    break;
+ 
+    
+    case 'c':
+    vib_estacionaria = estado;
+
+    Serial.print("Desactivado,Desactivado,");
+    Serial.println(vib_estacionaria);
+    analogWrite (vibrador, vib_estacionaria) ;
+    break;
+
+  }
+  
+
+}
