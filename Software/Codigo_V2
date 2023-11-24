@@ -1,4 +1,4 @@
-
+------- Codigo Arduino v2-----
 #include <SoftwareSerial.h>
 
 #define rxPin 0 //RX
