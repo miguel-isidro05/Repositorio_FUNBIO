@@ -1,0 +1,59 @@
+------- Codigo Arduino v1-----
+
+  int valor; //lectura del sensor
+int sw = 13;
+int in = A5;
+
+double v = 0.0;
+double v2 = 0.0;
+double F = 0.0;
+double Rs = 0.0;
+double w = 0.0;
+
+void setup() 
+{
+  pinMode(4, OUTPUT);
+  pinMode(5, OUTPUT);
+  pinMode(6, OUTPUT);
+
+  Serial.begin(9600);
+
+}
+void loop() 
+{
+   
+    valor = map (analogRead(A5),0,1023,0,70);
+    v=(analogRead(A0));//lectura de la terminal A0
+    v2 = (v*5)/1023; //conversión de lo que lee arduino a voltaje
+    Rs = 15*(5/v2 - 1);//relación de conversión arduino a newtons
+    F = pow(Rs/6.0075,-1/0.701);//Cálculo de la fuerza en Newtons
+    //F=m*g Fórmula de cálculo de masa
+    Serial.print(F);
+    Serial.print("N,m");
+    //Serial.print(m);
+    Serial.print("g");//gramos 
+    Serial.print("\n");
+    
+    if((valor>0) and (valor<=10.5)){ 
+    
+      digitalWrite(4, HIGH);
+      delay(500);
+      digitalWrite(4, LOW);
+      delay(0);
+    }
+    if((valor>10.5) and (valor<=35.5)){// fuerza muy grande
+      digitalWrite(5, HIGH);
+      delay(500);
+      digitalWrite(5, LOW);
+      delay(0);
+      
+    }
+    if((valor>35.5)){// fuerza muy grande
+      digitalWrite(6, HIGH);
+      delay(500);
+      digitalWrite(6, LOW);
+      delay(0);
+      
+    }
+    
+}
