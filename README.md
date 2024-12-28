@@ -30,6 +30,4 @@ Ingeniería Biomédica PUCP-UPCH
 
 [**Acerca de nuestra investigación**](https://github.com/miguel-isidro05/Repositorio_FUNBIO/tree/main/Entregable%20de%20la%20semana)<br>
 
-Link de la presentacion final (Resumen del proyecto): https://www.canva.com/design/DAF09d_0g50/7AdxBqAeqdWBqCRLxvMySw/edit
-
-Drive de los videos del funcionamiento:
+Link de la presentacion final (Resumen del proyecto y videos): https://www.canva.com/design/DAF09d_0g50/7AdxBqAeqdWBqCRLxvMySw/edit
