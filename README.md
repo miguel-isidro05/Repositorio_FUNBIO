@@ -13,7 +13,7 @@ Ingeniería Biomédica PUCP-UPCH
 
 </p>
   <h5 align="center">
-    Tema de proyecto: Sistema somatosensoriales en prótesis no invasivas del miembro superior
+    Tema de proyecto: Sistema de retroalimentación somatosensorial para una prótesis de miembro superior
   </h5>
   
 </p>
